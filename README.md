@@ -1,2 +1,2 @@
 # Python-eng-projects
-Projetos como fogo em transformação e estruturar dados / engenharia
+Projetos como foco em transformação e estruturar dados / engenharia
