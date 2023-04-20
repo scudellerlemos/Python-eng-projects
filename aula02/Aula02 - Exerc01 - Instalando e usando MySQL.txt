@@ -1,0 +1,131 @@
+#########################################################
+# Curso: Data Science and Artificial Intelligence
+# Disciplina: Data Architecture, Integration and Ingestion
+# Data: 2023
+# Prof.: Ivan Gancev - profivan.gancev@fiap.com.br
+#        Leandro Mendes - profleandro.mendes@fiap.com.br
+#########################################################
+
+------------------------------------
+--INÍCIO EXERCÍCIO
+--1) Cirar um container a partir da imagem baixada
+docker run --name MySQL -it ivangancev/ubuntusql:latest bash
+
+--2) Instalação do MySQL
+apt install mysql-server
+
+--3) Inicie o serviço do MySQL
+service mysql start 
+
+--4) Acessar o CLI do MySQL
+mysql
+
+--5) Crie um database
+create database db_dts;
+
+--6) Acesse seu database
+use db_dts;
+
+--7) Crie uma tabela
+create table aula_mysql(campo1 int, campo2 char(10));
+
+--8) Insira um registro
+insert into db_dts.aula_mysql values (1,'fiap1');
+
+--9) Consulte os dados
+select * from db_dts.aula_mysql;
+
+------------------------------------
+--USUÁRIOS E ACESSOS
+
+--10) Criar um usuário no MySQL
+CREATE USER 'fiap'@'localhost' IDENTIFIED BY 'f1@p';
+
+--11) Saia do CLI do MySQL
+quit
+
+--12) Acessar o CLI MySQL com o usuário fiap
+mysql -u fiap -p
+
+--13) Tente inserir um registro na tabela aula_mysql
+insert into db_dts.aula_mysql values (1,'fiap1');
+
+--14) volte para o usuário root
+quit
+mysql
+
+--15) Dar permissão ao usuário fiap na tabela aula_mysql​
+GRANT all ON db_dts.aula_mysql TO 'fiap'@'localhost';
+
+--16) Sair do CLI e reconectar com o usuário fiap
+quit
+mysql -u fiap -p
+
+--17) Tente inserir um registro na tabela aula_mysql
+insert into db_dts.aula_mysql values (2,'fiap2');
+
+--18) Consulte os registros
+select * from db_dts.aula_mysql;
+
+------------------------------------
+--MANIPULAÇÃO DE DADOS
+
+--19) Alterar um registro na tabela aula_mysql​
+update db_dts.aula_mysql set campo2='fiap_2' where campo2='fiap2';
+
+--20) Consultar os registros da tabela aula_mysql​
+select * from db_dts.aula_mysql;
+
+--21) Excluir 1 registro da tabela aula_mysql
+delete from db_dts.aula_mysql where campo2='fiap2';
+
+--22) Consulte os registros
+select * from db_dts.aula_mysql;
+
+------------------------------------
+--ARMAZENAMENTO DOS DADOS
+
+--23) Sair do CLI do MySQL​
+quit
+
+--24) Navegar até o diretório do database db_dts​
+cd /var/lib/mysql/db_dts/
+
+--25) Abrir o arquivo de dados da tabela aula_mysql
+cat aula_mysql.ibd
+
+------------------------------------
+--REMOÇÃO DOS ACESSOS E DADOS
+
+--26) Abrir o CLI do MySQL com o usuário root​
+mysql
+
+--27) Remova as permissões do usuário fiap
+REVOKE all ON db_dts.aula_mysql FROM 'fiap'@'localhost';
+
+--28) apague a tabela aula_mysql
+drop table db_dts.aula_mysql;
+
+--29) apague o database
+drop database db_dts;
+
+--30) Sair do CLI do MySQL​
+quit
+
+--31) Navegar até o diretório do database db_dts​
+cd /var/lib/mysql/db_dts/
+ls -l
+
+#######################################
+####### COMANDOS ÚTEIS
+--Caso saia do Container, liste os containers
+docker container ls -a
+
+--Inicie o container
+docker container start MySQL
+
+--Conecte no container
+docker container exec -it MySQL bash
+
+--Ver usuário no MySQL
+select current_user();
