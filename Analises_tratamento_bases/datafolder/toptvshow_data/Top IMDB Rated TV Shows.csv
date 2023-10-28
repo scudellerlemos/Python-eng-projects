@@ -1,0 +1,2461 @@
+,id,name,origin_country,original_language,original_name,popularity,vote_average,vote_count
+0,130392,The D'Amelio Show,['US'],en,The D'Amelio Show,15.457,9.4,2727
+1,100,I Am Not an Animal,['GB'],en,I Am Not an Animal,11.155,9.2,709
+2,94605,Arcane,['US'],en,Arcane,123.962,9.1,2191
+3,124834,Heartstopper,['GB'],en,Heartstopper,209.484,9.0,326
+4,19239,"Conan, the Boy in Future",['JP'],ja,未来少年コナン,25.246,9.0,103
+5,88040,Given,['JP'],ja,ギヴン,25.463,9.0,624
+6,77696,Run BTS!,['KR'],ko,달려라 방탄!,20.325,8.9,276
+7,83095,The Rising of the Shield Hero,['JP'],ja,盾の勇者の成り上がり,105.94,8.9,852
+8,80539,Asobi Asobase - workshop of fun -,['JP'],ja,あそびあそばせ,16.15,8.9,106
+9,106600,BTS In the SOOP,['KR'],ko,In the SOOP BTS편,12.959,8.9,333
+10,123566,Metal Family,['RU'],ru,Metal Family,29.066,8.9,319
+11,154521,The Kardashians,['US'],en,The Kardashians,269.177,8.9,916
+12,80564,Banana Fish,['JP'],ja,バナナフィッシュ,42.203,8.9,703
+13,83097,The Promised Neverland,['JP'],ja,約束のネバーランド,51.277,8.9,798
+14,79141,Scissor Seven,['CN'],zh,刺客伍六七,75.706,8.9,451
+15,61663,Your Lie in April,['JP'],ja,四月は君の嘘,40.239,8.9,711
+16,110309,SK8 the Infinity,['JP'],ja,SK∞ エスケーエイト,41.514,8.8,223
+17,65648,Maid Sama!,['JP'],ja,会長はメイド様！,36.765,8.8,458
+18,125910,Young Royals,['SE'],sv,Young Royals,57.174,8.8,644
+19,65930,My Hero Academia,['JP'],ja,僕のヒーローアカデミア,42.413,8.8,3719
+20,94796,Crash Landing on You,['KR'],ko,사랑의 불시착,56.207,8.8,311
+21,92685,The Owl House,['US'],en,The Owl House,112.298,8.8,1093
+22,60863,Haikyu!!,['JP'],ja,ハイキュー!!,48.526,8.8,963
+23,85937,Demon Slayer: Kimetsu no Yaiba,['JP'],ja,鬼滅の刃,96.011,8.8,4042
+24,83880,Our Planet,['GB'],en,Our Planet,19.319,8.8,170
+25,68349,Weightlifting Fairy Kim Bok-Joo,['KR'],ko,역도요정 김복주,66.153,8.8,586
+26,117376,Vincenzo,['KR'],ko,빈센조,57.884,8.8,529
+27,84669,The Quintessential Quintuplets,['JP'],ja,五等分の花嫁,93.361,8.8,537
+28,62741,Kamisama Kiss,['JP'],ja,神様はじめました,74.073,8.8,694
+29,108261,Mr. Queen,['KR'],ko,철인왕후,21.107,8.8,230
+30,95557,Invincible,['US'],en,Invincible,134.648,8.8,3015
+31,91801,Welcome to Demon School! Iruma-kun,['JP'],ja,魔入りました！入間くん,52.488,8.8,187
+32,67389,Golden Time,['JP'],ja,ゴールデンタイム,38.605,8.8,462
+33,60625,Rick and Morty,['US'],en,Rick and Morty,244.639,8.8,6494
+34,45790,JoJo's Bizarre Adventure,['JP'],ja,ジョジョの奇妙な冒険,72.84,8.8,927
+35,68129,Yuri!!! on Ice,['JP'],ja,ユーリ!!! on ICE,19.376,8.8,493
+36,83121,Kaguya-sama: Love Is War,['JP'],ja,かぐや様は告らせたい～天才たちの恋愛頭脳戦～,117.316,8.8,514
+37,1396,Breaking Bad,['US'],en,Breaking Bad,338.302,8.8,8928
+38,46298,Hunter x Hunter,['JP'],ja,ハンターｘハンター,191.783,8.8,1127
+39,70785,Anne with an E,['CA'],en,Anne with an E,165.024,8.8,3891
+40,45950,High School DxD,['JP'],ja,ハイスクールD×D,132.882,8.8,1462
+41,31356,Big Time Rush,['US'],en,Big Time Rush,56.747,8.8,1431
+42,98214,Villainous,['MX'],es,Villanos,13.803,8.8,261
+43,30669,Yu Yu Hakusho,['JP'],ja,幽☆遊☆白書,39.816,8.8,318
+44,95269,Toilet-Bound Hanako-kun,['JP'],ja,地縛少年花子くん,50.341,8.8,582
+45,85990,Hitori Bocchi no Marumaru Seikatsu,['JP'],ja,ひとりぼっちの○○生活,11.601,8.8,124
+46,82739,Rascal Does Not Dream of Bunny Girl Senpai,['JP'],ja,青春ブタ野郎はバニーガール先輩の夢を見ない,65.028,8.8,939
+47,37854,One Piece,['JP'],ja,ワンピース,122.929,8.8,3034
+48,96316,Rent-a-Girlfriend,['JP'],ja,彼女、お借りします,88.714,8.8,701
+49,32118,Generator Rex,['US'],en,Generator Rex,22.408,8.8,267
+50,79732,She-Ra and the Princesses of Power,['US'],en,She-Ra and the Princesses of Power,29.008,8.8,591
+51,95666,Helluva Boss,['US'],en,Helluva Boss,25.696,8.8,404
+52,67915,Goblin,['KR'],ko,쓸쓸하고 찬란하神-도깨비,93.586,8.8,2141
+53,63495,SCHOOL-LIVE!,['JP'],ja,がっこうぐらし!,10.638,8.8,103
+54,31132,Regular Show,['US'],en,Regular Show,268.71,8.8,1477
+55,73833,The Ancient Magus' Bride,['JP'],ja,魔法使いの嫁,30.702,8.8,276
+56,89456,Primal,['US'],en,Primal,46.328,8.7,833
+57,90447,Hotel Del Luna,['KR'],ko,호텔 델루나,42.909,8.7,385
+58,97186,"Love, Victor",['US'],en,"Love, Victor",129.87,8.7,1324
+59,62565,My Love Story!!,['JP'],ja,俺物語!!,20.811,8.7,292
+60,76121,DARLING in the FRANXX,['JP'],ja,ダーリン・イン・ザ・フランキス,71.346,8.7,1562
+61,66433,Scarlet Heart: Ryeo,['KR'],ko,달의 연인 - 보보경심 려,47.237,8.7,377
+62,96150,Seton Academy: Join the Pack!,['JP'],ja,群れなせ！シートン学園,17.551,8.7,214
+63,74081,Blend S,['JP'],ja,ブレンド・S,15.887,8.7,207
+64,99489,The Penthouse,['KR'],ko,펜트하우스,45.375,8.7,160
+65,82684,That Time I Got Reincarnated as a Slime,['JP'],ja,転生したらスライムだった件,55.846,8.7,536
+66,72637,Once,['AR'],es,O11CE,283.189,8.7,1126
+67,87432,We Never Learn: BOKUBEN,['JP'],ja,ぼくたちは勉強ができない,29.59,8.7,213
+68,65844,KonoSuba – God's blessing on this wonderful world!!,['JP'],ja,この素晴らしい世界に祝福を！,68.539,8.7,1026
+69,86031,Dr. Stone,['JP'],ja,ドクターストーン,13.797,8.7,1057
+70,3854,The Spectacular Spider-Man,['US'],en,The Spectacular Spider-Man,43.081,8.7,576
+71,74313,Blue Planet II,['GB'],en,Blue Planet II,12.502,8.7,150
+72,61461,Yona of the Dawn,['JP'],ja,暁のヨナ,19.545,8.7,202
+73,65249,ERASED,['JP'],ja,僕だけがいない街,25.391,8.7,729
+74,97890,Power Book II: Ghost,['US'],en,Power Book II: Ghost,30.726,8.7,182
+75,77721,Real Girl,['JP'],ja,３Ｄ彼女　リアルガール,24.473,8.7,388
+76,93256,Cautious Hero: The Hero Is Overpowered but Overly Cautious,['JP'],ja,慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～,29.707,8.7,172
+77,31911,Fullmetal Alchemist: Brotherhood,['JP'],ja,鋼の錬金術師 FULLMETAL ALCHEMIST,75.289,8.7,1336
+78,90937,BEASTARS,['JP'],ja,ビースターズ,61.319,8.7,921
+79,118357,1883,['US'],en,1883,33.548,8.7,124
+80,37419,Zoids: Chaotic Century,['JP'],ja,ゾイド,25.644,8.7,258
+81,89901,Dickinson,['US'],en,Dickinson,71.148,8.7,713
+82,75214,Violet Evergarden,['JP'],ja,ヴァイオレット・エヴァーガーデン,44.601,8.7,554
+83,72517,Classroom of the Elite,['JP'],ja,ようこそ実力至上主義の教室へ,70.645,8.7,419
+84,75006,The Umbrella Academy,['US'],en,The Umbrella Academy,1710.904,8.7,7996
+85,80040,Desafío Champions Sendokai,['ES'],es,Desafío Champions Sendokai,9.979,8.7,140
+86,42573,Slam Dunk,['JP'],ja,スラムダンク,46.08,8.7,678
+87,45783,Kuroko's Basketball,['JP'],ja,黒子のバスケ,65.003,8.7,428
+88,40143,Shaman King,['JP'],ja,シャーマンキング,27.706,8.7,320
+89,83100,Dororo,['JP'],ja,どろろ,49.866,8.7,914
+90,62914,Merlí,['ES'],ca,Merlí,128.43,8.7,866
+91,42705,Fighting Spirit,['JP'],ja,はじめの一歩,172.693,8.7,674
+92,68188,"Kiss Him, Not Me",['JP'],ja,私がモテてどうすんだ,22.047,8.7,261
+93,57706,Ranma ½,['JP'],ja,らんま½,62.636,8.7,1057
+94,87461,The Helpful Fox Senko-san,['JP'],ja,世話やきキツネの仙狐さん,20.915,8.7,192
+95,34742,To Love-Ru,['JP'],ja,To LOVEる -とらぶる-,42.659,8.7,319
+96,88803,Vinland Saga,['JP'],ja,ヴィンランド・サガ,13.153,8.7,375
+97,94664,Mushoku Tensei: Jobless Reincarnation,['JP'],ja,無職転生 ～異世界行ったら本気だす～,66.736,8.7,519
+98,35790,Cardcaptor Sakura,['JP'],ja,カードキャプターさくら,46.471,8.7,559
+99,61865,When Calls the Heart,['US'],en,When Calls the Heart,38.76,8.7,100
+100,93019,ORESUKI: Are you the only one who loves me?,['JP'],ja,俺を好きなのはお前だけかよ,29.399,8.7,237
+101,13916,Death Note,['JP'],ja,DEATH NOTE,139.131,8.7,2835
+102,62568,Yamada-kun and the Seven Witches,['JP'],ja,山田くんと7人の魔女,16.143,8.7,177
+103,81318,Love By Chance,['TH'],th,บังเอิญรัก,18.016,8.7,172
+104,96462,It's Okay to Not Be Okay,['KR'],ko,사이코지만 괜찮아,54.406,8.7,963
+105,68854,Kimi ni Todoke: From Me to You,['JP'],ja,君に届け,17.928,8.7,224
+106,246,Avatar: The Last Airbender,['US'],en,Avatar: The Last Airbender,60.645,8.7,2811
+107,91425,Infinity Train,['US'],en,Infinity Train,21.814,8.7,146
+108,64552,Shomin Sample,['JP'],ja,俺がお嬢様学校に「庶民サンプル」として拉致られた件,19.34,8.7,133
+109,70637,Akashic Records of Bastard Magic Instructor,['JP'],ja,ロクでなし魔術講師と禁忌教典,39.41,8.7,472
+110,35753,The Familiar of Zero,['JP'],ja,ゼロの使い魔,49.708,8.7,499
+111,86034,Arifureta: From Commonplace to World's Strongest,['JP'],ja,ありふれた職業で世界最強,12.454,8.7,461
+112,12313,Shadow Hunter,['CA'],en,Shadow Hunter,23.932,8.7,874
+113,88046,Fire Force,['JP'],ja,炎炎ノ消防隊,23.29,8.6,400
+114,114868,Record of Ragnarok,['JP'],ja,終末のワルキューレ,164.598,8.6,1063
+115,110070,Horimiya,['JP'],ja,ホリミヤ,70.875,8.6,619
+116,2192,Robotech,['US'],en,Robotech,18.946,8.6,255
+117,99071,Redo of Healer,['JP'],ja,回復術士のやり直し,50.023,8.6,650
+118,107124,Animaniacs,['US'],en,Animaniacs,41.8,8.6,441
+119,890,Neon Genesis Evangelion,['JP'],ja,新世紀エヴァンゲリオン,56.632,8.6,1068
+120,86836,"Why the Hell are You Here, Teacher!?",['JP'],ja,なんでここに先生が!?,52.912,8.6,585
+121,34158,Magic Knight Rayearth,['JP'],ja,魔法騎士レイアース,18.277,8.6,156
+122,46896,The Originals,['US'],en,The Originals,125.613,8.6,2769
+123,72636,Made In Abyss,['JP'],ja,メイドインアビス,33.112,8.6,245
+124,1429,Attack on Titan,['JP'],ja,進撃の巨人,90.882,8.6,4260
+125,1408,House,['US'],en,House,410.835,8.6,4679
+126,112160,The Way of the Househusband,['JP'],ja,極主夫道,22.662,8.6,284
+127,87739,The Queen's Gambit,['US'],en,The Queen's Gambit,92.665,8.6,2706
+128,112888,True Beauty,['KR'],ko,여신강림,172.161,8.6,954
+129,76132,How to Keep a Mummy,['JP'],ja,ミイラの飼い方,15.858,8.6,160
+130,66078,Twin Star Exorcists,['JP'],ja,双星の陰陽師,33.421,8.6,309
+131,62273,Food Wars! Shokugeki no Soma,['JP'],ja,食戟のソーマ,30.92,8.6,562
+132,123249,My Dress-Up Darling,['JP'],ja,その着せ替え人形は恋をする,117.117,8.6,114
+133,62602,Blue Spring Ride,['JP'],ja,アオハライド,24.207,8.6,271
+134,62450,Plastic Memories,['JP'],ja,プラスティック･メモリーズ,19.239,8.6,142
+135,66732,Stranger Things,['US'],en,Stranger Things,3421.944,8.6,11300
+136,76125,Record of Grancrest War,['JP'],ja,グランクレスト戦記,13.874,8.6,107
+137,9302,Digimon Tamers,['JP'],ja,デジモンテイマーズ,28.333,8.6,260
+138,99779,Noblesse,['JP'],ja,NOBLESSE -ノブレス-,23.991,8.6,365
+139,106292,Julie and the Phantoms,['US'],en,Julie and the Phantoms,14.647,8.6,473
+140,34524,Teen Wolf,['US'],en,Teen Wolf,224.359,8.6,3270
+141,105009,Tokyo Revengers,['JP'],ja,東京リベンジャーズ,128.114,8.6,846
+142,1600,Ned's Declassified School Survival Guide,['US'],en,Ned's Declassified School Survival Guide,35.892,8.6,812
+143,94404,Dorohedoro,['JP'],ja,ドロヘドロ,30.897,8.6,208
+144,99654,18 Again,['KR'],ko,18 어게인,14.778,8.6,131
+145,35610,InuYasha,['JP'],ja,犬夜叉,84.771,8.6,1681
+146,72548,Are You Human?,['KR'],ko,너도 인간이니,23.745,8.6,248
+147,120089,SPY x FAMILY,['JP'],ja,SPY×FAMILY,1345.491,8.6,338
+148,87108,Chernobyl,['US'],en,Chernobyl,58.444,8.6,4025
+149,97860,Tower of God,['JP'],ja,神之塔 -Tower of God-,28.538,8.6,339
+150,97617,The Misfit of Demon King Academy,['JP'],ja,魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～,81.491,8.6,536
+151,77702,Magical Girl Site,['JP'],ja,魔法少女サイト,15.313,8.6,155
+152,28136,Rurouni Kenshin,['JP'],ja,るろうに剣心 明治剣客浪漫譚,44.536,8.6,581
+153,21650,I'm in the Band,['US'],en,I'm in the Band,31.158,8.6,204
+154,96160,My Holo Love,['KR'],ko,나 홀로 그대,22.044,8.6,733
+155,96648,Sweet Home,['KR'],ko,스위트홈,76.86,8.6,839
+156,79818,Meteor Garden,['CN'],zh,流星花园,50.955,8.6,438
+157,98123,The Daily Life of the Immortal King,['CN'],zh,仙王的日常生活,124.606,8.6,559
+158,61222,BoJack Horseman,['US'],en,BoJack Horseman,112.431,8.6,1532
+159,100757,Outer Banks,['US'],en,Outer Banks,44.929,8.6,448
+160,63145,Charlotte,['JP'],ja,シャーロット,33.899,8.6,456
+161,61670,Healer,['KR'],ko,힐러,14.085,8.6,211
+162,5381,My Lovely Sam-Soon,['KR'],ko,내 이름은 김삼순,22.792,8.6,152
+163,2316,The Office,['US'],en,The Office,148.716,8.6,2435
+164,62110,Assassination Classroom,['JP'],ja,暗殺教室,67.77,8.6,759
+165,107113,Only Murders in the Building,['US'],en,Only Murders in the Building,262.978,8.6,642
+166,74387,Final Space,['US'],en,Final Space,40.532,8.6,618
+167,31910,Naruto Shippūden,['JP'],ja,ナルト 疾風伝,267.019,8.6,6878
+168,60654,Magi,['JP'],ja,マギ,25.232,8.6,127
+169,67075,Mob Psycho 100,['JP'],ja,モブサイコ100,54.437,8.6,750
+170,37606,The Amazing World of Gumball,"['GB', 'US']",en,The Amazing World of Gumball,127.824,8.6,1008
+171,46041,My Little Monster,['JP'],ja,となりの怪物くん,17.968,8.6,283
+172,39434,anohana: The Flower We Saw That Day,['JP'],ja,あの日見た花の名前を僕達はまだ知らない。,22.712,8.6,262
+173,95171,Prehistoric Planet,['GB'],en,Prehistoric Planet,478.389,8.6,130
+174,60574,Peaky Blinders,['GB'],en,Peaky Blinders,1483.445,8.6,6794
+175,64196,Overlord,['JP'],ja,オーバーロード,97.615,8.6,530
+176,100049,TONIKAWA: Over the Moon for You,['JP'],ja,トニカクカワイイ,151.355,8.5,1155
+177,42589,Another,['JP'],ja,アナザー,38.825,8.6,775
+178,71712,The Good Doctor,['US'],en,The Good Doctor,565.745,8.5,10603
+179,52814,Halo,['US'],en,Halo,1305.751,8.5,1023
+180,1398,The Sopranos,['US'],en,The Sopranos,120.452,8.5,1767
+181,96162,Itaewon Class,['KR'],ko,이태원 클라쓰,29.469,8.5,202
+182,79460,Legacies,['US'],en,Legacies,312.584,8.5,2553
+183,61223,Akame ga Kill!,['JP'],ja,アカメが斬る!,77.649,8.5,737
+184,30981,Monster,['JP'],ja,MONSTER,25.017,8.5,309
+185,95479,Jujutsu Kaisen,['JP'],ja,呪術廻戦,332.472,8.5,2225
+186,69050,Riverdale,['US'],en,Riverdale,436.881,8.5,12675
+187,92892,Ahiru no Sora,['JP'],ja,あひるの空,32.112,8.5,160
+188,35935,Berserk,['JP'],ja,剣風伝奇ベルセルク,36.915,8.5,319
+189,97546,Ted Lasso,['US'],en,Ted Lasso,46.31,8.5,620
+190,72296,My First Girlfriend is a Gal,['JP'],ja,はじめてのギャル,22.614,8.5,339
+191,30991,Cowboy Bebop,['JP'],ja,カウボーイビバップ,45.947,8.5,1068
+192,83639,Girl from Nowhere,['TH'],th,เด็กใหม่,53.549,8.5,688
+193,31736,Eyeshield 21,['JP'],ja,アイシールド21,27.748,8.5,153
+194,99385,Unstoppable,['MX'],es,Desenfrenadas,8.664,8.5,146
+195,63174,Lucifer,['US'],en,Lucifer,767.932,8.5,12025
+196,74016,The Resident,['US'],en,The Resident,93.999,8.5,1065
+197,37585,Kenichi: The Mightiest Disciple,['JP'],ja,史上最強の弟子ケンイチ,48.346,8.5,393
+198,4194,Star Wars: The Clone Wars,['US'],en,Star Wars: The Clone Wars,123.591,8.5,1430
+199,43,31 Minutos,['CL'],es,31 Minutos,12.674,8.5,258
+200,108284,Tale of the Nine Tailed,['KR'],ko,구미호뎐,38.021,8.5,343
+201,3793,Invader ZIM,['US'],en,Invader ZIM,19.439,8.5,296
+202,66330,W: Two Worlds Apart,['KR'],ko,더블유,45.272,8.5,711
+203,42509,Steins;Gate,['JP'],ja,Steins;Gate,27.142,8.5,461
+204,19885,Sherlock,['GB'],en,Sherlock,76.355,8.5,3668
+205,73223,Black Clover,['JP'],ja,ブラッククローバー,61.296,8.5,1428
+206,61752,Hellsing Ultimate,['JP'],ja,ヘルシング アルティメット,29.801,8.5,420
+207,76747,On My Block,['US'],en,On My Block,27.037,8.5,549
+208,107329,Go Ahead,['CN'],zh,以家人之名,17.247,8.5,111
+209,92983,Vagabond,['KR'],ko,배가본드,39.42,8.5,343
+210,82823,Boarding School Juliet,['JP'],ja,寄宿学校のジュリエット,19.214,8.5,141
+211,62104,The Seven Deadly Sins,['JP'],ja,七つの大罪,30.719,8.5,4369
+212,61374,Tokyo Ghoul,['JP'],ja,東京喰種トーキョーグール,119.744,8.5,1826
+213,71885,grown-ish,['US'],en,grown-ish,25.1,8.5,116
+214,6357,The Twilight Zone,['US'],en,The Twilight Zone,28.323,8.5,661
+215,61175,Steven Universe,['US'],en,Steven Universe,99.977,8.5,890
+216,333,Jewel in the Palace,['KR'],ko,대장금,23.457,8.5,164
+217,42444,Saint Seiya,['JP'],ja,聖闘士星矢,133.993,8.5,874
+218,76874,Alexa & Katie,['US'],en,Alexa & Katie,30.46,8.5,110
+219,35894,Zatch Bell!,['JP'],ja,金色のガッシュベル!!,22.26,8.5,161
+220,82856,The Mandalorian,['US'],en,The Mandalorian,190.475,8.5,7663
+221,2004,Malcolm in the Middle,['US'],en,Malcolm in the Middle,161.568,8.5,3102
+222,119464,Navillera,['KR'],ko,나빌레라,13.862,8.5,136
+223,68267,Trollhunters: Tales of Arcadia,['US'],en,Trollhunters: Tales of Arcadia,59.51,8.5,894
+224,99966,All of Us Are Dead,['KR'],ko,지금 우리 학교는,571.298,8.5,2304
+225,69346,Saga of Tanya the Evil,['JP'],ja,幼女戦記,35.866,8.5,289
+226,68595,Planet Earth II,['GB'],en,Planet Earth II,23.941,8.5,579
+227,40075,Gravity Falls,['US'],en,Gravity Falls,169.345,8.5,2027
+228,31724,Code Geass: Lelouch of the Rebellion,['JP'],ja,コードギアス 反逆のルルーシュ,43.603,8.5,489
+229,1430,Cosmos: A Personal Voyage,['US'],en,Cosmos: A Personal Voyage,13.57,8.5,255
+230,33217,Young Justice,['US'],en,Young Justice,82.623,8.5,876
+231,1438,The Wire,['US'],en,The Wire,40.677,8.5,1563
+232,89641,Love Alarm,['KR'],ko,좋아하면 울리는,79.23,8.5,1705
+233,93846,The King: Eternal Monarch,['KR'],ko,더 킹 : 영원의 군주,29.878,8.5,714
+234,65143,Descendants of the Sun,['KR'],ko,태양의 후예,81.212,8.5,548
+235,62640,Nisekoi,['JP'],ja,ニセコイ,22.285,8.5,261
+236,60059,Better Call Saul,['US'],en,Better Call Saul,186.28,8.5,2851
+237,60808,No Game No Life,['JP'],ja,ノーゲーム･ノーライフ,26.338,8.5,465
+238,121964,The Case Study of Vanitas,['JP'],ja,ヴァニタスの手記,58.805,8.5,141
+239,85404,Touch Your Heart,['KR'],ko,진심이 닿다,23.256,8.5,259
+240,92468,La Familia del Barrio,['MX'],es,La Familia del Barrio,36.072,8.5,429
+241,45857,REBORN!,['JP'],ja,家庭教師ヒットマン REBORN!,26.557,8.5,128
+242,42671,Elfen Lied,['JP'],ja,エルフェンリート,37.281,8.5,985
+243,9160,Candy Candy,['JP'],ja,キャンディ・キャンディ,49.694,8.5,454
+244,46434,The Vietnam War,['US'],en,The Vietnam War,13.376,8.5,104
+245,2723,Samurai Jack,['US'],en,Samurai Jack,36.807,8.5,535
+246,1044,Planet Earth,['GB'],en,Planet Earth,17.182,8.5,802
+247,80350,New Amsterdam,['US'],en,New Amsterdam,75.24,8.5,728
+248,46550,Flower Boy Next Door,['KR'],ko,이웃집 꽃미남,12.837,8.5,101
+249,2098,Batman: The Animated Series,['US'],en,Batman: The Animated Series,58.396,8.5,1172
+250,61617,Over the Garden Wall,['US'],en,Over the Garden Wall,35.341,8.5,970
+251,61459,Parasyte -the maxim-,['JP'],ja,寄生獣 セイの格率,35.872,8.5,845
+252,42916,Toradora!,['JP'],ja,とらドラ！,23.735,8.5,429
+253,64710,Noragami,['JP'],ja,ノラガミ,35.084,8.5,474
+254,61456,Free!,['JP'],ja,Free!,16.718,8.5,189
+255,92592,BNA,['JP'],ja,BNA ビー・エヌ・エー,16.815,8.5,324
+256,15260,Adventure Time,['US'],en,Adventure Time,163.221,8.5,2053
+257,44006,Chicago Fire,['US'],en,Chicago Fire,235.281,8.5,1743
+258,67676,The Disastrous Life of Saiki K.,['JP'],ja,斉木楠雄のΨ難,38.479,8.5,215
+259,1668,Friends,['US'],en,Friends,199.203,8.5,5785
+260,76479,The Boys,['US'],en,The Boys,3786.662,8.4,6331
+261,128876,The Beatles: Get Back,"['US', 'GB', 'NZ']",en,The Beatles: Get Back,14.406,8.4,232
+262,99048,Start-Up,['KR'],ko,스타트업,25.777,8.4,206
+263,95599,Kipo and the Age of Wonderbeasts,['US'],en,Kipo and the Age of Wonderbeasts,17.395,8.4,153
+264,33238,Running Man,['KR'],ko,런닝맨,85.262,8.4,133
+265,19505,Los Reyes,['CO'],es,Los Reyes,10.281,8.4,117
+266,12637,Rebelde,['MX'],es,Rebelde,257.06,8.4,4776
+267,27167,Lovely Complex,['JP'],ja,ラブ★コン,13.191,8.4,116
+268,61192,Fated to Love You,['KR'],ko,운명처럼 널 사랑해,44.009,8.4,201
+269,88043,Magical Sempai,['JP'],ja,手品先輩,27.933,8.4,279
+270,74440,Harley Quinn,['US'],en,Harley Quinn,51.503,8.4,738
+271,105971,Star Wars: The Bad Batch,['US'],en,Star Wars: The Bad Batch,56.959,8.4,612
+272,2038,Drake & Josh,['US'],en,Drake & Josh,115.975,8.4,1583
+273,112163,High-Rise Invasion,['JP'],ja,天空侵犯,31.822,8.4,610
+274,70372,My Only Love Song,['KR'],ko,마이 온리 러브송,11.834,8.4,106
+275,17149,Vampire Knight,['JP'],ja,ヴァンパイア騎士,23.635,8.4,271
+276,69291,Miss Kobayashi's Dragon Maid,['JP'],ja,小林さんちのメイドラゴン,96.342,8.4,641
+277,65931,Bungo Stray Dogs,['JP'],ja,文豪ストレイドッグス,42.293,8.4,286
+278,58841,Chicago P.D.,['US'],en,Chicago P.D.,228.125,8.4,1893
+279,87784,Defending Jacob,['US'],en,Defending Jacob,38.642,8.4,1145
+280,67710,Servamp,['JP'],ja,サーヴァンプ,12.768,8.4,114
+281,1409,Sons of Anarchy,['US'],en,Sons of Anarchy,130.905,8.4,2084
+282,24835,Clannad,['JP'],ja,CLANNAD,25.72,8.4,338
+283,114395,A Love So Beautiful,['KR'],ko,아름다웠던 우리에게,77.168,8.4,351
+284,61923,Star vs. the Forces of Evil,['US'],en,Star vs. the Forces of Evil,87.464,8.4,1123
+285,70523,Dark,['DE'],de,Dark,150.796,8.4,5001
+286,5920,The Mentalist,['US'],en,The Mentalist,348.766,8.4,2779
+287,58474,Cosmos,['US'],en,Cosmos,40.854,8.4,1197
+288,100087,Hasta que la plata nos separe,['CO'],es,Hasta que la plata nos separe,31.87,8.4,249
+289,74682,I Am Not a Robot,"['NC', 'KR']",ko,로봇이 아니야,42.141,8.4,545
+290,71694,Snowfall,['US'],en,Snowfall,49.205,8.4,222
+291,1399,Game of Thrones,['US'],en,Game of Thrones,568.811,8.4,18132
+292,82532,Virtual Hero: La Serie,['ES'],es,Virtual Hero: La Serie,18.681,8.4,113
+293,99777,Onyx Equinox,['MX'],en,Onyx Equinox,8.057,8.4,181
+294,46028,Girl Meets World,['US'],en,Girl Meets World,35.002,8.4,598
+295,84231,Wayne,['US'],en,Wayne,18.851,8.4,240
+296,93149,Plunderer,['JP'],ja,プランダラ,83.959,8.4,648
+297,79061,Craig of the Creek,[],en,Craig of the Creek,46.096,8.4,181
+298,100834,Veneno,['ES'],es,Veneno,41.889,8.4,1304
+299,60728,KILL la KILL,['JP'],ja,キルラキル,25.374,8.4,319
+300,63314,Club de Cuervos,['MX'],es,Club de Cuervos,28.543,8.4,240
+301,117378,Mouse,['KR'],ko,마우스,19.891,8.4,143
+302,79434,What's Wrong with Secretary Kim,['KR'],ko,김비서가 왜 그럴까,74.108,8.4,418
+303,4613,Band of Brothers,['US'],en,Band of Brothers,68.918,8.4,2596
+304,2309,Danny Phantom,['US'],en,Danny Phantom,74.933,8.4,894
+305,83103,Domestic Girlfriend,['JP'],ja,ドメスティックな彼女,31.969,8.4,322
+306,85552,Euphoria,['US'],en,Euphoria,384.656,8.4,7872
+307,64127,EXO Next Door,['KR'],ko,우리 옆집에 엑소가 산다,36.278,8.4,128
+308,4500,The Wonder Years,['US'],en,The Wonder Years,37.646,8.4,773
+309,38603,Beelzebub,['JP'],ja,べるぜバブ,26.456,8.4,182
+310,615,Futurama,['US'],en,Futurama,148.993,8.4,2285
+311,110492,Peacemaker,['US'],en,Peacemaker,222.863,8.4,1809
+312,66399,Cebollitas,[],es,Cebollitas,6.092,8.4,129
+313,65676,My Teen Romantic Comedy SNAFU,['JP'],ja,やはり俺の青春ラブコメはまちがっている。,44.253,8.4,424
+314,98986,Uzaki-chan Wants to Hang Out!,['JP'],ja,宇崎ちゃんは遊びたい！,55.019,8.4,877
+315,4087,The X-Files,['US'],en,The X-Files,117.279,8.4,2276
+316,11235,Medabots,"['US', 'JP']",ja,メダロット,20.042,8.4,102
+317,129478,The King's Affection,['KR'],ko,연모,25.617,8.4,146
+318,60957,My Love From Another Star,['KR'],ko,별에서 온 그대,37.054,8.4,659
+319,43017,Great Teacher Onizuka,['JP'],ja,グレート・ティーチャー・オニヅカ,23.292,8.4,101
+320,64320,Oh My Venus,['KR'],ko,오 마이 비너스,43.018,8.4,214
+321,63926,One-Punch Man,['JP'],ja,ワンパンマン,182.449,8.4,2685
+322,1043,Ouran High School Host Club,['JP'],ja,桜蘭高校ホスト部,18.109,8.4,147
+323,78483,Kakuriyo -Bed & Breakfast for Spirits-,['JP'],ja,かくりよの宿飯,21.636,8.4,111
+324,112162,Pacific Rim: The Black,['US'],en,Pacific Rim: The Black,67.673,8.4,330
+325,73488,Les Contes de la rue Broca,['FR'],fr,Les Contes de la rue Broca,6.977,8.4,226
+326,97175,Fate: The Winx Saga,['US'],en,Fate: The Winx Saga,81.415,8.4,944
+327,99778,The God of High School,['JP'],ja,THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール,51.003,8.4,513
+328,91363,What If...?,['US'],en,What If...?,165.594,8.4,3071
+329,61695,Beyond the Boundary,['JP'],ja,境界の彼方,19.225,8.4,240
+330,45501,"Love, Chunibyo & Other Delusions!",['JP'],ja,中二病でも恋がしたい!,23.048,8.4,298
+331,32062,Human Planet,['GB'],en,Human Planet,6.481,8.4,133
+332,2131,Daria,['US'],en,Daria,25.895,8.4,454
+333,95601,Merli: Dare to Know,['ES'],ca,Merlí. Sapere Aude,54.859,8.4,736
+334,82591,Goblin Slayer,['JP'],ja,ゴブリンスレイヤー,30.282,8.4,348
+335,73265,Yo Soy Franky,['CO'],es,Yo Soy Franky,28.937,8.4,147
+336,2902,Queer As Folk,['US'],en,Queer As Folk,39.593,8.4,393
+337,62650,Chicago Med,['US'],en,Chicago Med,105.624,8.4,848
+338,82822,Zombieland Saga,['JP'],ja,ゾンビランドサガ,22.058,8.4,116
+339,30984,Bleach,['JP'],ja,ブリーチ,178.188,8.4,1182
+340,1777,Boy Meets World,['US'],en,Boy Meets World,18.016,8.4,374
+341,81356,Sex Education,['GB'],en,Sex Education,301.491,8.4,5702
+342,61970,Ben-To,['JP'],ja,ベン・トー,10.386,8.4,103
+343,46260,Naruto,['JP'],ja,ナルト,273.86,8.4,4588
+344,56998,High School of the Dead,['JP'],ja,学園黙示録 HIGHSCHOOL OF THE DEAD,27.915,8.4,623
+345,70593,Kingdom,['KR'],ko,킹덤,53.376,8.4,680
+346,8724,Frozen Planet,['GB'],en,Frozen Planet,10.055,8.4,189
+347,87083,Formula 1: Drive to Survive,['GB'],en,Formula 1: Drive to Survive,35.692,8.4,267
+348,34109,Bakugan Battle Brawlers,['JP'],ja,Bakugan Battle Brawlers,49.077,8.4,256
+349,91875,Prodigal Son,['US'],en,Prodigal Son,22.568,8.4,316
+350,1395,Gossip Girl,['US'],en,Gossip Girl,100.488,8.4,1612
+351,80671,Cells at Work!,['JP'],ja,はたらく細胞,21.448,8.4,214
+352,604,Teen Titans,['US'],en,Teen Titans,62.585,8.4,925
+353,99047,Record of Youth,['KR'],ko,청춘기록,18.991,8.4,149
+354,90660,Kengan Ashura,['JP'],ja,ケンガンアシュラ,92.647,8.4,561
+355,110356,My Name,['KR'],ko,마이 네임,84.137,8.4,514
+356,88328,Abyss,['KR'],ko,어비스,23.289,8.4,117
+357,3570,Sailor Moon,['JP'],ja,美少女戦士セーラームーン,101.094,8.4,736
+358,113558,Pandillas guerra y paz,['CO'],es,Pandillas guerra y paz,7.666,8.4,142
+359,81046,The Dragon Prince,['US'],en,The Dragon Prince,28.221,8.4,406
+360,1072,Scooby's All-Star Laff-A-Lympics,['US'],en,Scooby's All-Star Laff-A-Lympics,12.278,8.4,105
+361,104699,Shaman King,['JP'],ja,Shaman King,48.385,8.4,220
+362,679,Xiaolin Showdown,['US'],en,Xiaolin Showdown,25.656,8.4,160
+363,71024,Castlevania,['US'],en,Castlevania,60.46,8.3,848
+364,18165,The Vampire Diaries,['US'],en,The Vampire Diaries,556.289,8.3,7339
+365,66329,Doctors,['KR'],ko,닥터스,19.918,8.3,248
+366,131927,Dexter: New Blood,['US'],en,Dexter: New Blood,81.845,8.3,656
+367,70639,WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?,['JP'],ja,終末なにしてますか？忙しいですか？救ってもらっていいですか？,16.12,8.3,103
+368,96713,The Midnight Gospel,['US'],en,The Midnight Gospel,30.454,8.3,622
+369,85271,WandaVision,['US'],en,WandaVision,322.955,8.3,10135
+370,2190,South Park,['US'],en,South Park,246.033,8.3,3005
+371,688,The West Wing,['US'],en,The West Wing,44.495,8.3,342
+372,111616,First Kill,['US'],en,First Kill,477.362,8.3,104
+373,8974,Hell Girl,['JP'],ja,地獄少女,31.418,8.3,168
+374,81821,100 Days My Prince,['KR'],ko,백일의 낭군님,14.727,8.3,112
+375,79084,Pose,['US'],en,Pose,40.369,8.3,367
+376,84503,Close Enough,['US'],en,Close Enough,30.146,8.3,233
+377,71578,Atypical,['US'],en,Atypical,39.677,8.3,753
+378,61755,WATAMOTE,['JP'],ja,ワタモテ,12.867,8.3,278
+379,67126,Himouto! Umaru-chan,['JP'],ja,干物妹!うまるちゃん,26.598,8.3,600
+380,751,The World at War,['GB'],en,The World at War,9.748,8.3,110
+381,2710,It's Always Sunny in Philadelphia,['US'],en,It's Always Sunny in Philadelphia,72.307,8.3,729
+382,21631,Physics or Chemistry,['ES'],es,Física o química,13.261,8.3,241
+383,85844,Wise Man's Grandchild,['JP'],ja,賢者の孫,36.09,8.3,236
+384,105797,Wizards: Tales of Arcadia,['US'],en,Wizards: Tales of Arcadia,25.951,8.3,297
+385,87527,My First First Love,['KR'],ko,첫사랑은 처음이라서,23.427,8.3,483
+386,1911,Bones,['US'],en,Bones,282.72,8.3,2467
+387,97525,To Your Eternity,['JP'],ja,不滅のあなたへ,32.089,8.3,133
+388,32716,Kickin' It,['US'],en,Kickin' It,30.557,8.3,127
+389,1063,Samurai Champloo,['JP'],ja,サムライチャンプルー,24.611,8.3,452
+390,4057,Criminal Minds,['US'],en,Criminal Minds,375.603,8.3,2935
+391,1400,Seinfeld,['US'],en,Seinfeld,121.044,8.3,1342
+392,60956,Doctor Stranger,['KR'],ko,닥터 이방인,42.134,8.3,212
+393,74083,My Girlfriend Is Shobitch,['JP'],ja,僕の彼女がマジメ過ぎるしょびっちな件,24.007,8.3,160
+394,72426,GAMERS!,['JP'],ja,ゲーマーズ！,18.935,8.3,131
+395,33880,The Legend of Korra,['US'],en,The Legend of Korra,56.527,8.3,1585
+396,21510,White Collar,['US'],en,White Collar,70.35,8.3,1013
+397,79242,Chilling Adventures of Sabrina,['US'],en,Chilling Adventures of Sabrina,96.542,8.3,2996
+398,38867,Lab Rats,['US'],en,Lab Rats,34.785,8.3,108
+399,61611,Pinocchio,['KR'],ko,피노키오,20.443,8.3,535
+400,6040,Ben 10: Alien Force,['US'],en,Ben 10: Alien Force,71.714,8.3,875
+401,1437,Firefly,['US'],en,Firefly,31.28,8.3,1553
+402,106519,"Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",['JP'],ja,ひげを剃る。そして女子高生を拾う。,27.832,8.3,176
+403,80828,The Nevers,['US'],en,The Nevers,18.312,8.3,487
+404,72502,AHO-GIRL,['JP'],ja,アホガール,17.226,8.3,140
+405,888,Spider-Man,['US'],en,Spider-Man,54.488,8.3,801
+406,65320,SKAM,['NO'],no,SKAM,44.736,8.3,616
+407,849,Monty Python's Flying Circus,['GB'],en,Monty Python's Flying Circus,17.974,8.3,436
+408,655,Star Trek: The Next Generation,['US'],en,Star Trek: The Next Generation,71.283,8.3,1035
+409,43982,Line of Duty,['GB'],en,Line of Duty,40.288,8.3,246
+410,72305,Kakegurui,['JP'],ja,賭ケグルイ,63.441,8.3,1314
+411,13579,The Blue Planet,['GB'],en,The Blue Planet,12.284,8.3,235
+412,16946,Life,['GB'],en,Life,9.544,8.3,264
+413,75123,A Korean Odyssey,['KR'],ko,화유기,29.969,8.3,186
+414,288,¡Mucha Lucha!,"['MX', 'US']",en,¡Mucha Lucha!,29.68,8.3,282
+415,71446,Money Heist,['ES'],es,La Casa de Papel,378.857,8.3,16443
+416,46648,True Detective,['US'],en,True Detective,44.748,8.3,2193
+417,42009,Black Mirror,['GB'],en,Black Mirror,102.682,8.3,3174
+418,39518,My Babysitter's a Vampire,"['CA', 'US']",en,My Babysitter's a Vampire,23.95,8.3,294
+419,60622,Fargo,['US'],en,Fargo,81.756,8.3,1848
+420,98494,Glitch Techs,['US'],en,Glitch Techs,10.151,8.3,114
+421,87539,Katy Keene,['US'],en,Katy Keene,13.357,8.3,254
+422,34791,Claymore,['JP'],ja,CLAYMORE,17.588,8.3,185
+423,84200,Justice League Unlimited,['US'],en,Justice League Unlimited,23.281,8.3,616
+424,115004,Mare of Easttown,['US'],en,Mare of Easttown,37.035,8.3,760
+425,45782,Sword Art Online,['JP'],ja,ソードアート・オンライン,69.807,8.3,1330
+426,14929,Heartland,['CA'],en,Heartland,76.129,8.3,488
+427,19849,Blood+,['JP'],ja,Blood+,18.51,8.3,195
+428,74094,Our Love Has Always Been 10 Centimeters Apart.,['JP'],ja,いつだって僕らの恋は10センチだった。,15.55,8.3,222
+429,87428,Why Women Kill,['US'],en,Why Women Kill,25.786,8.3,158
+430,61602,Cumbia Ninja,['CO'],es,Cumbia Ninja,61.612,8.3,263
+431,46994,Slugterra,['CA'],en,Slugterra,50.775,8.3,641
+432,81829,Light as a Feather,['US'],en,Light as a Feather,16.381,8.3,101
+433,26453,TRIGUN,['JP'],ja,TRIGUN,17.334,8.3,310
+434,16420,Boys Over Flowers,['KR'],ko,꽃보다 남자,106.966,8.3,1492
+435,61852,Henry Danger,['US'],en,Henry Danger,116.071,8.3,950
+436,12971,Dragon Ball Z,['JP'],ja,ドラゴンボールゼット,335.981,8.3,3238
+437,1622,Supernatural,['US'],en,Supernatural,401.449,8.3,5988
+438,63767,She Was Pretty,['KR'],ko,그녀는 예뻤다,25.8,8.3,716
+439,16286,"Yo soy Betty, la fea",['CO'],es,"Yo soy Betty, la fea",206.657,8.3,2810
+440,60797,Scorpion,['US'],en,Scorpion,210.184,8.3,3423
+441,80665,Hi Score Girl,['JP'],ja,ハイスコアガール,15.575,8.3,129
+442,1835,Kenan & Kel,['US'],en,Kenan & Kel,38.502,8.3,298
+443,65329,Hyouka,['JP'],ja,氷菓,24.899,8.3,252
+444,63333,The Last Kingdom,['GB'],en,The Last Kingdom,139.606,8.3,1136
+445,75865,Teasing Master Takagi-san,['JP'],ja,からかい上手の高木さん,54.614,8.3,303
+446,51817,Teenage Mutant Ninja Turtles,['US'],en,Teenage Mutant Ninja Turtles,50.328,8.3,469
+447,37863,Fullmetal Alchemist,['JP'],ja,鋼の錬金術師,44.831,8.3,589
+448,32676,The Rose of Versailles,['JP'],ja,ベルサイユのばら,15.848,8.3,110
+449,39351,Grimm,['US'],en,Grimm,129.658,8.3,2497
+450,4336,Drawn Together,['US'],en,Drawn Together,72.544,8.3,1044
+451,1891,Rome,['US'],en,Rome,29.537,8.3,868
+452,82428,All American,['US'],en,All American,48.666,8.3,332
+453,46922,Ben 10: Omniverse,['US'],en,Ben 10: Omniverse,56.191,8.3,303
+454,33623,The Avengers: Earth's Mightiest Heroes,['US'],en,The Avengers: Earth's Mightiest Heroes,43.376,8.3,547
+455,4604,Smallville,['US'],en,Smallville,199.906,8.3,3171
+456,111625,Dash & Lily,['US'],en,Dash & Lily,15.131,8.3,189
+457,88236,How to Sell Drugs Online (Fast),['DE'],de,How to Sell Drugs Online (Fast),31.998,8.3,530
+458,902,Yu-Gi-Oh! Duel Monsters,['JP'],ja,遊☆戯☆王デュエルモンスターズ,42.643,8.3,687
+459,95396,Severance,['US'],en,Severance,47.295,8.3,194
+460,4629,Stargate SG-1,"['CA', 'US']",en,Stargate SG-1,116.089,8.3,1146
+461,86831,"Love, Death & Robots",['US'],en,"Love, Death & Robots",198.417,8.3,1926
+462,17638,Más Sabe el Diablo,[],en,Más Sabe el Diablo,13.16,8.3,171
+463,2207,Fawlty Towers,['GB'],en,Fawlty Towers,19.735,8.3,504
+464,67667,Beyblade Burst,[],ja,ベイブレードバースト,32.301,8.3,246
+465,1416,Grey's Anatomy,['US'],en,Grey's Anatomy,870.107,8.3,8132
+466,61720,Violetta,['AR'],es,Violetta,41.378,8.2,211
+467,101591,BMF,['US'],en,BMF,12.953,8.2,178
+468,76773,Station 19,['US'],en,Station 19,114.266,8.2,1148
+469,72509,Tsuredure Children,['JP'],ja,徒然チルドレン,17.906,8.2,176
+470,48891,Brooklyn Nine-Nine,['US'],en,Brooklyn Nine-Nine,104.115,8.2,2170
+471,61901,Death Parade,['JP'],ja,デス・パレード,23.765,8.2,301
+472,9907,Chowder,['US'],en,Chowder,23.53,8.2,299
+473,37527,Chobits,['JP'],ja,ちょびっツ,16.573,8.2,163
+474,90630,Juntos El Corazón Nunca Se Equivoca,['MX'],es,Juntos El Corazón Nunca Se Equivoca,8.888,8.2,365
+475,2913,Are You Afraid of the Dark?,"['CA', 'US']",en,Are You Afraid of the Dark?,27.61,8.2,480
+476,1972,Battlestar Galactica,"['CA', 'US', 'GB']",en,Battlestar Galactica,51.467,8.2,1113
+477,81355,When They See Us,['US'],en,When They See Us,15.39,8.2,522
+478,65494,The Crown,"['GB', 'US']",en,The Crown,66.829,8.2,1326
+479,102903,Control Z,['MX'],es,Control Z,118.067,8.2,2071
+480,101048,Doc – Nelle tue mani,['IT'],it,Doc – Nelle tue mani,25.399,8.2,116
+481,36041,Bakuman。,['JP'],ja,バクマン。,12.8,8.2,110
+482,71912,The Witcher,['US'],en,The Witcher,103.587,8.2,3808
+483,1920,Twin Peaks,['US'],en,Twin Peaks,60.736,8.2,1399
+484,95314,Juliantina,['MX'],es,Juliantina,50.619,8.2,251
+485,87491,DC Super Hero Girls,['US'],en,DC Super Hero Girls,14.752,8.2,135
+486,62560,Mr. Robot,['US'],en,Mr. Robot,79.829,8.2,3461
+487,33428,MAD,['US'],en,MAD,14.706,8.2,215
+488,110534,D.P.,['KR'],ko,D.P.,12.058,8.2,106
+489,90814,Extracurricular,['KR'],ko,인간수업,23.511,8.2,562
+490,1981,Charmed,['US'],en,Charmed,147.538,8.2,1762
+491,1095,Ghost in the Shell: Stand Alone Complex,['JP'],ja,攻殻機動隊 STAND ALONE COMPLEX,31.089,8.2,262
+492,80752,See,['US'],en,See,105.558,8.2,1615
+493,69740,Ozark,['US'],en,Ozark,142.945,8.2,1494
+494,900,Skins,['GB'],en,Skins,65.192,8.2,945
+495,67070,Fleabag,['GB'],en,Fleabag,23.786,8.2,666
+496,32351,Ugly Americans,['US'],en,Ugly Americans,16.944,8.2,525
+497,1778,Zoey 101,['US'],en,Zoey 101,58.377,8.2,859
+498,95,Buffy the Vampire Slayer,['US'],en,Buffy the Vampire Slayer,74.842,8.2,1254
+499,73946,Inuyashiki: Last Hero,['JP'],ja,いぬやしき,5.597,8.2,222
+500,71365,Battlestar Galactica,[],en,Battlestar Galactica,18.164,8.2,594
+501,17572,Kick Buttowski: Suburban Daredevil,['US'],en,Kick Buttowski: Suburban Daredevil,144.414,8.2,525
+502,101972,Our Last Crusade or the Rise of a New World,['JP'],ja,キミと僕の最後の戦場、あるいは世界が始まる聖戦,18.344,8.2,171
+503,88042,O Maidens in Your Savage Season,['JP'],ja,荒ぶる季節の乙女どもよ。,10.193,8.2,108
+504,114161,La saga: Negocio de Familia,['CO'],es,La saga: Negocio de Familia,9.604,8.2,177
+505,90260,I Am Not Okay with This,['US'],en,I Am Not Okay with This,28.735,8.2,1427
+506,26867,Mushi-Shi,['JP'],ja,蟲師,27.105,8.2,124
+507,108978,Reacher,['US'],en,Reacher,193.595,8.2,358
+508,103847,MATARIFE,['CO'],es,MATARIFE: Un genocida innombrable,6.326,8.2,322
+509,67136,This Is Us,['US'],en,This Is Us,87.393,8.2,1118
+510,31251,Victorious,['US'],en,Victorious,120.641,8.2,1386
+511,45213,Usagi Drop,['JP'],ja,うさぎドロップ,10.631,8.2,115
+512,1087,Serial Experiments Lain,['JP'],ja,シリアルエクスペリメンツレイン,18.322,8.2,342
+513,21729,Gurren Lagann,['JP'],ja,天元突破グレンラガン,31.025,8.2,332
+514,4574,X-Men,['US'],en,X-Men,41.082,8.2,904
+515,72002,Dynasty,['US'],en,Dynasty,111.198,8.2,723
+516,105556,"Don't Toy With Me, Miss Nagatoro",['JP'],ja,イジらないで、長瀞さん,45.594,8.2,579
+517,88329,Hawkeye,['US'],en,Hawkeye,249.161,8.2,2075
+518,39218,Puella Magi Madoka Magica,['JP'],ja,魔法少女まどか☆マギカ,15.758,8.2,218
+519,34105,Golden Boy,['JP'],ja,さすらいのお勉強野郎-,30.863,8.2,322
+520,6782,Pucca,"['CA', 'US']",en,Pucca,12.69,8.2,473
+521,100281,Moriarty the Patriot,['JP'],ja,憂国のモリアーティ,38.004,8.2,103
+522,98754,Club 57,"['CO', 'US']",es,Club 57,19.656,8.2,614
+523,3137,Babylon 5,['US'],en,Babylon 5,30.113,8.2,367
+524,97727,Inside Job,['US'],en,Inside Job,39.649,8.2,335
+525,79649,Project Blue Book,['US'],en,Project Blue Book,39.403,8.2,894
+526,66870,Magi: Adventure of Sinbad,['JP'],ja,マギ シンドバッドの冒険,14.297,8.2,105
+527,35016,House of Anubis,"['GB', 'US']",en,House of Anubis,33.697,8.2,219
+528,67166,El marginal,['AR'],es,El marginal,108.014,8.2,301
+529,91239,Bridgerton,['US'],en,Bridgerton,123.936,8.2,1657
+530,62715,Dragon Ball Super,['JP'],ja,ドラゴンボール超（スーパー）,386.415,8.2,4002
+531,91977,Motherland: Fort Salem,['US'],en,Motherland: Fort Salem,64.065,8.2,322
+532,135934,The Legend of Vox Machina,['US'],en,The Legend of Vox Machina,17.974,8.2,165
+533,93812,The Great,['US'],en,The Great,25.157,8.2,683
+534,94280,Steven Universe Future,['US'],en,Steven Universe Future,54.126,8.2,594
+535,86430,Your Honor,['US'],en,Your Honor,51.31,8.2,1171
+536,12406,Powerpuff Girls Z,['JP'],ja,出ましたっ！パワパフガールズZ,22.192,8.2,175
+537,56570,Outlander,['US'],en,Outlander,119.357,8.2,2096
+538,40008,Hannibal,['US'],en,Hannibal,94.85,8.2,1735
+539,35279,Austin & Ally,['US'],en,Austin & Ally,37.264,8.2,137
+540,31109,Ben 10: Ultimate Alien,['US'],en,Ben 10: Ultimate Alien,130.26,8.2,642
+541,114547,Secrets of Sulphur Springs,['US'],en,Secrets of Sulphur Springs,34.454,8.2,158
+542,12609,Dragon Ball,['JP'],ja,ドラゴンボール,14.626,8.2,2337
+543,62884,Forged in Fire,['US'],en,Forged in Fire,35.799,8.2,114
+544,21409,Dinosaur King,['JP'],ja,古代王者恐竜キング Dキッズ・アドベンチャー,38.112,8.2,330
+545,1848,Winx Club,['IT'],it,Winx Club,34.791,8.2,317
+546,90,Mayday,['CA'],en,Mayday,70.147,8.2,191
+547,8880,Space Cobra,['JP'],ja,スペースコブラ,20.518,8.2,152
+548,3215,Coffee Prince,['KR'],ko,커피프린스 1호점,31.896,8.2,162
+549,74577,The End of the F***ing World,['GB'],en,The End of the F***ing World,52.026,8.2,2235
+550,2388,Queer as Folk,['GB'],en,Queer as Folk,13.145,8.2,115
+551,61593,Mr. Pickles,['US'],en,Mr. Pickles,45.888,8.2,642
+552,79744,The Rookie,['US'],en,The Rookie,198.489,8.2,970
+553,8779,The Vision of Escaflowne,['JP'],ja,天空のエスカフローネ,15.778,8.2,116
+554,1405,Dexter,['US'],en,Dexter,100.037,8.2,3000
+555,82817,Go Go Squid!,['CN'],zh,亲爱的，热爱的,15.115,8.2,126
+556,66496,Hwarang: The Poet Warrior Youth,['KR'],ko,화랑,41.606,8.2,179
+557,2660,Codename: Kids Next Door,['US'],en,Codename: Kids Next Door,1.414,8.2,537
+558,84958,Loki,['US'],en,Loki,274.492,8.2,8945
+559,75219,9-1-1,['US'],en,9-1-1,174.611,8.2,1799
+560,114621,The Mighty Ducks: Game Changers,['US'],en,The Mighty Ducks: Game Changers,23.29,8.2,108
+561,104877,Love Is In The Air,['TR'],tr,Sen Çal Kapımı,547.938,8.2,2443
+562,80477,Angels of Death,['JP'],ja,殺戮の天使,27.845,8.2,195
+563,66082,Another Miss Oh,['KR'],ko,또 오해영,17.198,8.2,153
+564,100883,Never Have I Ever,['US'],en,Never Have I Ever,60.213,8.2,1168
+565,1719,Gargoyles,"['JP', 'US']",en,Gargoyles,25.621,8.2,296
+566,3498,Wizards of Waverly Place,['US'],en,Wizards of Waverly Place,58.865,8.2,580
+567,1988,ThunderCats,['US'],en,ThunderCats,42.72,8.2,774
+568,99080,Peter Grill and the Philosopher's Time,['JP'],ja,ピーター・グリルと賢者の時間,17.064,8.2,178
+569,96203,Gleipnir,['JP'],ja,グレイプニル,55.042,8.2,612
+570,128883,Hometown Cha-Cha-Cha,['KR'],ko,갯마을 차차차,41.305,8.2,332
+571,64706,Prison School,['JP'],ja,監獄学園,33.596,8.2,481
+572,18123,Scooby-Doo! Mystery Incorporated,['US'],en,Scooby-Doo! Mystery Incorporated,59.787,8.2,745
+573,2085,Courage the Cowardly Dog,['US'],en,Courage the Cowardly Dog,67.982,8.2,1133
+574,513,Batman Beyond,['US'],en,Batman Beyond,30.745,8.2,405
+575,92749,Moon Knight,['US'],en,Moon Knight,887.6,8.2,1150
+576,65292,Ajin,['JP'],ja,亜人,19.979,8.2,241
+577,78173,Dragons: Race to the Edge,['US'],en,Dragons: Race to the Edge,60.469,8.2,215
+578,1457,Pride and Prejudice,['GB'],en,Pride and Prejudice,48.607,8.2,330
+579,99494,Flower of Evil,['KR'],ko,악의 꽃,27.848,8.2,407
+580,79525,The Last Dance,['US'],en,The Last Dance,24.992,8.2,934
+581,126531,Elite Short Stories: Guzmán Caye Rebe,['ES'],es,Elite Histórias Breves: Guzmán Caye Rebe,23.585,8.2,267
+582,85720,Shadow and Bone,['US'],en,Shadow and Bone,27.823,8.2,809
+583,46195,Monogatari,['JP'],ja,化物語,63.796,8.2,362
+584,44264,Endeavour,['GB'],en,Endeavour,57.767,8.2,152
+585,38974,Jessie,['US'],en,Jessie,57.203,8.2,516
+586,81860,Mi marido tiene mas familia,[],es,Mi marido tiene mas familia,9.376,8.2,213
+587,63085,Ushio and Tora,['JP'],ja,うしおととら,25.927,8.2,121
+588,37680,Suits,['US'],en,Suits,489.702,8.2,3549
+589,2352,The Nanny,['US'],en,The Nanny,116.721,8.2,818
+590,790,Agatha Christie's Poirot,['GB'],en,Agatha Christie's Poirot,101.389,8.2,305
+591,62302,The simulators,['MX'],es,Los simuladores,11.029,8.2,101
+592,35338,La que se avecina,['ES'],es,La que se avecina,38.196,8.2,151
+593,110316,Alice in Borderland,['JP'],ja,今際の国のアリス,75.153,8.2,793
+594,77169,Cobra Kai,['US'],en,Cobra Kai,338.778,8.2,4551
+595,34899,Magnificent Century,['TR'],tr,Muhteşem Yüzyıl,79.415,8.2,656
+596,78102,Steins;Gate 0,['JP'],ja,シュタインズ・ゲート ゼロ,21.635,8.2,115
+597,69478,The Handmaid's Tale,['US'],en,The Handmaid's Tale,109.012,8.2,1861
+598,1100,How I Met Your Mother,['US'],en,How I Met Your Mother,153.704,8.2,3407
+599,99618,"So I'm a Spider, So What?",['JP'],ja,蜘蛛ですが、なにか？,20.885,8.2,115
+600,61339,Sailor Moon Crystal,['JP'],ja,美少女戦士セーラームーンクリスタル,42.984,8.2,582
+601,62266,"Kill Me, Heal Me",['KR'],ko,"킬미, 힐미",14.495,8.2,136
+602,56304,The Men Who Built America,['US'],en,The Men Who Built America,9.206,8.2,146
+603,1977,Loonatics Unleashed,['US'],en,Loonatics Unleashed,61.748,8.2,123
+604,77607,Laws of love,['MX'],es,Por amar sin ley,15.729,8.2,121
+605,45859,Daily Lives of High School Boys,['JP'],ja,男子高校生の日常,16.599,8.2,128
+606,5768,Paradise City,[],en,Paradise City,12.194,8.2,145
+607,83050,Spinning Out,['US'],en,Spinning Out,16.385,8.2,196
+608,70540,Andi Mack,['US'],en,Andi Mack,22.298,8.2,219
+609,67178,Marvel's The Punisher,['US'],en,Marvel's The Punisher,97.153,8.2,1725
+610,59375,Liv and Maddie,['US'],en,Liv and Maddie,40.493,8.2,302
+611,9148,Great Mazinger,['JP'],ja,グレートマジンガー,7.452,8.2,109
+612,45016,The Bridge,['SE'],sv,Bron/Broen,37.007,8.2,384
+613,80623,BAKI,['JP'],ja,バキ,240.56,8.1,1004
+614,78191,You,['US'],en,You,72.883,8.1,2038
+615,42912,Inazuma Eleven,['JP'],ja,イナズマイレブン,51.968,8.2,161
+616,4743,The Boarding School,['ES'],es,El internado,71.408,8.1,434
+617,94795,Cagaster of an Insect Cage,['JP'],ja,虫籠のカガステル,14.029,8.1,171
+618,90870,Wu-Tang: An American Saga,['US'],en,Wu-Tang: An American Saga,16.198,8.1,103
+619,88974,Angel's Last Mission: Love,['KR'],ko,"단, 하나의 사랑",38.814,8.1,157
+620,4507,The Thick of It,['GB'],en,The Thick of It,9.916,8.1,120
+621,18011,Vecinos,['MX'],es,Vecinos,89.346,8.1,980
+622,95057,Superman & Lois,['US'],en,Superman & Lois,664.055,8.1,1730
+623,72844,The Haunting of Hill House,['US'],en,The Haunting of Hill House,40.474,8.1,1488
+624,70796,The Marvelous Mrs. Maisel,['US'],en,The Marvelous Mrs. Maisel,35.332,8.1,455
+625,114892,Platinum End,['JP'],ja,プラチナエンド,64.189,8.1,167
+626,68814,Strong Woman Do Bong Soon,['KR'],ko,힘쎈여자 도봉순,48.746,8.1,129
+627,61389,Saint Seiya: The Lost Canvas,['JP'],ja,聖闘士星矢 THE LOST CANVAS 冥王神話,69.311,8.1,476
+628,1413,American Horror Story,['US'],en,American Horror Story,299.428,8.1,4472
+629,15621,The Newsroom,['US'],en,The Newsroom,17.731,8.1,412
+630,5303,The Storyteller,"['GB', 'US']",en,The Storyteller,31.008,8.1,148
+631,1104,Mad Men,['US'],en,Mad Men,41.648,8.1,832
+632,1274,Six Feet Under,['US'],en,Six Feet Under,33.707,8.1,680
+633,958,Beast Wars: Transformers,['CA'],en,Beast Wars: Transformers,15.784,8.1,238
+634,97219,"Hi Bye, Mama!",['KR'],ko,"하이바이, 마마!",21.0,8.1,368
+635,77240,Captain Tsubasa,['JP'],ja,キャプテン翼,112.941,8.1,489
+636,89852,Trinkets,['US'],en,Trinkets,21.067,8.1,195
+637,13643,North & South,['GB'],en,North & South,8.726,8.1,145
+638,76148,Derry Girls,['GB'],en,Derry Girls,14.679,8.1,119
+639,72750,Killing Eve,['US'],en,Killing Eve,45.142,8.1,894
+640,86248,Upload,['US'],en,Upload,39.208,8.1,793
+641,36983,Rosario + Vampire,['JP'],ja,ロザリオとバンパイア,26.446,8.1,183
+642,4686,Ben 10,['US'],en,Ben 10,134.907,8.1,1268
+643,90257,Little Fires Everywhere,['US'],en,Little Fires Everywhere,24.299,8.1,195
+644,44856,Wentworth,['AU'],en,Wentworth,34.707,8.1,215
+645,6516,The Bugs Bunny Show,['US'],en,The Bugs Bunny Show,12.829,8.1,246
+646,80563,How Not to Summon a Demon Lord,['JP'],ja,異世界魔王と召喚少女の奴隷魔術,43.901,8.1,204
+647,1446,Floricienta,['AR'],es,Floricienta,58.404,8.1,118
+648,230,The New Scooby and Scrappy-Doo Show,['US'],en,The New Scooby and Scrappy-Doo Show,18.177,8.1,120
+649,102825,La Seleccion,[],en,La Seleccion,14.254,8.1,130
+650,65764,Absolute Duo,['JP'],ja,アブソリュート・デュオ,12.945,8.1,118
+651,76669,Elite,['ES'],es,Élite,269.334,8.1,8222
+652,4546,Curb Your Enthusiasm,['US'],en,Curb Your Enthusiasm,49.158,8.1,509
+653,64163,The Testament of Sister New Devil,['JP'],ja,新妹魔王の契約者,52.526,8.1,248
+654,537,Hey Arnold!,['US'],en,Hey Arnold!,78.794,8.1,718
+655,63247,Westworld,['US'],en,Westworld,255.397,8.1,4164
+656,1813,Father Ted,['GB'],en,Father Ted,14.051,8.1,212
+657,1406,Deadwood,['US'],en,Deadwood,25.781,8.1,584
+658,124271,NCIS: Hawai'i,['US'],en,NCIS: Hawai'i,75.48,8.1,120
+659,46786,Bates Motel,['US'],en,Bates Motel,63.296,8.1,1228
+660,42445,Borgen,['DK'],da,Borgen,45.589,8.1,135
+661,9343,Paranoia Agent,['JP'],ja,妄想代理人,11.909,8.1,166
+662,67011,Magias Academy Ataraxia Hybrid × Heart,['JP'],ja,魔装学園Ｈ×Ｈ,21.36,8.1,128
+663,61889,Marvel's Daredevil,['US'],en,Marvel's Daredevil,127.551,8.1,3316
+664,60573,Silicon Valley,['US'],en,Silicon Valley,30.827,8.1,1170
+665,43249,AIKa,['JP'],ja,AIKa,9.965,8.1,141
+666,31654,Digimon Adventure,['JP'],ja,デジモンアドベンチャー,80.36,8.1,562
+667,86163,Gentleman Jack,"['GB', 'US']",en,Gentleman Jack,19.343,8.1,121
+668,13987,Victoria,"['US', 'CO']",es,Victoria,8.362,8.1,107
+669,1618,Justice League,['US'],en,Justice League,17.022,8.1,309
+670,1402,The Walking Dead,['US'],en,The Walking Dead,632.284,8.1,13209
+671,240,Jackie Chan Adventures,['US'],en,Jackie Chan Adventures,55.334,8.1,585
+672,36581,Shiki,['JP'],ja,屍鬼,15.539,8.1,139
+673,1705,Fringe,['US'],en,Fringe,76.616,8.1,1806
+674,326,Red Dwarf,['GB'],en,Red Dwarf,21.962,8.1,276
+675,78204,Sword Art Online Alternative: Gun Gale Online,['JP'],ja,ソードアート・オンライン オルタナティブ ガンゲイル・オンライン,30.239,8.1,184
+676,75450,Titans,['US'],en,Titans,118.864,8.1,2056
+677,185,Carnivàle,['US'],en,Carnivàle,14.452,8.1,291
+678,71790,S.W.A.T.,['US'],en,S.W.A.T.,320.985,8.1,983
+679,62227,Triage X,['JP'],ja,トリアージX,9.914,8.1,231
+680,2490,The IT Crowd,['GB'],en,The IT Crowd,37.689,8.1,937
+681,79352,Sacred Games,['IN'],hi,Sacred Games,11.733,8.1,128
+682,58956,Wolfblood,['GB'],en,Wolfblood,17.316,8.1,171
+683,33907,Downton Abbey,['GB'],en,Downton Abbey,57.332,8.1,648
+684,43270,Blood-C,['JP'],ja,Blood-C,28.042,8.1,148
+685,4459,The Muppet Show,['GB'],en,The Muppet Show,10.502,8.1,189
+686,11721,La Fea Más Bella,['MX'],es,La Fea Más Bella,27.168,8.1,517
+687,253,Star Trek,['US'],en,Star Trek,78.297,8.1,898
+688,34307,Shameless,['US'],en,Shameless,185.831,8.1,1706
+689,5895,FLCL,"['JP', 'US']",ja,フリクリ,16.202,8.1,238
+690,79086,Godfather of Harlem,['US'],en,Godfather of Harlem,23.953,8.1,409
+691,713,Chappelle's Show,['US'],en,Chappelle's Show,12.832,8.1,255
+692,36837,His and Her Circumstances,['JP'],ja,彼氏彼女の事情,14.324,8.1,113
+693,1606,Ghost Whisperer,['US'],en,Ghost Whisperer,105.638,8.1,1361
+694,79588,Pennyworth,['US'],en,Pennyworth,21.63,8.1,247
+695,69851,FEUD,['US'],en,FEUD,10.677,8.1,150
+696,2288,Prison Break,['US'],en,Prison Break,188.083,8.1,3711
+697,85801,High School Musical: The Musical: The Series,['US'],en,High School Musical: The Musical: The Series,44.899,8.1,683
+698,57646,Master's Sun,['KR'],ko,주군의 태양,17.659,8.1,126
+699,16188,"My Love, My Sin",['MX'],es,Amarte es mi Pecado,10.975,8.1,110
+700,14009,The Addams Family,['US'],en,The Addams Family,63.781,8.1,257
+701,76122,Death March to the Parallel World Rhapsody,['JP'],ja,デスマーチからはじまる異世界狂想曲,18.433,8.1,189
+702,96716,Big Shot,['US'],en,Big Shot,37.392,8.1,265
+703,61068,Gomorrah,['IT'],it,Gomorra - La serie,41.871,8.1,271
+704,3787,Chaotic,['US'],en,Chaotic,10.398,8.1,115
+705,20695,Yu-Gi-Oh! 5D's,['JP'],ja,遊☆戯☆王5D's,17.166,8.1,122
+706,88805,Are You Lost?,['JP'],ja,ソウナンですか？,21.608,8.1,189
+707,799,Sherlock Holmes,['GB'],en,Sherlock Holmes,32.132,8.1,159
+708,100897,Love 101,['TR'],tr,Aşk 101,14.21,8.1,125
+709,91275,Unbelievable,['US'],en,Unbelievable,25.103,8.1,318
+710,90677,Fate/Grand Order Absolute Demonic Front: Babylonia,['JP'],ja,Fate/Grand Order -絶対魔獣戦線バビロニア-,35.664,8.1,156
+711,34376,Los hombres de Paco,['ES'],es,Los hombres de Paco,66.373,8.1,169
+712,32368,The Killing,['DK'],da,Forbrydelsen,16.911,8.1,156
+713,17438,Boys Over Flowers,['JP'],ja,花より男子,25.34,8.1,252
+714,96580,Resident Alien,['US'],en,Resident Alien,55.101,8.1,431
+715,32209,Al Fondo Hay Sitio (2009),['PE'],es,Al Fondo Hay Sitio (2009),27.124,8.1,148
+716,18689,Camaleones,['MX'],es,Camaleones,6.576,8.1,125
+717,2382,Freaks and Geeks,['US'],en,Freaks and Geeks,27.043,8.1,512
+718,18350,Atrévete a soñar,['MX'],es,Atrévete a soñar,20.659,8.1,831
+719,71731,Run Coyote Run,"['US', 'MX']",es,Run Coyote Run,23.575,8.1,281
+720,46883,Porque el Amor Manda,['MX'],es,Porque el Amor Manda,20.996,8.1,385
+721,45967,Yamada's First Time: B Gata H Kei,['JP'],ja,B型H系,10.329,8.1,122
+722,44217,Vikings,['CA'],en,Vikings,319.464,8.1,5464
+723,93653,In/Spectre,['JP'],ja,虚構推理,14.47,8.1,142
+724,66958,Orange,['JP'],ja,orange,10.874,8.1,395
+725,8592,Parks and Recreation,['US'],en,Parks and Recreation,43.472,8.1,951
+726,82001,"Roswell, New Mexico",['US'],en,"Roswell, New Mexico",39.558,8.1,358
+727,71715,Good Girls,['US'],en,Good Girls,32.27,8.1,400
+728,67052,Handa-kun,['JP'],ja,はんだくん,9.836,8.1,100
+729,4018,Quantum Leap,['US'],en,Quantum Leap,33.704,8.1,504
+730,117581,Ginny & Georgia,['US'],en,Ginny & Georgia,63.451,8.1,812
+731,76231,Mayans M.C.,['US'],en,Mayans M.C.,169.322,8.1,467
+732,71834,Manyū Hiken-chō,['JP'],ja,魔乳秘剣帖,44.58,8.1,124
+733,1425,House of Cards,['US'],en,House of Cards,45.75,8.1,2005
+734,115036,The Book of Boba Fett,['US'],en,The Book of Boba Fett,219.656,8.1,1562
+735,111499,"De brutas, nada",['MX'],es,"De brutas, nada",34.491,8.1,526
+736,46511,Utopia,['GB'],en,Utopia,21.163,8.1,366
+737,12536,Yu-Gi-Oh! GX,['JP'],ja,遊戯王デュエルモンスターズＧＸ,39.883,8.1,204
+738,67048,Barakamon,['JP'],ja,ばらかもん,13.12,8.1,102
+739,103157,The Hidden Dungeon Only I Can Enter,['JP'],ja,俺だけ入れる隠しダンジョン ～こっそり鍛えて世界最強～,40.021,8.1,360
+740,897,The Grim Adventures of Billy and Mandy,['US'],en,The Grim Adventures of Billy and Mandy,101.292,8.1,763
+741,61415,Fate/stay night [Unlimited Blade Works],['JP'],ja,Fate/stay night [Unlimited Blade Works],39.166,8.1,213
+742,58981,The Thundermans,['US'],en,The Thundermans,45.983,8.1,477
+743,92967,Miracle Doctor,['TR'],tr,Mucize Doktor,128.984,8.1,807
+744,61929,The Jinx: The Life and Deaths of Robert Durst,['US'],en,The Jinx: The Life and Deaths of Robert Durst,9.589,8.1,316
+745,38464,Blue Exorcist,['JP'],ja,青の祓魔師,37.233,8.1,310
+746,1414,The Shield,['US'],en,The Shield,28.868,8.1,491
+747,1411,Person of Interest,['US'],en,Person of Interest,61.259,8.1,1231
+748,61746,Inside No. 9,['GB'],en,Inside No. 9,21.089,8.1,128
+749,5622,Hamtaro,['JP'],ja,とっとこハム太郎,21.128,8.1,160
+750,111111,Blood of Zeus,['US'],en,Blood of Zeus,34.85,8.1,335
+751,4278,Friday Night Lights,['US'],en,Friday Night Lights,19.905,8.1,189
+752,2730,I Love Lucy,['US'],en,I Love Lucy,23.347,8.1,156
+753,61421,Terror in Resonance,['JP'],ja,残響のテロル,16.19,8.1,275
+754,6673,The Marvelous Misadventures of Flapjack,['US'],en,The Marvelous Misadventures of Flapjack,23.531,8.1,249
+755,20450,Witchblade,['JP'],ja,ウィッチブレイド,12.513,8.1,103
+756,58957,Nathan For You,['US'],en,Nathan For You,11.47,8.1,105
+757,45845,Fate/Zero,['JP'],ja,Fate/Zero,36.63,8.1,210
+758,91557,Ragnarok,['NO'],no,Ragnarok,127.552,8.1,720
+759,3322,Oz,['US'],en,Oz,29.335,8.1,509
+760,1487,Static Shock,['US'],en,Static Shock,26.348,8.1,160
+761,815,Peep Show,['GB'],en,Peep Show,14.297,8.1,251
+762,14853,The Clone,['BR'],pt,O Clone,20.27,8.1,284
+763,86423,Locke & Key,['US'],en,Locke & Key,36.335,8.1,808
+764,76331,Succession,['US'],en,Succession,46.752,8.1,405
+765,34121,Baccano!,['JP'],ja,バッカーノ!,13.041,8.1,111
+766,92053,For Life,['US'],en,For Life,21.852,8.1,209
+767,7217,Casados con Hijos,['AR'],es,Casados con Hijos,25.142,8.1,227
+768,5178,Stairway to Heaven,['KR'],ko,천국의 계단,44.548,8.1,919
+769,122194,CSI: Vegas,['US'],en,CSI: Vegas,66.31,8.1,155
+770,67272,Shopaholic Louis,['KR'],ko,쇼핑왕 루이,13.526,8.1,186
+771,88713,We Are Who We Are,['US'],en,We Are Who We Are,21.428,8.1,278
+772,69017,One Day at a Time,['US'],en,One Day at a Time,20.424,8.1,111
+773,118541,The Slime Diaries: That Time I Got Reincarnated as a Slime,['JP'],ja,転スラ日記 転生したらスライムだった件,48.64,8.0,114
+774,4589,Arrested Development,['US'],en,Arrested Development,38.312,8.0,949
+775,33765,My Little Pony: Friendship Is Magic,"['CA', 'US']",en,My Little Pony: Friendship Is Magic,81.075,8.0,453
+776,88367,Scooby-Doo and Guess Who?,['US'],en,Scooby-Doo and Guess Who?,35.055,8.0,178
+777,45815,Brazil Avenue,['BR'],pt,Avenida Brasil,143.642,8.0,1079
+778,5371,iCarly,['US'],en,iCarly,100.741,8.0,1176
+779,78462,Devils' Line,['JP'],ja,デビルズライン,13.466,8.0,136
+780,73586,Yellowstone,['US'],en,Yellowstone,271.002,8.0,1033
+781,69630,The Bold Type,['US'],en,The Bold Type,30.767,8.0,139
+782,16830,Hellsing,['JP'],ja,ヘルシング,26.589,8.0,337
+783,5665,Choujuu Sentai Liveman,['JP'],ja,超獣戦隊ライブマン,8.422,8.0,140
+784,12598,Black Lagoon,['JP'],ja,BLACK LAGOON,25.937,8.0,249
+785,129600,Baki Hanma,['JP'],ja,範馬刃牙,199.38,8.0,253
+786,93740,Foundation,['US'],en,Foundation,98.932,8.0,596
+787,1554,QI,['GB'],en,QI,33.961,8.0,177
+788,153411,The Envoys,['MX'],es,Los Enviados,11.045,8.0,229
+789,71728,Young Sheldon,['US'],en,Young Sheldon,156.221,8.0,1699
+790,65950,Kiznaiver,['JP'],ja,キズナイーバー,15.025,8.0,114
+791,110695,Dopesick,['US'],en,Dopesick,14.617,8.0,133
+792,77236,A Discovery of Witches,['GB'],en,A Discovery of Witches,32.637,8.0,394
+793,71740,40 y 20,['MX'],es,40 y 20,98.152,8.0,1330
+794,33841,R. L. Stine's The Haunting Hour,"['CA', 'US']",en,R. L. Stine's The Haunting Hour,29.762,8.0,159
+795,89393,9-1-1: Lone Star,['US'],en,9-1-1: Lone Star,139.582,8.0,743
+796,15079,The Suite Life on Deck,['US'],en,The Suite Life on Deck,41.056,8.0,374
+797,103319,The Day I Became a God,['JP'],ja,神様になった日,15.308,8.0,112
+798,12504,SilverHawks,['US'],en,SilverHawks,14.886,8.0,241
+799,553,Dungeons & Dragons,['US'],en,Dungeons & Dragons,22.128,8.0,183
+800,59659,Halt and Catch Fire,['US'],en,Halt and Catch Fire,18.425,8.0,331
+801,79008,Luis Miguel: The Series,['MX'],es,Luis Miguel: La Serie,41.476,8.0,557
+802,32605,The Looney Tunes Show,['US'],en,The Looney Tunes Show,36.887,8.0,320
+803,32226,Personal Taste,['KR'],ko,개인의 취향,26.468,8.0,455
+804,46849,Generation War,['DE'],de,"Unsere Mütter, unsere Väter",16.218,8.0,297
+805,873,Columbo,['US'],en,Columbo,87.277,8.0,402
+806,68507,His Dark Materials,['GB'],en,His Dark Materials,61.63,8.0,1092
+807,63417,"Noble, My Love",['KR'],ko,고결한 그대,8.463,8.0,126
+808,33873,Sonny with a Chance,['US'],en,Sonny with a Chance,19.155,8.0,282
+809,1781,Little House on the Prairie,['US'],en,Little House on the Prairie,69.597,8.0,718
+810,48865,Reign,['US'],en,Reign,46.545,8.0,663
+811,82,Animaniacs,['US'],en,Animaniacs,67.589,8.0,554
+812,100412,The Baby-Sitters Club,['US'],en,The Baby-Sitters Club,24.648,8.0,427
+813,1069,The 13 Ghosts of Scooby-Doo,['US'],en,The 13 Ghosts of Scooby-Doo,34.31,8.0,153
+814,113367,The Wilds,['US'],en,The Wilds,37.028,8.0,348
+815,903,Black Books,['GB'],en,Black Books,10.259,8.0,351
+816,543,The Proud Family,['US'],en,The Proud Family,19.529,8.0,104
+817,79699,La hija del Mariachi,['CO'],es,La hija del Mariachi,252.957,8.0,1215
+818,31917,Pretty Little Liars,['US'],en,Pretty Little Liars,142.428,8.0,2139
+819,63639,The Expanse,['US'],en,The Expanse,59.705,8.0,1723
+820,61244,Happy Valley,['GB'],en,Happy Valley,12.521,8.0,185
+821,50137,RWBY,['US'],en,RWBY,21.243,8.0,142
+822,21641,Good Luck Charlie,"['GB', 'US']",en,Good Luck Charlie,46.421,8.0,264
+823,63510,Attack on Titan: Junior High,['JP'],ja,進撃！ 巨人中学校,46.911,8.0,124
+824,43135,A Gentleman's Dignity,['KR'],ko,신사의 품격,21.42,8.0,102
+825,60846,Log Horizon,['JP'],ja,ログ・ホライズン,18.908,8.0,114
+826,32910,Transformers: Prime,['US'],en,Transformers: Prime,41.687,8.0,315
+827,81114,God Friended Me,['US'],en,God Friended Me,15.42,8.0,166
+828,118956,DOTA: Dragon's Blood,['US'],en,DOTA: Dragon's Blood,31.187,8.0,280
+829,71789,SEAL Team,['US'],en,SEAL Team,126.345,8.0,1200
+830,745,Spaced,['GB'],en,Spaced,12.034,8.0,304
+831,116386,Doom at Your Service,['KR'],ko,어느 날 우리 집 현관으로 멸망이 들어왔다,35.144,8.0,328
+832,116174,It's a Sin,['GB'],en,It's a Sin,16.571,8.0,106
+833,72027,Raven's Home,['US'],en,Raven's Home,97.99,8.0,108
+834,1436,Justified,['US'],en,Justified,33.329,8.0,487
+835,49471,Danganronpa: The Animation,['JP'],ja,ダンガンロンパ 希望の学園と絶望の高校生 The Animation,24.912,8.0,191
+836,34801,Wolf's Rain,['JP'],ja,WOLF'S RAIN,14.154,8.0,139
+837,75775,Junji Ito Collection,['JP'],ja,伊藤潤二「コレクション」,36.419,8.0,158
+838,38165,ThunderCats,"['JP', 'US']",en,ThunderCats,24.426,8.0,169
+839,78722,Una familia de diez,['MX'],es,Una familia de diez,23.826,8.0,728
+840,65334,Miraculous: Tales of Ladybug & Cat Noir,['FR'],fr,"Miraculous, les aventures de Ladybug et Chat Noir",349.294,8.0,3724
+841,1712,The Munsters,['US'],en,The Munsters,30.443,8.0,332
+842,71915,Good Omens,['GB'],en,Good Omens,45.443,8.0,1226
+843,668,X-Men: Evolution,['US'],en,X-Men: Evolution,34.777,8.0,355
+844,73944,Black,['KR'],ko,블랙,33.236,8.0,306
+845,62455,Locked Up,['ES'],es,Vis a vis,142.141,8.0,2177
+846,67744,Mindhunter,['US'],en,Mindhunter,46.501,8.0,1550
+847,1419,Castle,['US'],en,Castle,226.827,8.0,1358
+848,42511,The Melancholy of Haruhi Suzumiya,['JP'],ja,涼宮ハルヒの憂鬱,21.947,8.0,192
+849,2622,The Universe,['US'],en,The Universe,11.753,8.0,146
+850,116135,Vikings: Valhalla,['US'],en,Vikings: Valhalla,280.06,8.0,244
+851,82596,Emily in Paris,['US'],en,Emily in Paris,46.318,8.0,828
+852,4455,Get Smart,['US'],en,Get Smart,31.742,8.0,312
+853,80748,FBI,['US'],en,FBI,123.507,8.0,606
+854,68780,Star,['US'],en,Star,13.645,8.0,114
+855,46025,Infinite Stratos,['JP'],ja,IS 〈インフィニット・ストラトス〉,18.02,8.0,112
+856,52,That '70s Show,['US'],en,That '70s Show,73.715,8.0,996
+857,93741,Jurassic World: Camp Cretaceous,['US'],en,Jurassic World: Camp Cretaceous,124.803,8.0,1599
+858,89905,Normal People,['GB'],en,Normal People,33.386,8.0,721
+859,88324,Virgin River,['US'],en,Virgin River,27.727,8.0,311
+860,94810,Adventure Time: Distant Lands,['US'],en,Adventure Time: Distant Lands,61.968,8.0,357
+861,85940,7SEEDS,['JP'],ja,セブンシーズ,35.141,8.0,182
+862,44807,Fatmagul,['TR'],tr,Fatmagül'ün Suçu Ne?,18.215,8.0,305
+863,77939,MEGALOBOX,['JP'],ja,メガロボクス,24.499,8.0,167
+864,14069,In Treatment,['US'],en,In Treatment,32.594,8.0,108
+865,2391,Tales from the Crypt,['US'],en,Tales from the Crypt,17.37,8.0,703
+866,1570,The Adventures of Tintin,"['BE', 'CA', 'US', 'FR']",fr,The Adventures of Tintin,33.604,8.0,213
+867,99583,Danger Force,['US'],en,Danger Force,39.513,8.0,183
+868,42942,Angel Beats!,['JP'],ja,エンジェルビーツ!,19.582,8.0,262
+869,60585,Bosch,['US'],en,Bosch,116.858,8.0,346
+870,17463,Kid vs. Kat,"['CA', 'US']",en,Kid vs. Kat,21.473,8.0,243
+871,90282,The Morning Show,['US'],en,The Morning Show,24.971,8.0,392
+872,103768,Sweet Tooth,['US'],en,Sweet Tooth,82.257,8.0,947
+873,1892,The Fresh Prince of Bel-Air,['US'],en,The Fresh Prince of Bel-Air,37.755,8.0,1767
+874,105590,Chespirito,['MX'],es,Chespirito,16.474,8.0,278
+875,65988,Wynonna Earp,"['CA', 'US']",en,Wynonna Earp,33.641,8.0,679
+876,133423,Rap Battlefield,['AR'],es,Días de Gallos,13.682,8.0,104
+877,85727,In the Dark,['US'],en,In the Dark,22.129,8.0,154
+878,64757,Vecinos,['CO'],es,Vecinos,12.444,8.0,294
+879,4556,Scrubs,['US'],en,Scrubs,65.655,8.0,1173
+880,252,Everybody Hates Chris,['US'],en,Everybody Hates Chris,57.176,8.0,703
+881,17035,Generation Kill,['US'],en,Generation Kill,15.118,8.0,290
+882,9027,Rebelde Way,['AR'],es,Rebelde Way,151.643,8.0,276
+883,2686,Three's Company,['US'],en,Three's Company,15.276,8.0,112
+884,66573,The Good Place,['US'],en,The Good Place,26.869,8.0,927
+885,3796,Trailer Park Boys,['CA'],en,Trailer Park Boys,32.047,8.0,175
+886,2426,Angel,['US'],en,Angel,58.084,8.0,702
+887,89572,Nancy Drew,['US'],en,Nancy Drew,17.422,8.0,208
+888,104229,Grand Army,['US'],en,Grand Army,8.294,8.0,116
+889,83631,What We Do in the Shadows,['US'],en,What We Do in the Shadows,36.684,8.0,326
+890,2290,Stargate Atlantis,"['CA', 'US']",en,Stargate Atlantis,69.355,8.0,760
+891,99073,I've Been Killing Slimes for 300 Years and Maxed Out My Level,['JP'],ja,スライム倒して300年、知らないうちにレベルMAXになってました,26.394,8.0,147
+892,61915,K.C. Undercover,['US'],en,K.C. Undercover,34.428,8.0,128
+893,135340,Happiness,['KR'],ko,해피니스,42.8,8.0,342
+894,57041,Gintama,['JP'],ja,銀魂,85.195,8.0,124
+895,4345,Saved by the Bell,['US'],en,Saved by the Bell,26.385,8.0,523
+896,52891,YuruYuri: Happy Go Lily,['JP'],ja,ゆるゆり,16.65,8.0,101
+897,9892,Grimm's Fairy Tale Classics,['CO'],ja,グリム名作劇場,28.59,8.0,101
+898,96734,High Fidelity,['US'],en,High Fidelity,8.794,8.0,130
+899,85021,Gangs of London,['GB'],en,Gangs of London,17.928,8.0,357
+900,32871,Supernatural: The Animation,['JP'],ja,Supernatural: The Animation,13.739,8.0,218
+901,17611,Southland,['US'],en,Southland,21.373,8.0,110
+902,11095,Tour of Duty,['US'],en,Tour of Duty,22.392,8.0,111
+903,4482,Bewitched,['US'],en,Bewitched,53.873,8.0,544
+904,2719,Coupling,['GB'],en,Coupling,12.074,8.0,217
+905,1621,Boardwalk Empire,['US'],en,Boardwalk Empire,26.371,8.0,754
+906,80240,The Queen of Flow,['CO'],es,La Reina del Flow,274.79,8.0,1332
+907,65495,Atlanta,['US'],en,Atlanta,26.508,8.0,432
+908,63351,Narcos,['US'],en,Narcos,72.16,8.0,2019
+909,530,The Mobile Cop Jiban,['JP'],ja,機動刑事ジバン,14.014,8.0,192
+910,4396,Northern Exposure,['US'],en,Northern Exposure,16.461,8.0,108
+911,2416,Count Duckula,['GB'],en,Count Duckula,13.889,8.0,190
+912,61418,Jane the Virgin,['US'],en,Jane the Virgin,65.765,8.0,683
+913,18347,Community,['US'],en,Community,49.081,8.0,1087
+914,96777,The Silent Sea,['KR'],ko,고요의 바다,124.989,8.0,402
+915,62742,Sankarea: Undying Love,['JP'],ja,さんかれあ,24.447,8.0,201
+916,61014,The Knick,['US'],en,The Knick,14.512,8.0,311
+917,73544,Warrior,['US'],en,Warrior,30.541,8.0,327
+918,63407,My Heart is Yours,['MX'],es,Mi corazón es tuyo,65.984,8.0,938
+919,62917,Hidden Truths,['BR'],pt,Verdades Secretas,37.365,8.0,245
+920,693,Desperate Housewives,['US'],en,Desperate Housewives,126.561,8.0,1391
+921,96444,Interspecies Reviewers,['JP'],ja,異種族レビュアーズ,20.674,8.0,379
+922,10331,Spawn,['US'],en,Spawn,13.559,8.0,199
+923,456,The Simpsons,['US'],en,The Simpsons,575.974,8.0,7954
+924,82700,Baby,['IT'],it,Baby,35.956,8.0,637
+925,918,M*A*S*H,['US'],en,M*A*S*H,26.454,8.0,460
+926,111141,Maid,['US'],en,Maid,57.934,8.0,414
+927,32895,Rizzoli & Isles,['US'],en,Rizzoli & Isles,48.641,8.0,309
+928,72,Only Fools and Horses,['GB'],en,Only Fools and Horses,16.329,8.0,193
+929,77601,Wild Wild Country,['US'],en,Wild Wild Country,10.584,8.0,121
+930,7246,Blackadder,['GB'],en,Blackadder,33.355,8.0,303
+931,1427,Broadchurch,['GB'],en,Broadchurch,19.09,8.0,556
+932,62255,Seraph of the End,['JP'],ja,終わりのセラフ,34.235,7.9,243
+933,86189,Betty en NY,"['US', 'MX']",es,Betty en NY,14.701,7.9,154
+934,46296,Spartacus,['US'],en,Spartacus,148.891,7.9,1732
+935,82369,Kızım,['TR'],tr,Kızım,17.622,7.9,186
+936,61738,Hi! School - Love On,['KR'],ko,하이스쿨: 러브온,13.819,7.9,390
+937,90027,Carnival Row,['US'],en,Carnival Row,35.03,7.9,726
+938,62725,Bella and the Bulldogs,['US'],en,Bella and the Bulldogs,18.285,7.9,127
+939,4607,Lost,['US'],en,Lost,133.778,7.9,2837
+940,107171,La CQ,['MX'],es,La CQ,23.379,7.9,165
+941,512,Third Watch,['US'],en,Third Watch,20.265,7.9,148
+942,64099,War and Peace,"['DE', 'GB', 'IT', 'PL', 'RU', 'GR']",en,War and Peace,17.018,7.9,133
+943,8358,Lie to Me,['US'],en,Lie to Me,40.855,7.9,1125
+944,108303,Tiny World,['US'],en,Tiny World,12.141,7.9,107
+945,80968,Narcos: Mexico,['US'],en,Narcos: Mexico,72.83,7.9,969
+946,66203,I am Luna,['AR'],es,Soy Luna,279.138,7.9,930
+947,18685,Until the money ends [Hasta Que el Dinero Nos Separe],['MX'],es,Hasta Que el Dinero Nos Separe,15.957,7.9,527
+948,17937,Ghost Adventures,['US'],en,Ghost Adventures,23.542,7.9,162
+949,4271,Farscape,"['US', 'AU']",en,Farscape,34.82,7.9,368
+950,70881,Boruto: Naruto Next Generations,['JP'],ja,BORUTO-ボルト- NARUTO NEXT GENERATIONS,28.571,7.9,2080
+951,54728,Beyblade,['JP'],ja,爆転シュート　ベイブレード,39.559,7.9,138
+952,605,"Sabrina, the Teenage Witch",['US'],en,"Sabrina, the Teenage Witch",56.662,7.9,829
+953,95259,Dare Me,['US'],en,Dare Me,13.962,7.9,306
+954,65708,Taboo,"['GB', 'US']",en,Taboo,30.205,7.9,876
+955,10283,Archer,['US'],en,Archer,60.458,7.9,874
+956,5273,Alfred Hitchcock Presents,['US'],en,Alfred Hitchcock Presents,22.195,7.9,150
+957,41727,Banshee,['US'],en,Banshee,49.103,7.9,848
+958,2604,The Boondocks,['US'],en,The Boondocks,23.213,7.9,210
+959,76530,Price Of Passion,['TR'],tr,Siyah Beyaz Aşk,41.909,7.9,138
+960,5835,Goosebumps,"['US', 'CA']",en,Goosebumps,69.753,7.9,453
+961,94245,Swagger,['US'],en,Swagger,10.928,7.9,110
+962,48866,The 100,['US'],en,The 100,225.523,7.9,7022
+963,45579,The Moon Embracing the Sun,['KR'],ko,해를 품은 달,18.667,7.9,158
+964,5639,Pushing Daisies,['US'],en,Pushing Daisies,12.924,7.9,288
+965,60694,Last Week Tonight with John Oliver,['US'],en,Last Week Tonight with John Oliver,40.723,7.9,478
+966,249,Clarissa Explains It All,['US'],en,Clarissa Explains It All,23.266,7.9,117
+967,62046,Scream Queens,['US'],en,Scream Queens,89.453,7.9,1446
+968,121,Doctor Who,['GB'],en,Doctor Who,102.03,7.9,434
+969,87689,Warrior Nun,['US'],en,Warrior Nun,51.381,7.9,761
+970,93292,Duncanville,['US'],en,Duncanville,20.747,7.9,236
+971,93166,The Capture,['GB'],en,The Capture,13.75,7.9,111
+972,1720,Foster's Home for Imaginary Friends,['US'],en,Foster's Home for Imaginary Friends,45.285,7.9,370
+973,12751,Automan,['US'],en,Automan,15.697,7.9,138
+974,606,"Ed, Edd n Eddy","['CA', 'US']",en,"Ed, Edd n Eddy",45.414,7.9,559
+975,1877,Phineas and Ferb,['US'],en,Phineas and Ferb,66.175,7.9,513
+976,1855,Star Trek: Voyager,['US'],en,Star Trek: Voyager,72.067,7.9,631
+977,9155,Tekkaman Blade,['JP'],ja,宇宙の騎士テッカマンブレード,15.066,7.9,129
+978,2429,Aaahh!!! Real Monsters,['US'],en,Aaahh!!! Real Monsters,18.67,7.9,310
+979,95603,Kuruluş Osman,['TR'],tr,Kuruluş Osman,27.115,7.9,232
+980,61056,How to Get Away with Murder,['US'],en,How to Get Away with Murder,52.613,7.9,1187
+981,60833,The Irregular at Magic High School,['JP'],ja,魔法科高校の劣等生,35.292,7.9,180
+982,61483,The Little Prince,['FR'],fr,Le petit prince,10.062,7.9,115
+983,40403,Miss XV,['MX'],es,Miss XV,17.324,7.9,150
+984,1695,Monk,['US'],en,Monk,105.935,7.9,714
+985,42350,Por ella soy Eva,['MX'],es,Por ella soy Eva,11.795,7.9,235
+986,2734,Law & Order: Special Victims Unit,['US'],en,Law & Order: Special Victims Unit,434.627,7.9,2912
+987,88045,How Heavy Are the Dumbbells You Lift?,['JP'],ja,ダンベル何キロ持てる?,9.26,7.9,220
+988,4269,The Transformers,['US'],en,The Transformers,29.768,7.9,265
+989,103411,Blood & Water,['ZA'],en,Blood & Water,9.228,7.9,251
+990,95205,The Equalizer,['US'],en,The Equalizer,23.037,7.9,162
+991,13023,El Chapulín Colorado,['MX'],es,El Chapulín Colorado,109.148,7.9,559
+992,59186,Impractical Jokers,['US'],en,Impractical Jokers,51.294,7.9,265
+993,4327,Mr. Bean,['GB'],en,Mr. Bean,39.071,7.9,881
+994,90766,Teenage Bounty Hunters,['US'],en,Teenage Bounty Hunters,19.202,7.9,248
+995,3902,Shaun the Sheep,['GB'],en,Shaun the Sheep,35.869,7.9,126
+996,652,"What's New, Scooby-Doo?",['US'],en,"What's New, Scooby-Doo?",39.444,7.9,518
+997,86673,My Little Pony: Equestria Girls - Better Together,[],en,My Little Pony: Equestria Girls - Better Together,15.579,7.9,160
+998,71225,Cable Girls,['ES'],es,Las chicas del cable,46.812,7.9,391
+999,102904,Sweet Magnolias,['US'],en,Sweet Magnolias,18.57,7.9,163
+1000,1922,All in the Family,['US'],en,All in the Family,17.595,7.9,118
+1001,66276,The Night Of,['US'],en,The Night Of,25.511,7.9,660
+1002,30983,Case Closed,['JP'],ja,名探偵コナン,50.564,7.9,542
+1003,7225,Merlin,['GB'],en,Merlin,65.345,7.9,638
+1004,12614,Clase 406,['MX'],es,Clase 406,14.798,7.9,240
+1005,88640,Looking for Alaska,['US'],en,Looking for Alaska,14.482,7.9,474
+1006,61445,Rage of Bahamut,['JP'],ja,神撃のバハムート,16.551,7.9,105
+1007,80307,Bodyguard,['GB'],en,Bodyguard,22.959,7.9,475
+1008,56425,Baki the Grappler,['JP'],ja,グラップラー刃牙,120.084,7.9,238
+1009,15114,John Adams,['US'],en,John Adams,15.181,7.9,199
+1010,2996,The Office,['GB'],en,The Office,18.576,7.9,537
+1011,4598,Boston Legal,['US'],en,Boston Legal,39.475,7.9,234
+1012,68073,The Loud House,['US'],en,The Loud House,60.503,7.9,386
+1013,2211,'Allo 'Allo!,['GB'],en,'Allo 'Allo!,24.71,7.9,145
+1014,34415,The Killing,['US'],en,The Killing,22.995,7.9,529
+1015,11767,Yu-Gi-Oh! Capsule Monsters,['US'],en,Yu-Gi-Oh! Capsule Monsters,21.723,7.9,255
+1016,1126,Happy Tree Friends,['US'],en,Happy Tree Friends,34.121,7.9,451
+1017,580,Star Trek: Deep Space Nine,['US'],en,Star Trek: Deep Space Nine,74.288,7.9,535
+1018,46533,The Americans,['US'],en,The Americans,28.857,7.9,644
+1019,79863,Pretty Little Liars: The Perfectionists,['US'],en,Pretty Little Liars: The Perfectionists,25.377,7.9,406
+1020,66292,Big Little Lies,['US'],en,Big Little Lies,26.702,7.9,1056
+1021,62084,Poldark,['GB'],en,Poldark,24.971,7.9,207
+1022,21561,The Outer Limits,['US'],en,The Outer Limits,16.616,7.9,137
+1023,62428,Saint Seiya: Soul of Gold,['JP'],ja,聖闘士星矢 黄金魂,67.439,7.9,569
+1024,64353,Versailles,"['CA', 'FR']",en,Versailles,28.587,7.9,139
+1025,13455,Tales from the Cryptkeeper,"['CA', 'US']",en,Tales from the Cryptkeeper,16.536,7.9,109
+1026,70176,Land of Honor,['US'],es,Tierra de Reyes,20.098,7.9,371
+1027,66980,Babylon Berlin,['DE'],de,Babylon Berlin,27.343,7.9,184
+1028,11245,Angels in America,['US'],en,Angels in America,13.548,7.9,157
+1029,2617,Step by Step,['US'],en,Step by Step,27.32,7.9,305
+1030,96677,Lupin,['FR'],fr,Lupin,75.962,7.9,1421
+1031,44824,Pasión prohibida,['US'],es,Pasión prohibida,14.903,7.9,446
+1032,45871,Locked Up: The Oasis,['ES'],es,Vis a Vis: El Oasis,36.671,7.9,1925
+1033,64671,The Asterisk War,['JP'],ja,学戦都市アスタリスク,23.104,7.9,140
+1034,47699,Queen of Hearts,['US'],es,Reina de Corazones,109.393,7.9,152
+1035,99581,Unorthodox,['DE'],de,Unorthodox,12.91,7.9,422
+1036,73107,Barry,['US'],en,Barry,34.55,7.9,435
+1037,64439,Making a Murderer,['US'],en,Making a Murderer,9.33,7.9,354
+1038,46261,Fairy Tail,['JP'],ja,フェアリーテイル,25.925,7.9,746
+1039,80743,Insatiable,['US'],en,Insatiable,76.37,7.9,1429
+1040,44317,Saint Seiya Omega,['JP'],ja,聖闘士星矢Ω,41.874,7.9,148
+1041,76409,Kakegurui,['JP'],ja,賭ケグルイ,21.423,7.9,151
+1042,66761,Medici: Masters of Florence,"['IT', 'GB']",en,Medici: Masters of Florence,39.087,7.9,186
+1043,37305,Soul Eater,['JP'],ja,ソウルイーター,31.116,7.9,186
+1044,130,All Grown Up!,['US'],en,All Grown Up!,19.92,7.9,167
+1045,82104,The Order,['US'],en,The Order,33.957,7.9,685
+1046,1426,Luther,['GB'],en,Luther,26.458,7.9,721
+1047,87462,Ao-chan Can't Study!,['JP'],ja,みだらな青ちゃんは勉強ができない,17.333,7.9,160
+1048,70215,The White Princess,['US'],en,The White Princess,48.75,7.9,190
+1049,1341,Lola...Érase una vez,['MX'],es,Lola...Érase una vez,10.121,7.9,112
+1050,54671,Penny Dreadful,['US'],en,Penny Dreadful,25.859,7.9,1005
+1051,80006,Good Trouble,['US'],en,Good Trouble,33.543,7.9,124
+1052,65944,Haven't You Heard? I'm Sakamoto,['JP'],ja,坂本ですが？,16.68,7.9,128
+1053,110642,Resident Evil: Infinite Darkness,['US'],en,Resident Evil: Infinite Darkness,36.517,7.9,622
+1054,113036,American Horror Stories,['US'],en,American Horror Stories,136.502,7.9,459
+1055,1660,I Dream of Jeannie,['US'],en,I Dream of Jeannie,64.996,7.9,622
+1056,45666,Sam & Cat,['US'],en,Sam & Cat,38.153,7.9,278
+1057,79410,After Life,['GB'],en,After Life,21.395,7.9,382
+1058,61859,The Night Manager,['GB'],en,The Night Manager,21.173,7.9,704
+1059,2742,Flight of the Conchords,['US'],en,Flight of the Conchords,14.107,7.9,234
+1060,4588,ER,['US'],en,ER,49.173,7.9,597
+1061,2009,Rocket Power,['US'],en,Rocket Power,23.447,7.9,261
+1062,90462,Chucky,['US'],en,Chucky,283.86,7.9,3155
+1063,85942,Darwin's Game,['JP'],ja,ダーウィンズゲーム,22.392,7.9,105
+1064,4625,The New Batman Adventures,['US'],en,The New Batman Adventures,34.556,7.9,234
+1065,75208,Devilman Crybaby,['JP'],ja,DEVILMAN crybaby,44.072,7.9,334
+1066,72350,DuckTales,['US'],en,DuckTales,46.579,7.9,184
+1067,61259,Aldnoah.Zero,['JP'],ja,アルドノア・ゼロ,15.478,7.9,101
+1068,18156,Emma,['GB'],en,Emma,10.833,7.9,101
+1069,90823,BIA,"['AR', 'BR']",es,BIA,29.169,7.9,279
+1070,66084,Acapulco Shore,['MX'],es,Acapulco Shore,111.012,7.9,908
+1071,42035,The Boat,['ES'],es,El barco,114.004,7.9,1481
+1072,99335,Get Even,['GB'],en,Get Even,20.165,7.9,159
+1073,95433,Kakushigoto,['JP'],ja,かくしごと,18.343,7.9,105
+1074,2022,The Batman,['US'],en,The Batman,46.965,7.8,330
+1075,37437,Heaven's Lost Property,['JP'],ja,そらのおとしもの,19.619,7.9,101
+1076,79251,Hijas de la Luna,[],es,Hijas de la Luna,18.187,7.9,213
+1077,57577,Blood Lad,['JP'],ja,ブラッドラッド,18.779,7.9,153
+1078,99799,Alex Rider,['GB'],en,Alex Rider,22.509,7.8,311
+1079,61664,Sense8,['US'],en,Sense8,40.777,7.8,1132
+1080,77529,B: The Beginning,['JP'],ja,B: The Beginning,22.544,7.8,125
+1081,79593,Magnum P.I.,['US'],en,Magnum P.I.,60.076,7.8,190
+1082,72462,Free Rein,['US'],en,Free Rein,32.546,7.8,144
+1083,2150,The Scooby-Doo/Dynomutt Hour,['US'],en,The Scooby-Doo/Dynomutt Hour,16.396,7.8,137
+1084,104711,EDENS ZERO,['JP'],ja,EDENS ZERO,30.416,7.8,143
+1085,74204,Big Mouth,['US'],en,Big Mouth,56.603,7.8,716
+1086,32726,Bob's Burgers,['US'],en,Bob's Burgers,81.023,7.8,640
+1087,1450,The Closer,['US'],en,The Closer,40.121,7.8,205
+1088,346,American Dragon: Jake Long,['US'],en,American Dragon: Jake Long,69.969,7.8,393
+1089,71914,The Wheel of Time,['US'],en,The Wheel of Time,222.654,7.8,1428
+1090,61018,Whose Line Is It Anyway?,['US'],en,Whose Line Is It Anyway?,20.456,7.8,233
+1091,58710,Carita de Ángel,['MX'],es,Carita de Ángel,109.328,7.8,326
+1092,4586,Gilmore Girls,['US'],en,Gilmore Girls,56.158,7.8,581
+1093,25760,Higurashi: When They Cry,['JP'],ja,ひぐらしのなく頃に,23.631,7.8,151
+1094,3868,The Lost Room,['US'],en,The Lost Room,11.903,7.8,320
+1095,62490,El Negocio,['BR'],pt,O Negócio,14.048,7.8,115
+1096,6024,Police Squad!,['US'],en,Police Squad!,10.524,7.8,260
+1097,4624,Roswell,['US'],en,Roswell,22.68,7.8,344
+1098,2673,The O.C.,['US'],en,The O.C.,41.273,7.8,518
+1099,80986,DC's Stargirl,['US'],en,DC's Stargirl,129.0,7.8,933
+1100,49009,The Goldbergs,['US'],en,The Goldbergs,45.232,7.8,252
+1101,1830,Tiny Toon Adventures,['US'],en,Tiny Toon Adventures,13.273,7.8,413
+1102,82424,SKAM Spain,['ES'],es,SKAM España,28.447,7.8,384
+1103,58539,Wild at Heart,['MX'],es,Corazón Indomable,25.194,7.8,422
+1104,33213,Shake It Up,['US'],en,Shake It Up,26.945,7.8,210
+1105,8962,3000 Leagues in Search of Mother,['JP'],ja,母をたずねて三千里,24.196,7.8,110
+1106,33852,Lost Girl,['CA'],en,Lost Girl,28.166,7.8,328
+1107,926,"Scooby-Doo, Where Are You!",['US'],en,"Scooby-Doo, Where Are You!",52.868,7.8,510
+1108,78670,Impulse,['US'],en,Impulse,16.521,7.8,223
+1109,126,Unsolved Mysteries,['US'],en,Unsolved Mysteries,11.742,7.8,101
+1110,67557,The Grand Tour,['GB'],en,The Grand Tour,22.547,7.8,498
+1111,41692,Lonesome Dove,['US'],en,Lonesome Dove,16.056,7.8,146
+1112,67117,American Housewife,['US'],en,American Housewife,19.407,7.8,112
+1113,1428,MythBusters,['US'],en,MythBusters,47.852,7.8,391
+1114,25707,Captain Tsubasa,['JP'],ja,キャプテン翼,77.03,7.8,634
+1115,95941,Zoey's Extraordinary Playlist,['US'],en,Zoey's Extraordinary Playlist,15.523,7.8,133
+1116,1432,Veronica Mars,['US'],en,Veronica Mars,26.307,7.8,430
+1117,3763,Dinosaurs,['US'],en,Dinosaurs,37.795,7.8,817
+1118,1472,Kung Fu,['US'],en,Kung Fu,0.6,7.8,141
+1119,21567,The Outer Limits,['US'],en,The Outer Limits,17.326,7.8,103
+1120,48462,The Heirs,['KR'],ko,상속자들,48.559,7.8,481
+1121,19588,¡Vivan los niños!,['MX'],es,¡Vivan los niños!,17.309,7.8,182
+1122,8514,RuPaul's Drag Race,['US'],en,RuPaul's Drag Race,38.314,7.8,156
+1123,34793,Girls Bravo,['JP'],ja,ガールズブラボー,13.421,7.8,262
+1124,2171,Cold Case,['US'],en,Cold Case,38.617,7.8,242
+1125,43865,Psycho-Pass,['JP'],ja,サイコパス,27.114,7.8,271
+1126,12777,Corazón salvaje,['MX'],es,Corazón salvaje,18.703,7.8,521
+1127,95356,Matchday: Inside FC Barcelona,['ES'],es,Matchday: Inside FC Barcelona,22.025,7.8,116
+1128,67043,91 Days,['JP'],ja,91デイズ,18.607,7.8,138
+1129,60743,Constantine,['US'],en,Constantine,57.183,7.8,1224
+1130,93405,Squid Game,['KR'],ko,오징어 게임,462.629,7.8,10933
+1131,63109,Moses and the Ten Commandments,['BR'],pt,Os Dez Mandamentos,26.945,7.8,789
+1132,60735,The Flash,['US'],en,The Flash,871.046,7.8,9746
+1133,18520,Drop Dead Diva,['US'],en,Drop Dead Diva,25.103,7.8,190
+1134,96571,Move to Heaven,['KR'],ko,무브 투 헤븐: 나는 유품정리사입니다,16.703,7.8,167
+1135,40351,Green Lantern: The Animated Series,['US'],en,Green Lantern: The Animated Series,17.339,7.8,140
+1136,128252,The Snitch Cartel: Origins,['CO'],es,El cartel de los sapos: El origen,267.373,7.8,259
+1137,79788,Watchmen,['US'],en,Watchmen,32.378,7.8,897
+1138,60730,Haganai: I Don't Have Many Friends,['JP'],ja,僕は友達が少ない,16.632,7.8,112
+1139,1418,The Big Bang Theory,['US'],en,The Big Bang Theory,172.444,7.8,8674
+1140,129035,The Walking Dead: Origins,['US'],en,The Walking Dead: Origins,105.056,7.8,399
+1141,34408,Mischievous Kiss,['KR'],ko,장난스런 키스,24.129,7.8,325
+1142,67773,Dirk Gently's Holistic Detective Agency,"['GB', 'US']",en,Dirk Gently's Holistic Detective Agency,20.037,7.8,538
+1143,2260,H2O: Just Add Water,['AU'],en,H2O: Just Add Water,26.088,7.8,429
+1144,38693,Ninjago: Masters of Spinjitzu,"['US', 'DK']",en,Ninjago: Masters of Spinjitzu,73.285,7.8,612
+1145,119988,The Innocent,['ES'],es,El inocente,15.151,7.8,222
+1146,19253,Mazinger Z,['JP'],ja,マジンガーZ,31.602,7.8,298
+1147,112166,Yasuke,['US'],en,Yasuke,11.199,7.8,177
+1148,56296,Orphan Black,"['US', 'CA']",en,Orphan Black,35.238,7.8,952
+1149,46143,Xica da Silva,['BR'],pt,Xica da Silva,7.63,7.8,104
+1150,94703,Bronco The Series,['MX'],es,Bronco La Serie,10.863,7.8,135
+1151,81354,Ratched,['US'],en,Ratched,41.456,7.8,877
+1152,15842,El Clon,"['US', 'CO']",en,El Clon,15.439,7.8,415
+1153,86848,Evil,['US'],en,Evil,75.813,7.8,360
+1154,4620,Eureka,['US'],en,Eureka,27.113,7.8,467
+1155,4605,The Suite Life of Zack & Cody,['US'],en,The Suite Life of Zack & Cody,44.165,7.8,503
+1156,10821,Blue's Clues,['US'],en,Blue's Clues,28.024,7.8,167
+1157,1447,Psych,['US'],en,Psych,79.445,7.8,560
+1158,97645,Solar Opposites,['US'],en,Solar Opposites,32.552,7.8,250
+1159,83596,Amar a Muerte,['MX'],es,Amar a Muerte,20.167,7.8,492
+1160,2942,The Tudors,['US'],en,The Tudors,37.387,7.8,476
+1161,3845,Happy Days,['US'],en,Happy Days,28.599,7.8,172
+1162,19818,El Escamoso,['CO'],es,El Escamoso,37.423,7.8,322
+1163,93392,Raising Dion,['US'],en,Raising Dion,29.13,7.8,306
+1164,78122,Saint Seiya: Saintia Sho,['JP'],ja,聖闘士星矢 セインティア翔,17.69,7.8,254
+1165,73481,Ecomoda,['CO'],es,Ecomoda,78.546,7.8,931
+1166,73467,Godless,['US'],en,Godless,23.142,7.8,311
+1167,42503,Deadman Wonderland,['JP'],ja,デッドマン・ワンダーランド,21.407,7.8,324
+1168,4344,Rescue Me,['US'],en,Rescue Me,20.232,7.8,117
+1169,1546,Recess,['US'],en,Recess,25.128,7.8,364
+1170,3797,Life,['US'],en,Life,15.614,7.8,163
+1171,68183,The Hours of My Life,['JP'],ja,僕のいた時間,6.904,7.8,121
+1172,4334,Freakazoid!,['US'],en,Freakazoid!,27.874,7.8,128
+1173,70128,Genius,['US'],en,Genius,25.689,7.8,197
+1174,32900,Through the Wormhole,['US'],en,Through the Wormhole,14.847,7.8,108
+1175,2693,Extras,['GB'],en,Extras,15.0,7.8,250
+1176,894,The Prisoner,['GB'],en,The Prisoner,10.424,7.8,125
+1177,60866,iZombie,['US'],en,iZombie,46.016,7.8,2452
+1178,269,One Tree Hill,['US'],en,One Tree Hill,34.192,7.8,290
+1179,105177,Unsolved Mysteries,['US'],en,Unsolved Mysteries,19.576,7.8,227
+1180,71722,Deception,['US'],en,Deception,25.072,7.8,175
+1181,31585,Rookie Blue,['CA'],en,Rookie Blue,19.715,7.8,137
+1182,1482,Spider-Man,"['US', 'CA']",en,Spider-Man,16.792,7.8,153
+1183,109958,The Haunting of Bly Manor,['US'],en,The Haunting of Bly Manor,36.829,7.8,650
+1184,71809,The Dark Crystal: Age of Resistance,"['GB', 'US']",en,The Dark Crystal: Age of Resistance,25.125,7.8,265
+1185,111494,Física o Química: El Reencuentro,['ES'],es,Física o Química: El Reencuentro,22.908,7.8,111
+1186,54583,Los heroes del norte,[],es,Los heroes del norte,11.275,7.8,393
+1187,44953,The Lord of the Skies,['MX'],es,El señor de los cielos,519.258,7.8,1913
+1188,2284,Teenage Mutant Ninja Turtles,['US'],en,Teenage Mutant Ninja Turtles,33.515,7.8,103
+1189,132141,Maya and the Three,['MX'],en,Maya and the Three,49.647,7.8,224
+1190,88396,The Falcon and the Winter Soldier,['US'],en,The Falcon and the Winter Soldier,151.238,7.8,7188
+1191,43901,Longmire,['US'],en,Longmire,30.797,7.8,199
+1192,7311,Nuevo Rico Nuevo Pobre,['CO'],en,Nuevo Rico Nuevo Pobre,13.901,7.8,334
+1193,87623,Hercai,['TR'],tr,Hercai,35.739,7.8,624
+1194,42410,Durarara!!,['JP'],ja,デュラララ!!,31.245,7.8,123
+1195,63418,Code Black,['US'],en,Code Black,26.611,7.8,213
+1196,70191,The Liar and His Lover,['KR'],ko,그녀는 거짓말을 너무 사랑해,23.896,7.8,117
+1197,45125,Btooom!,['JP'],ja,BTOOOM!,19.837,7.8,151
+1198,2418,The Venture Bros.,['US'],en,The Venture Bros.,15.732,7.8,142
+1199,80169,The House of Flowers,['MX'],es,La casa de las flores,32.619,7.8,843
+1200,114165,Kung Fu,['US'],en,Kung Fu,23.528,7.8,210
+1201,2228,Pinky and the Brain,['US'],en,Pinky and the Brain,17.828,7.8,566
+1202,47,El Chavo del Ocho,['MX'],es,El Chavo del Ocho,99.735,7.8,1482
+1203,70828,Surviving Escobar - Alias JJ,['CO'],es,Alias JJ,98.934,7.8,970
+1204,33761,Triumph of Love,['MX'],es,Triunfo del amor,15.422,7.8,437
+1205,76130,Killing Bites,['JP'],ja,キリングバイツ,18.49,7.8,109
+1206,1950,Everwood,['US'],en,Everwood,25.215,7.8,131
+1207,1973,24,['US'],en,24,79.809,7.8,1100
+1208,1032,Aída,['ES'],es,Aída,25.811,7.8,191
+1209,105288,Down to Earth with Zac Efron,['US'],en,Down to Earth with Zac Efron,20.475,7.8,267
+1210,2317,My Name Is Earl,['US'],en,My Name Is Earl,37.527,7.8,717
+1211,68421,Altered Carbon,['US'],en,Altered Carbon,52.958,7.8,1338
+1212,65555,Endless Love,['TR'],tr,Kara Sevda,196.557,7.8,587
+1213,2973,Life on Mars,['GB'],en,Life on Mars,9.062,7.8,180
+1214,64464,11.22.63,['US'],en,11.22.63,22.517,7.8,1028
+1215,43513,The Adventures of Tom Sawyer,['JP'],ja,トム・ソーヤーの冒険,15.549,7.8,111
+1216,76438,Everything Sucks!,['US'],en,Everything Sucks!,17.535,7.8,129
+1217,63764,Senora Acero,['US'],es,Señora Acero,141.384,7.8,409
+1218,2875,MacGyver,"['CA', 'US']",en,MacGyver,52.4,7.8,595
+1219,94536,Hernán,['MX'],es,Hernán,14.778,7.8,151
+1220,1952,Mystery Science Theater 3000,['US'],en,Mystery Science Theater 3000,13.088,7.8,141
+1221,1620,CSI: Miami,['US'],en,CSI: Miami,152.729,7.8,1290
+1222,96348,The Gift,['TR'],tr,Atiye,20.264,7.8,131
+1223,4658,ALF,['US'],en,ALF,43.127,7.8,843
+1224,70453,Sharp Objects,['US'],en,Sharp Objects,19.957,7.8,504
+1225,34014,An Idiot Abroad,['GB'],en,An Idiot Abroad,13.516,7.8,164
+1226,69541,Harlots,['GB'],en,Harlots,17.596,7.8,128
+1227,3764,Hustle,['GB'],en,Hustle,29.633,7.8,106
+1228,65942,Re:ZERO -Starting Life in Another World-,['JP'],ja,Re：ゼロから始める異世界生活,61.685,7.8,238
+1229,5522,Doña Bárbara,"['CO', 'US']",es,Doña Bárbara,76.798,7.8,566
+1230,80825,Jesus,['BR'],pt,Jesus,49.298,7.8,259
+1231,87017,P-Valley,['US'],en,P-Valley,63.477,7.8,160
+1232,66788,13 Reasons Why,['US'],en,13 Reasons Why,103.148,7.7,3320
+1233,88061,"Hensuki: Are You Willing to Fall in Love With a Pervert, As Long As She's a Cutie?",['JP'],ja,可愛ければ変態でも好きになってくれますか？,24.216,7.7,485
+1234,20993,Galactik Football,['FR'],fr,Galactik Football,6.69,7.7,107
+1235,86340,Undone,['US'],en,Undone,16.705,7.7,146
+1236,37652,Una familia con suerte,['MX'],es,Una familia con suerte,7.775,7.7,114
+1237,15826,1000 Ways to Die,['US'],en,1000 Ways to Die,15.807,7.8,322
+1238,130372,"Doogie Kamealoha, M.D.",['US'],en,"Doogie Kamealoha, M.D.",49.326,7.7,149
+1239,71886,Siren,['US'],en,Siren,75.863,7.7,3061
+1240,45630,Hit the Floor,['US'],en,Hit the Floor,13.983,7.7,102
+1241,13851,Jane Eyre,['GB'],en,Jane Eyre,16.552,7.7,100
+1242,69581,The Worst Witch,['GB'],en,The Worst Witch,38.931,7.7,129
+1243,80826,Happy Sugar Life,['JP'],ja,ハッピーシュガーライフ,18.513,7.7,105
+1244,60726,Forever,['US'],en,Forever,19.272,7.7,404
+1245,92830,Obi-Wan Kenobi,['US'],en,Obi-Wan Kenobi,1465.379,7.7,489
+1246,136322,Dragons: The Nine Realms,['US'],en,Dragons: The Nine Realms,45.632,7.7,177
+1247,1404,Chuck,['US'],en,Chuck,53.073,7.7,680
+1248,117023,Sky Rojo,['ES'],es,Sky Rojo,39.39,7.7,378
+1249,84896,AJ and the Queen,['US'],en,AJ and the Queen,12.961,7.7,102
+1250,81559,V Wars,['US'],en,V Wars,17.3,7.7,237
+1251,7072,Las Tontas No Van al Cielo,['MX'],en,Las Tontas No Van al Cielo,7.053,7.7,305
+1252,107775,"I love you, Güero",['MX'],es,La Mexicana y El Güero,34.5,7.7,191
+1253,31687,Dragonaut: The Resonance,['JP'],ja,ドラゴノーツ -ザ・レゾナンス-,9.169,7.7,217
+1254,3122,Star Wars: Clone Wars,['US'],en,Star Wars: Clone Wars,33.515,7.7,242
+1255,1421,Modern Family,['US'],en,Modern Family,157.091,7.7,1766
+1256,96346,Luna Nera,['IT'],it,Luna Nera,18.912,7.7,195
+1257,82328,Bitter Lands,['TR'],tr,Bir Zamanlar Çukurova,29.167,7.7,151
+1258,82282,"Like, la Leyenda",['MX'],es,"Like, la Leyenda",54.995,7.7,408
+1259,69629,The Gifted,['US'],en,The Gifted,60.078,7.7,1234
+1260,63401,We Bare Bears,['US'],en,We Bare Bears,85.334,7.7,1636
+1261,33234,The Pillars of the Earth,['US'],en,The Pillars of the Earth,27.362,7.7,254
+1262,634,Who's the Boss?,['US'],en,Who's the Boss?,19.729,7.7,175
+1263,46671,The Future Diary,['JP'],ja,未来日記,23.456,7.7,264
+1264,32218,Soy tu dueña,['MX'],es,Soy tu dueña,21.485,7.7,499
+1265,72304,Fate/Apocrypha,['JP'],ja,Fate/Apocrypha,20.104,7.7,106
+1266,32962,Louie,['US'],en,Louie,16.878,7.7,366
+1267,77567,Mi Marido Tiene Familia,[],es,Mi Marido Tiene Familia,15.456,7.7,214
+1268,7317,The Inbetweeners,['GB'],en,The Inbetweeners,14.511,7.7,304
+1269,103,The Time Tunnel,['US'],en,The Time Tunnel,17.923,7.7,143
+1270,49010,The Fall,['IE'],en,The Fall,29.792,7.7,597
+1271,12697,Dragon Ball GT,['JP'],ja,ドラゴンボールGT,19.316,7.7,1523
+1272,96129,Don't F**k with Cats: Hunting an Internet Killer,"['US', 'GB']",en,Don't F**k with Cats: Hunting an Internet Killer,9.88,7.7,309
+1273,61864,Good Witch,['US'],en,Good Witch,57.457,7.7,197
+1274,1424,Orange Is the New Black,['US'],en,Orange Is the New Black,75.821,7.7,1880
+1275,16997,The Pacific,['US'],en,The Pacific,46.829,7.7,1884
+1276,27240,Seven Deadly Sins,['US'],en,Seven Deadly Sins,26.649,7.7,2280
+1277,14141,V,['US'],en,V,29.906,7.7,742
+1278,127865,The Chestnut Man,['DK'],da,Kastanjemanden,53.135,7.7,309
+1279,102966,100 días para enamorarnos,['US'],es,100 días para enamorarnos,73.551,7.7,983
+1280,4330,Millennium,"['CA', 'US']",en,Millennium,17.686,7.7,185
+1281,62852,Billions,['US'],en,Billions,67.801,7.7,640
+1282,4303,Superman: The Animated Series,['US'],en,Superman: The Animated Series,31.908,7.7,223
+1283,71769,The Alienist,['US'],en,The Alienist,28.319,7.7,371
+1284,4357,Mission: Impossible,['US'],en,Mission: Impossible,24.933,7.7,198
+1285,65817,The Deuce,['US'],en,The Deuce,25.759,7.7,246
+1286,3022,Rugrats,['US'],en,Rugrats,59.305,7.7,526
+1287,32604,Dangerous Affairs,['US'],es,Relaciones Peligrosas,11.686,7.7,125
+1288,87763,Toy Boy,['ES'],es,Toy Boy,17.515,7.7,510
+1289,21421,The Staircase,['FR'],en,Soupçons,9.971,7.7,107
+1290,6549,Wolverine and the X-Men,['US'],en,Wolverine and the X-Men,12.637,7.7,218
+1291,67384,Goliath,['US'],en,Goliath,26.786,7.7,250
+1292,34391,Marvel's Ultimate Spider-Man,['US'],en,Marvel's Ultimate Spider-Man,78.403,7.7,867
+1293,127700,Welcome to Earth,['US'],en,Welcome to Earth,9.131,7.7,339
+1294,33987,Corazon Valiente,['US'],es,Corazon Valiente,121.292,7.7,282
+1295,3172,Private Practice,['US'],en,Private Practice,29.128,7.7,249
+1296,73964,Ingles,['VE'],es,Mi gorda bella,6.891,7.7,129
+1297,67883,Insecure,['US'],en,Insecure,16.997,7.7,145
+1298,4630,The Fairly OddParents,"['CA', 'US']",en,The Fairly OddParents,90.457,7.7,676
+1299,126118,Chapelwaite,['US'],en,Chapelwaite,50.342,7.7,128
+1300,73925,Kidding,['US'],en,Kidding,15.211,7.7,208
+1301,66025,Animal Kingdom,['US'],en,Animal Kingdom,62.047,7.7,309
+1302,85723,Raised by Wolves,['US'],en,Raised by Wolves,83.1,7.7,1096
+1303,73375,Tom Clancy's Jack Ryan,['US'],en,Tom Clancy's Jack Ryan,40.411,7.7,844
+1304,64752,The Lion Guard,['US'],en,The Lion Guard,69.063,7.7,203
+1305,62286,Fear the Walking Dead,['US'],en,Fear the Walking Dead,236.386,7.7,4169
+1306,116259,Lo Que La Gente Cuenta,['MX'],es,Lo Que La Gente Cuenta,8.047,7.7,126
+1307,72039,Escape at Dannemora,['US'],en,Escape at Dannemora,13.448,7.7,121
+1308,1678,The Golden Girls,['US'],en,The Golden Girls,36.25,7.7,231
+1309,94372,FBI: Most Wanted,['US'],en,FBI: Most Wanted,75.281,7.7,262
+1310,91520,Beforeigners,['NO'],no,Beforeigners,20.459,7.7,161
+1311,72597,Manhunt,['US'],en,Manhunt,22.927,7.7,267
+1312,178,My Life as a Teenage Robot,['US'],en,My Life as a Teenage Robot,19.407,7.7,119
+1313,43078,Miss Fisher's Murder Mysteries,['AU'],en,Miss Fisher's Murder Mysteries,21.075,7.7,101
+1314,39525,Wilfred,['US'],en,Wilfred,19.177,7.7,316
+1315,31586,La Reina del Sur,['MX'],es,La Reina del Sur,136.374,7.7,1204
+1316,4229,Dexter's Laboratory,['US'],en,Dexter's Laboratory,78.822,7.7,578
+1317,92137,ZeroZeroZero,['IT'],it,ZeroZeroZero,25.644,7.7,259
+1318,6670,The Charlie Brown and Snoopy Show,['US'],en,The Charlie Brown and Snoopy Show,8.23,7.7,108
+1319,1431,CSI: Crime Scene Investigation,['US'],en,CSI: Crime Scene Investigation,140.306,7.7,862
+1320,43631,AIKa ZERO,['JP'],ja,AIKa ZERO,12.44,7.7,152
+1321,113246,Tiny Pretty Things,['US'],en,Tiny Pretty Things,26.72,7.7,180
+1322,13027,Amor Real,['MX'],es,Amor Real,51.491,7.7,985
+1323,100052,The English Game,['GB'],en,The English Game,16.572,7.7,129
+1324,3452,Frasier,['US'],en,Frasier,74.955,7.7,544
+1325,98201,Cruel Summer,['US'],en,Cruel Summer,12.828,7.7,205
+1326,95249,Gossip Girl,['US'],en,Gossip Girl,20.945,7.7,203
+1327,70824,La Niña,['CO'],es,La Niña,15.772,7.7,181
+1328,31718,Darker than Black,['JP'],ja,-黒の契約者-,21.365,7.7,164
+1329,66053,Berserk,['JP'],ja,ベルセルク,32.351,7.7,126
+1330,92782,Ms. Marvel,['US'],en,Ms. Marvel,2820.589,7.7,208
+1331,84647,The Society,['US'],en,The Society,26.004,7.7,384
+1332,64199,Sneaky Pete,['US'],en,Sneaky Pete,18.703,7.7,212
+1333,120168,Who Killed Sara?,['MX'],es,¿Quién mató a Sara?,140.85,7.7,1041
+1334,764,Midsomer Murders,['GB'],en,Midsomer Murders,101.23,7.7,191
+1335,12786,Murdoch Mysteries,['CA'],en,Murdoch Mysteries,69.282,7.7,183
+1336,98013,Rooms for Rent,['MX'],es,Rooms for Rent,16.426,7.7,152
+1337,65819,The Sniffer,"['RU', 'UA']",ru,Нюхач,18.425,7.7,143
+1338,57911,Doraemon,['JP'],ja,ドラえもん,25.147,7.7,521
+1339,3475,The L Word,"['CA', 'US']",en,The L Word,32.846,7.7,651
+1340,709,Robot Chicken,['US'],en,Robot Chicken,44.258,7.7,360
+1341,79696,Manifest,['US'],en,Manifest,66.807,7.7,656
+1342,66825,A Terra Prometida,['BR'],pt,A Terra Prometida,39.705,7.7,405
+1343,62264,Ash vs Evil Dead,['US'],en,Ash vs Evil Dead,45.877,7.7,1253
+1344,1918,The Twilight Zone,['US'],en,The Twilight Zone,22.83,7.7,131
+1345,92396,"Lady, la vendedora de rosas",['CO'],es,"Lady, la vendedora de rosas",188.952,7.7,1228
+1346,60554,Star Wars Rebels,['US'],en,Star Wars Rebels,76.507,7.7,540
+1347,54650,Power,['US'],en,Power,36.401,7.7,1045
+1348,99310,Operación Pacífico,['US'],es,Operación Pacífico,11.313,7.7,377
+1349,115645,Gênesis,['BR'],pt,Gênesis,21.662,7.7,167
+1350,86346,El Bronx,['CO'],es,El Bronx,50.941,7.7,167
+1351,1018,Bonanza,['US'],en,Bonanza,34.182,7.7,321
+1352,64432,The Magicians,['US'],en,The Magicians,42.286,7.7,1402
+1353,43082,Key & Peele,['US'],en,Key & Peele,16.551,7.7,113
+1354,15489,Down with the Beautiful,['MX'],es,Al diablo con los guapos,14.928,7.7,163
+1355,657,Rocko's Modern Life,['US'],en,Rocko's Modern Life,20.095,7.7,199
+1356,87049,Firefly Lane,['US'],en,Firefly Lane,10.487,7.7,102
+1357,92916,Marianne,['FR'],fr,Marianne,27.863,7.7,368
+1358,90602,Bolívar,['CO'],es,Bolívar,25.646,7.7,265
+1359,72787,Patrick Melrose,['US'],en,Patrick Melrose,14.407,7.7,166
+1360,67230,Silvana Sin Lana,['US'],es,Silvana Sin Lana,11.435,7.7,238
+1361,15819,Warehouse 13,['US'],en,Warehouse 13,28.692,7.7,485
+1362,62320,Grace and Frankie,['US'],en,Grace and Frankie,29.38,7.7,204
+1363,58450,What Life Took From Me,['MX'],es,Lo Que La Vida Me Robó,50.979,7.7,1010
+1364,32798,Hawaii Five-0,['US'],en,Hawaii Five-0,138.482,7.7,1349
+1365,120452,Dan Brown's The Lost Symbol,['US'],en,Dan Brown's The Lost Symbol,104.642,7.7,219
+1366,60930,Magnificent Century: Kösem,['TR'],tr,Muhteşem Yüzyıl: Kösem,42.029,7.7,322
+1367,7842,The Tom and Jerry Show,['US'],en,The Tom and Jerry Show,59.236,7.7,935
+1368,87104,Years and Years,['GB'],en,Years and Years,16.191,7.7,160
+1369,54344,The Leftovers,['US'],en,The Leftovers,28.189,7.7,681
+1370,46901,True Love,['MX'],es,Amores verdaderos,17.367,7.7,611
+1371,31295,Misfits,['GB'],en,Misfits,29.773,7.7,602
+1372,126528,Elite Short Stories: Omar Ander Alexis,['ES'],es,Elite Histórias Breves: Omar Ander Alexis,23.534,7.7,144
+1373,126386,Somos.,['MX'],es,Somos.,23.468,7.7,121
+1374,1401,Hell on Wheels,['US'],en,Hell on Wheels,27.115,7.7,322
+1375,75758,Lost in Space,['US'],en,Lost in Space,55.168,7.7,1164
+1376,98830,Find Yourself,['CN'],zh,下一站是幸福,12.287,7.7,100
+1377,14755,She-Ra: Princess of Power,['US'],en,She-Ra: Princess of Power,18.85,7.7,160
+1378,2566,Dead Like Me,['US'],en,Dead Like Me,15.575,7.7,320
+1379,79501,Doom Patrol,['US'],en,Doom Patrol,56.777,7.6,1048
+1380,86686,Creepshow,['US'],en,Creepshow,23.997,7.6,189
+1381,61314,Apocalypse: World War I,['FR'],fr,"Apocalypse, la Première Guerre Mondiale",14.547,7.6,223
+1382,8803,Sky of Love,['JP'],ja,恋空,10.121,7.6,253
+1383,82744,Catch-22,['US'],en,Catch-22,10.474,7.6,108
+1384,60557,Witches of East End,['US'],en,Witches of East End,22.097,7.6,187
+1385,31500,Miranda,['GB'],en,Miranda,9.855,7.6,101
+1386,11250,Hidden Passion,['CO'],es,Pasión de gavilanes,358.852,7.6,1835
+1387,88055,Servant,['US'],en,Servant,136.519,7.6,501
+1388,504,The Ren & Stimpy Show,"['CA', 'US']",en,The Ren & Stimpy Show,29.868,7.6,321
+1389,79340,The Outpost,['US'],en,The Outpost,36.896,7.6,185
+1390,60834,Black Bullet,['JP'],ja,ブラック・ブレット,18.711,7.6,142
+1391,126525,Elite Short Stories: Carla Samuel,['ES'],es,Elite Histórias Breves: Carla Samuel,49.139,7.6,260
+1392,99479,365: Repeat the Year,['KR'],ko,365 : 운명을 거스르는 1년,9.378,7.6,111
+1393,10545,True Blood,['US'],en,True Blood,35.071,7.6,1462
+1394,45997,The Devil Is a Part-Timer!,['JP'],ja,はたらく魔王さま！,28.306,7.6,165
+1395,19649,Jesus of Nazareth,"['GB', 'IT']",en,Jesus of Nazareth,17.044,7.6,349
+1396,81983,Paradise PD,['US'],en,Paradise PD,30.115,7.6,190
+1397,62699,The Young Pope,"['US', 'GB', 'FR', 'ES', 'IT']",en,The Young Pope,18.515,7.6,346
+1398,129495,Clickbait,"['AU', 'US']",en,Clickbait,44.763,7.6,191
+1399,110948,The Snoopy Show,['US'],en,The Snoopy Show,15.642,7.6,110
+1400,61662,Schitt's Creek,['CA'],en,Schitt's Creek,37.121,7.6,291
+1401,2423,Celebrity Deathmatch,['US'],en,Celebrity Deathmatch,15.267,7.6,279
+1402,82515,Fall Into Temptation,['MX'],es,Caer en tentación,17.228,7.6,191
+1403,141,Cheers,['US'],en,Cheers,45.859,7.6,410
+1404,119243,iCarly,['US'],en,iCarly,148.436,7.6,652
+1405,106754,High Score,['US'],en,High Score,15.135,7.6,173
+1406,94305,The Walking Dead: World Beyond,['US'],en,The Walking Dead: World Beyond,79.759,7.6,950
+1407,60804,The Night Shift,['US'],en,The Night Shift,28.474,7.6,176
+1408,60572,Pokémon,['JP'],ja,ポケットモンスター,101.87,7.6,1156
+1409,44305,DreamWorks Dragons,['US'],en,DreamWorks Dragons,54.0,7.6,548
+1410,167,La Femme Nikita,"['CA', 'US']",en,La Femme Nikita,28.432,7.6,181
+1411,98161,Home Before Dark,['US'],en,Home Before Dark,29.998,7.6,364
+1412,77947,Harrow,['AU'],en,Harrow,27.251,7.6,124
+1413,484,"Murder, She Wrote",['US'],en,"Murder, She Wrote",32.782,7.6,233
+1414,406,Ӕon Flux,['US'],en,Ӕon Flux,7.521,7.6,101
+1415,73126,American Vandal,['US'],en,American Vandal,20.408,7.6,188
+1416,68799,Gilmore Girls: A Year in the Life,['US'],en,Gilmore Girls: A Year in the Life,17.77,7.6,183
+1417,61585,Olive Kitteridge,['US'],en,Olive Kitteridge,9.725,7.6,176
+1418,60632,The Color of Passion,['MX'],es,El color de la pasión,11.851,7.6,161
+1419,40546,The 10th Kingdom,['US'],en,The 10th Kingdom,13.298,7.6,190
+1420,4616,Xena: Warrior Princess,['US'],en,Xena: Warrior Princess,62.835,7.6,1026
+1421,110637,Overcoming heartbreak,['MX'],es,Vencer el Desamor,10.69,7.6,216
+1422,64254,Master of None,['US'],en,Master of None,12.095,7.6,349
+1423,67683,Travelers,['CA'],en,Travelers,36.217,7.6,496
+1424,97400,Midnight Mass,['US'],en,Midnight Mass,87.733,7.6,367
+1425,91725,The Spy,['FR'],en,The Spy,15.097,7.6,119
+1426,81290,The Kominsky Method,['US'],en,The Kominsky Method,20.068,7.6,144
+1427,69061,The OA,['US'],en,The OA,22.483,7.6,846
+1428,4920,Damages,['US'],en,Damages,30.255,7.6,149
+1429,78214,Sin tu mirada,['MX'],es,Sin tu mirada,8.337,7.6,99
+1430,86428,The Spanish Princess,['US'],en,The Spanish Princess,26.399,7.6,382
+1431,67861,"Midnight, Texas",['US'],en,"Midnight, Texas",16.244,7.6,222
+1432,25065,Red Eagle,['ES'],es,Águila Roja,18.828,7.6,147
+1433,59427,Marvel's Avengers Assemble,['US'],en,Marvel's Avengers Assemble,70.212,7.6,558
+1434,1097,Ergo Proxy,['JP'],ja,エルゴプラクシー,14.587,7.6,199
+1435,78742,About Time,['KR'],ko,멈추고 싶은 순간: 어바웃타임,9.693,7.6,111
+1436,18341,Sortilegio,['MX'],es,Sortilegio,20.487,7.6,341
+1437,100617,Transformers: War for Cybertron: Siege,['US'],en,Transformers: War for Cybertron: Siege,38.53,7.6,245
+1438,93297,Monarca,['MX'],es,Monarca,28.579,7.6,121
+1439,66676,Queen of the South,['US'],en,Queen of the South,39.68,7.6,335
+1440,46880,The Fosters,['US'],en,The Fosters,37.003,7.6,240
+1441,66911,Quarry,['US'],en,Quarry,12.612,7.6,123
+1442,2345,Kim Possible,['US'],en,Kim Possible,37.4,7.6,325
+1443,62267,Beating Again,['KR'],ko,순정에 반하다,10.259,7.6,119
+1444,37632,Switched at Birth,['US'],en,Switched at Birth,25.68,7.6,163
+1445,33025,The Borgias,"['US', 'CA', 'HU']",en,The Borgias,21.621,7.6,317
+1446,6391,Breaking the Magician's Code: Magic's Biggest Secrets Finally Revealed,['US'],en,Breaking the Magician's Code: Magic's Biggest Secrets Finally Revealed,10.979,7.6,123
+1447,93454,The Serpent,['GB'],en,The Serpent,14.385,7.6,137
+1448,87917,For All Mankind,['US'],en,For All Mankind,113.288,7.6,312
+1449,60708,Gotham,['US'],en,Gotham,115.345,7.6,2775
+1450,120462,Them,['US'],en,Them,14.246,7.6,208
+1451,13230,Pokémon Chronicles,['JP'],ja,ポケットモンスター サイドストーリー,30.04,7.6,120
+1452,720,DuckTales,['US'],en,DuckTales,44.632,7.6,480
+1453,64684,And Then There Were None,['GB'],en,And Then There Were None,16.56,7.6,421
+1454,1649,Sliders,['US'],en,Sliders,31.102,7.6,332
+1455,4601,Law & Order: Criminal Intent,['US'],en,Law & Order: Criminal Intent,52.723,7.6,251
+1456,32815,Raising Hope,['US'],en,Raising Hope,16.761,7.6,196
+1457,4614,NCIS,['US'],en,NCIS,228.671,7.6,1803
+1458,95467,The Club,['MX'],es,El Club,10.558,7.6,154
+1459,42154,World War II in Colour,['GB'],en,World War II in Colour,12.206,7.6,234
+1460,42025,Mako Mermaids: An H2O Adventure,['AU'],en,Mako Mermaids: An H2O Adventure,50.42,7.6,517
+1461,31268,El Capo,['CO'],es,El Capo,44.861,7.6,937
+1462,75209,Apocalipse,['BR'],pt,Apocalipse,15.267,7.6,250
+1463,61096,Rush,['CA'],en,Rush,9.439,7.6,138
+1464,2286,The Real Ghostbusters,['US'],en,The Real Ghostbusters,22.819,7.6,169
+1465,653,Metalocalypse,['US'],en,Metalocalypse,19.574,7.6,138
+1466,64158,River,['GB'],en,River,8.316,7.6,130
+1467,160,Teenage Mutant Ninja Turtles,['US'],en,Teenage Mutant Ninja Turtles,60.562,7.6,537
+1468,32692,Blue Bloods,['US'],en,Blue Bloods,206.676,7.6,543
+1469,11823,Alegrijes y Rebujos,['MX'],es,Alegrijes y Rebujos,8.373,7.6,122
+1470,5739,Dr. Horrible's Sing-Along Blog,['US'],en,Dr. Horrible's Sing-Along Blog,9.969,7.6,424
+1471,116450,And Just Like That…,['US'],en,And Just Like That…,80.739,7.6,361
+1472,12926,Teresa,['MX'],es,Teresa,272.166,7.6,1552
+1473,39358,Revenge,['US'],en,Revenge,48.663,7.6,581
+1474,1026,Amazing Stories,['US'],en,Amazing Stories,15.276,7.6,133
+1475,73321,The King of Fighters: Destiny,"['CN', 'JP']",ja,拳皇命运,12.749,7.6,586
+1476,13862,Shogun,['US'],en,Shōgun,14.939,7.6,114
+1477,71673,Princess Agents,['CN'],zh,特工皇妃楚乔传,25.978,7.6,164
+1478,67195,Legion,['US'],en,Legion,35.691,7.6,1083
+1479,4239,Married... with Children,['US'],en,Married... with Children,57.206,7.6,669
+1480,1422,The Middle,['US'],en,The Middle,41.043,7.6,493
+1481,418,A Pup Named Scooby-Doo,['US'],en,A Pup Named Scooby-Doo,27.663,7.6,230
+1482,314,Star Trek: Enterprise,['US'],en,Star Trek: Enterprise,55.488,7.6,530
+1483,80546,Harukana Receive,['JP'],ja,はるかなレシーブ,9.142,7.6,173
+1484,46441,Tyler Perry's The Haves and the Have Nots,['US'],en,Tyler Perry's The Haves and the Have Nots,29.245,7.6,123
+1485,61744,Mozart in the Jungle,['US'],en,Mozart in the Jungle,14.378,7.6,164
+1486,41956,Death in Paradise,['GB'],en,Death in Paradise,61.992,7.6,154
+1487,30980,A Certain Magical Index,['JP'],ja,とある魔術の禁書目録(インデックス),39.07,7.6,102
+1488,3266,North and South,['US'],en,North and South,21.327,7.6,108
+1489,122623,Enfermeras,['CO'],es,Enfermeras,21.707,7.6,206
+1490,85833,Conversations with a Killer: The Ted Bundy Tapes,['US'],en,Conversations with a Killer: The Ted Bundy Tapes,15.154,7.6,223
+1491,62717,Jonathan Strange & Mr Norrell,['GB'],en,Jonathan Strange & Mr Norrell,10.719,7.6,104
+1492,7482,Leverage,['US'],en,Leverage,33.173,7.6,254
+1493,88166,I Know This Much Is True,['US'],en,I Know This Much Is True,12.157,7.6,145
+1494,33001,Haven,"['US', 'CA']",en,Haven,27.936,7.6,344
+1495,98470,Escalona,[],es,Escalona,6.19,7.6,164
+1496,1921,Gilligan's Island,['US'],en,Gilligan's Island,24.328,7.6,176
+1497,47450,Into the Badlands,['US'],en,Into the Badlands,26.21,7.6,515
+1498,38472,Marvel's Jessica Jones,['US'],en,Marvel's Jessica Jones,53.259,7.6,1727
+1499,77341,Enemigo íntimo,['MX'],es,Enemigo íntimo,80.832,7.6,371
+1500,14396,The Adventures of Super Mario Bros. 3,['US'],en,The Adventures of Super Mario Bros. 3,57.216,7.6,413
+1501,33148,En Los Tacones De Eva,[],en,En Los Tacones De Eva,5.038,7.6,129
+1502,103913,Tehran,['IL'],he,טהרן,41.768,7.6,162
+1503,69158,The Good Fight,['US'],en,The Good Fight,43.272,7.6,194
+1504,92443,Apache: La vida de Carlos Tevez,['AR'],es,Apache: La vida de Carlos Tevez,18.533,7.6,127
+1505,87050,Hollywood,['US'],en,Hollywood,12.153,7.6,170
+1506,102321,Looney Tunes Cartoons,['US'],en,Looney Tunes Cartoons,24.194,7.6,160
+1507,63623,Fuller House,['US'],en,Fuller House,22.738,7.6,421
+1508,64852,Trapped,['IS'],is,Ófærð,22.19,7.6,151
+1509,100226,Sexify,['PL'],pl,Sexify,15.896,7.6,146
+1510,96230,Leonardo,"['GB', 'ES', 'IT', 'US', 'FR']",en,Leonardo,20.458,7.6,107
+1511,44914,The Return,"['US', 'MX']",es,La Patrona,118.677,7.6,219
+1512,32778,Timeless Love,['MX'],es,Cuando me enamoro... se detiene el tiempo,26.194,7.6,246
+1513,72705,Marvel's Spider-Man,['US'],en,Marvel's Spider-Man,47.889,7.6,294
+1514,1068,The New Scooby-Doo Movies,['US'],en,The New Scooby-Doo Movies,24.644,7.6,201
+1515,126526,Elite Short Stories: Nadia Guzmán,['ES'],es,Elite Histórias Breves: Nadia Guzmán,28.384,7.6,154
+1516,26101,The Keepers,['US'],en,The Keepers,8.987,7.6,112
+1517,155895,Juanpis González - The Series,['CO'],es,Juanpis González - La serie,48.699,7.6,142
+1518,54155,Hanna,['US'],en,Hanna,29.117,7.6,616
+1519,607,The Powerpuff Girls,['US'],en,The Powerpuff Girls,55.491,7.6,681
+1520,12727,Cómplices Al Rescate,['MX'],es,Cómplices Al Rescate,20.709,7.6,130
+1521,4313,Full House,['US'],en,Full House,78.803,7.6,793
+1522,24106,Captain Tsubasa: Road to 2002,['JP'],ja,キャプテン翼,41.747,7.6,177
+1523,135385,A Thousand Fangs,['CO'],es,Mil Colmillos,51.117,7.6,159
+1524,2397,Beauty and the Beast,['US'],en,Beauty and the Beast,0.768,7.6,221
+1525,83851,The Undoing,['US'],en,The Undoing,24.573,7.6,464
+1526,10400,The Little Lulu Show,"['CA', 'US']",en,The Little Lulu Show,6.159,7.6,168
+1527,67466,Marvel's Runaways,['US'],en,Marvel's Runaways,50.394,7.6,727
+1528,62017,The Man in the High Castle,['US'],en,The Man in the High Castle,49.332,7.6,885
+1529,7695,In the Name of Love,['MX'],en,En nombre del amor,14.218,7.6,367
+1530,119861,Zero,['IT'],it,Zero,9.902,7.6,103
+1531,61550,Marvel's Agent Carter,['US'],en,Marvel's Agent Carter,51.503,7.6,1405
+1532,1215,Californication,['US'],en,Californication,48.239,7.6,756
+1533,387,SpongeBob SquarePants,['US'],en,SpongeBob SquarePants,19.364,7.6,2451
+1534,111119,Súbete a mi moto,['PR'],es,Súbete a mi moto,18.56,7.6,362
+1535,102518,Iwa Kakeru! Sport Climbing Girls,['JP'],ja,いわかける！ - Sport Climbing Girls -,10.36,7.6,141
+1536,85950,Pearson,['US'],en,Pearson,15.436,7.6,123
+1537,79622,Hunters,['US'],en,Hunters,18.273,7.6,331
+1538,60603,The Curse of Oak Island,['US'],en,The Curse of Oak Island,21.805,7.6,116
+1539,4324,"Dr. Quinn, Medicine Woman",['US'],en,"Dr. Quinn, Medicine Woman",31.61,7.6,334
+1540,1153,Men in Black: The Series,['US'],en,Men in Black: The Series,12.635,7.6,125
+1541,43348,Pablo Escobar: The Drug Lord,['CO'],es,Pablo Escobar: El Patrón del Mal,402.418,7.6,3023
+1542,3714,Pippi Longstocking,['SE'],sv,Pippi Långstrump,20.253,7.6,106
+1543,97173,Behind Her Eyes,['GB'],en,Behind Her Eyes,29.929,7.6,306
+1544,73021,Disenchantment,['US'],en,Disenchantment,57.81,7.6,655
+1545,46619,Rectify,['US'],en,Rectify,15.862,7.6,206
+1546,17287,Party Down,['US'],en,Party Down,8.09,7.6,125
+1547,2432,Taken,['US'],en,Taken,11.536,7.6,279
+1548,106651,Hellbound,['KR'],ko,지옥,159.962,7.6,614
+1549,7330,Iron Man: Armored Adventures,['US'],en,Iron Man: Armored Adventures,16.43,7.6,100
+1550,1615,Chip 'n' Dale Rescue Rangers,['US'],en,Chip 'n' Dale Rescue Rangers,45.713,7.6,374
+1551,82883,The Act,['US'],en,The Act,103.754,7.6,4663
+1552,91602,Modern Love,['US'],en,Modern Love,21.691,7.6,206
+1553,39859,Awkward.,['US'],en,Awkward.,34.093,7.6,304
+1554,9894,Mission: Impossible,['US'],en,Mission: Impossible,18.198,7.6,151
+1555,46952,The Blacklist,['US'],en,The Blacklist,309.33,7.6,2384
+1556,15804,Batman: The Brave and the Bold,['US'],en,Batman: The Brave and the Bold,38.341,7.6,183
+1557,7777,Better Off Ted,['US'],en,Better Off Ted,11.218,7.6,134
+1558,80054,Truth Be Told,['US'],en,Truth Be Told,13.823,7.6,128
+1559,12961,Rubí,['MX'],es,Rubí,39.636,7.6,276
+1560,82791,The Bureau of Magical Things,['AU'],en,The Bureau of Magical Things,23.986,7.5,213
+1561,64513,American Crime Story,['US'],en,American Crime Story,23.313,7.5,742
+1562,1998,Moonlighting,['US'],en,Moonlighting,21.075,7.5,253
+1563,549,Law & Order,['US'],en,Law & Order,119.197,7.5,359
+1564,34,Keeping Up Appearances,['GB'],en,Keeping Up Appearances,17.882,7.5,102
+1565,115857,Daughter from Another Mother,['MX'],es,Madre solo hay dos,76.426,7.5,1106
+1566,83300,Diablero,['MX'],es,Diablero,17.034,7.5,155
+1567,77568,La doble vida de Estela Carrillo,[],es,La doble vida de Estela Carrillo,8.228,7.5,270
+1568,12568,Distilling Love,['MX'],es,Destilando amor,15.162,7.5,243
+1569,74140,Waco,['US'],en,Waco,14.503,7.5,109
+1570,61433,I Can't Understand What My Husband Is Saying,['JP'],ja,旦那が何を言っているかわからない件,14.362,7.5,120
+1571,63210,Shadowhunters,['US'],en,Shadowhunters,100.519,7.5,754
+1572,58931,Broken Angel,['US'],es,Santa Diabla,14.062,7.5,132
+1573,4879,Second chance,"['US', 'CO']",en,El Cuerpo del Deseo,31.105,7.5,356
+1574,80020,Super Dragon Ball Heroes,['JP'],ja,スーパードラゴンボールヒーローズ,736.18,7.5,2608
+1575,79126,Evil Genius,['US'],en,Evil Genius,11.154,7.5,131
+1576,1435,The Good Wife,['US'],en,The Good Wife,50.2,7.5,377
+1577,44606,Beauty and the Beast,['US'],en,Beauty and the Beast,32.973,7.5,340
+1578,32613,Cantinflas Show,['MX'],es,Cantinflas Show,28.43,7.5,111
+1579,93693,Are You Afraid of the Dark?,[],en,Are You Afraid of the Dark?,68.428,7.5,177
+1580,73777,María de Todos los Ángeles,['MX'],es,María de Todos los Ángeles,18.836,7.5,572
+1581,2327,Dawson's Creek,['US'],en,Dawson's Creek,43.034,7.5,355
+1582,3016,Without Breast There Is No Paradise,['CO'],es,Sin tetas no hay paraíso,17.778,7.5,211
+1583,98034,Digimon Adventure:,['JP'],ja,デジモンアドベンチャー：,40.581,7.5,555
+1584,2777,Oggy and the Cockroaches,['FR'],fr,Oggy et les Cafards,61.816,7.5,273
+1585,1415,Elementary,['US'],en,Elementary,82.659,7.5,1290
+1586,133723,Harry Potter: Hogwarts Tournament of Houses,['US'],en,Harry Potter: Hogwarts Tournament of Houses,106.475,7.5,236
+1587,97513,The Boarding School: Las Cumbres,['ES'],es,El internado: Las Cumbres,107.171,7.5,799
+1588,40293,Da Vinci's Demons,['US'],en,Da Vinci's Demons,28.275,7.5,474
+1589,67335,Sin senos sí hay paraíso,['CO'],es,Sin senos sí hay paraíso,238.613,7.5,2569
+1590,31072,La familia P. Luche,['MX'],es,La familia P. Luche,97.657,7.5,971
+1591,5459,Don't Mess with an Angel,['MX'],es,Cuidado con el Ángel,21.906,7.5,413
+1592,2005,The New Adventures of Winnie the Pooh,['US'],en,The New Adventures of Winnie the Pooh,37.592,7.5,183
+1593,100963,The Big Show Show,['US'],en,The Big Show Show,8.704,7.5,291
+1594,79240,Swamp Thing,['US'],en,Swamp Thing,31.7,7.5,815
+1595,43020,Continuum,['CA'],en,Continuum,20.513,7.5,660
+1596,95202,To the Lake,['RU'],ru,Эпидемия,19.485,7.5,142
+1597,69295,Masamune-kun's Revenge,['JP'],ja,政宗くんのリベンジ,31.792,7.5,213
+1598,62649,Superstore,['US'],en,Superstore,62.896,7.5,356
+1599,84977,Russian Doll,['US'],en,Russian Doll,20.144,7.5,441
+1600,1407,Homeland,['US'],en,Homeland,60.676,7.5,1672
+1601,98187,The Irregulars,['GB'],en,The Irregulars,12.006,7.5,238
+1602,10926,Sonic X,['JP'],ja,ソニックX,49.48,7.5,224
+1603,7458,The Cartel,['CO'],es,El Cartel de los Sapos,183.179,7.5,489
+1604,16961,Café con Aroma de Mujer,['CO'],es,Café con Aroma de Mujer,55.046,7.5,348
+1605,433,Terminator: The Sarah Connor Chronicles,['US'],en,Terminator: The Sarah Connor Chronicles,63.75,7.5,636
+1606,47665,Black Sails,['US'],en,Black Sails,43.728,7.5,997
+1607,2025,"Beverly Hills, 90210",['US'],en,"Beverly Hills, 90210",74.102,7.5,516
+1608,36,Medium,['US'],en,Medium,41.451,7.5,396
+1609,65261,La querida del Centauro,[],es,La querida del Centauro,8.482,7.5,120
+1610,37664,The Secret Circle,['US'],en,The Secret Circle,16.662,7.5,254
+1611,65493,The Ranch,['US'],en,The Ranch,31.742,7.5,137
+1612,99741,Devils,['IT'],en,Devils,21.04,7.5,109
+1613,1639,Heroes,['US'],en,Heroes,84.045,7.5,1704
+1614,97180,Selena: The Series,['US'],en,Selena: The Series,43.338,7.5,1522
+1615,5690,Moonlight,['US'],en,Moonlight,12.98,7.5,113
+1616,2119,Airwolf,['US'],en,Airwolf,46.256,7.5,308
+1617,62099,The Ministry of Time,['ES'],es,El Ministerio del Tiempo,23.612,7.5,124
+1618,1423,Ray Donovan,['US'],en,Ray Donovan,61.182,7.5,580
+1619,83245,Wild District,['CO'],es,Distrito salvaje,22.175,7.5,145
+1620,72755,Absentia,['US'],en,Absentia,44.133,7.5,235
+1621,18048,Burden of Guilt,['MX'],es,Mi pecado,13.334,7.5,113
+1622,46881,Corona de lágrimas,['MX'],es,Corona de lágrimas,44.468,7.5,132
+1623,72339,HAPPY!,['US'],en,HAPPY!,12.489,7.5,267
+1624,101918,Valeria,['ES'],es,Valeria,23.546,7.5,160
+1625,93287,The Flight Attendant,['US'],en,The Flight Attendant,34.387,7.5,332
+1626,71738,The Orville,['US'],en,The Orville,125.803,7.5,751
+1627,11294,Kitchen Nightmares,['US'],en,Kitchen Nightmares,15.164,7.5,111
+1628,618,Brandy & Mr. Whiskers,['US'],en,Brandy & Mr. Whiskers,10.693,7.5,105
+1629,4232,Top Cat,['US'],en,Top Cat,18.412,7.5,275
+1630,126120,La muchacha que limpia,['MX'],es,La muchacha que limpia,37.289,7.5,163
+1631,71411,El Chapo,['US'],es,El Chapo,112.757,7.5,1339
+1632,17610,NCIS: Los Angeles,['US'],en,NCIS: Los Angeles,109.55,7.5,909
+1633,85273,NOS4A2,['US'],en,NOS4A2,24.411,7.5,320
+1634,2384,Knight Rider,['US'],en,Knight Rider,55.653,7.5,948
+1635,114695,Marvel Studios: Legends,['US'],en,Marvel Studios: Legends,170.468,7.5,563
+1636,62822,Humans,['GB'],en,Humans,21.925,7.5,438
+1637,50712,Black Butler,['JP'],ja,黒執事,38.279,7.5,110
+1638,97539,Self Made: Inspired by the Life of Madam C.J. Walker,['US'],en,Self Made: Inspired by the Life of Madam C.J. Walker,10.713,7.5,226
+1639,2129,The Adventures of Jimmy Neutron: Boy Genius,['US'],en,The Adventures of Jimmy Neutron: Boy Genius,86.844,7.5,619
+1640,117488,Yellowjackets,['US'],en,Yellowjackets,87.966,7.5,303
+1641,98178,Amazing Stories,['US'],en,Amazing Stories,21.529,7.5,338
+1642,37858,Fate/stay night,['JP'],ja,Fate/stay night,20.013,7.5,146
+1643,88408,The New Pope,"['US', 'GB', 'FR', 'ES', 'IT']",en,The New Pope,18.54,7.5,113
+1644,47640,The Strain,['US'],en,The Strain,79.553,7.5,1433
+1645,42280,Abyss of Passion,['MX'],es,Abismo de pasión,29.23,7.5,235
+1646,62681,Deutschland,['DE'],de,Deutschland,11.13,7.5,117
+1647,114503,Turner & Hooch,['US'],en,Turner & Hooch,43.756,7.5,207
+1648,87944,Rafael Orozco - El Idolo,['CO'],es,Rafael Orozco - El Idolo,38.597,7.5,168
+1649,4414,Highlander: The Series,['US'],en,Highlander: The Series,29.376,7.5,283
+1650,6005,Scooby-Doo and Scrappy-Doo,['US'],en,Scooby-Doo and Scrappy-Doo,38.546,7.5,257
+1651,2919,Burn Notice,['US'],en,Burn Notice,29.116,7.5,349
+1652,94801,Mortel,['FR'],fr,Mortel,7.17,7.5,103
+1653,99935,Vampires,['FR'],fr,Vampires,22.122,7.5,318
+1654,92926,Criminal: UK,['GB'],en,Criminal: UK,13.66,7.5,128
+1655,73000,The Miniaturist,['GB'],en,The Miniaturist,13.641,7.5,127
+1656,2287,Batman,['US'],en,Batman,52.103,7.5,385
+1657,39852,The Sinner,['US'],en,The Sinner,55.097,7.5,712
+1658,113901,"Maradona, Blessed Dream",['AR'],es,Maradona: Sueño bendito,85.224,7.5,603
+1659,2407,Dark Angel,['US'],en,Dark Angel,31.818,7.5,309
+1660,93811,Into the Night,['BE'],fr,Into the Night,26.976,7.5,345
+1661,69470,Santa Clarita Diet,['US'],en,Santa Clarita Diet,20.253,7.5,485
+1662,99626,The Trials of Gabriel Fernandez,['US'],en,The Trials of Gabriel Fernandez,11.54,7.5,360
+1663,60642,"The Poor, Rich Family",['MX'],es,Qué pobres tan ricos,9.088,7.5,109
+1664,1403,Marvel's Agents of S.H.I.E.L.D.,['US'],en,Marvel's Agents of S.H.I.E.L.D.,135.424,7.5,2875
+1665,102712,Her Mother's Killer,['CO'],es,La venganza de Analía,17.141,7.5,198
+1666,31941,Blue Mountain State,['US'],en,Blue Mountain State,27.043,7.5,284
+1667,1558,Home Improvement,['US'],en,Home Improvement,33.617,7.5,426
+1668,79680,Snowpiercer,['US'],en,Snowpiercer,58.971,7.5,878
+1669,95160,Soltero con hijas,['MX'],es,Soltero con hijas,12.648,7.5,148
+1670,1908,Miami Vice,['US'],en,Miami Vice,33.364,7.5,274
+1671,109616,Sneakerheads,['US'],en,Sneakerheads,11.663,7.5,125
+1672,60839,Broad City,['US'],en,Broad City,15.197,7.5,139
+1673,43016,Hatfields & McCoys,['US'],en,Hatfields & McCoys,12.522,7.5,223
+1674,2243,Touched by an Angel,['US'],en,Touched by an Angel,35.39,7.5,138
+1675,46616,The Returned,['FR'],fr,Les revenants,17.028,7.5,185
+1676,4493,Absolutely Fabulous,['GB'],en,Absolutely Fabulous,20.567,7.5,101
+1677,10268,Primeval,['GB'],en,Primeval,41.284,7.5,232
+1678,496,Family Ties,['US'],en,Family Ties,18.522,7.5,155
+1679,109470,Imperio De Mentiras,['MX'],es,Imperio De Mentiras,36.476,7.5,345
+1680,81879,Mrs. Fletcher,['US'],en,Mrs. Fletcher,10.522,7.5,232
+1681,134949,Rebelde,['MX'],es,Rebelde,137.974,7.5,308
+1682,77532,Woman,['TR'],tr,Kadın,14.858,7.5,336
+1683,101512,Felix the Cat,['US'],en,Felix the Cat,7.92,7.5,240
+1684,90239,El juego de las llaves,"['US', 'MX']",es,El juego de las llaves,152.434,7.5,1761
+1685,82130,Tarde lo conocí,['CO'],es,Tarde lo conocí,7.608,7.5,133
+1686,66185,The Story of God with Morgan Freeman,['US'],en,The Story of God with Morgan Freeman,12.08,7.5,331
+1687,1549,WWE SmackDown,['US'],en,WWE SmackDown,19.148,7.5,119
+1688,94667,Traveling with the Derbez,['MX'],es,De viaje con los Derbez,27.8,7.5,1227
+1689,82809,Falsa identidad,"['US', 'MX']",es,Falsa identidad,230.857,7.5,479
+1690,12577,Devil May Cry,['JP'],ja,デビル メイ クライ,15.722,7.5,124
+1691,1269,Spider-Man and His Amazing Friends,['US'],en,Spider-Man and His Amazing Friends,45.966,7.5,189
+1692,105,Sex and the City,['US'],en,Sex and the City,94.339,7.5,1712
+1693,102182,Te Dou A Vida,['MX'],es,Te Dou A Vida,53.524,7.5,166
+1694,106837,La costeña y el cachaco,[],es,La costeña y el cachaco,4.384,7.5,129
+1695,18408,Life After People: The Series,['US'],en,Life After People: The Series,6.013,7.5,116
+1696,236,The Flash,['US'],en,The Flash,36.381,7.5,405
+1697,64230,Preacher,['US'],en,Preacher,43.43,7.5,855
+1698,115970,50M²,['TR'],tr,50M²,11.299,7.5,100
+1699,107135,Oye Bonita,[],es,Oye Bonita,5.697,7.5,109
+1700,83127,The Politician,['US'],en,The Politician,13.061,7.5,139
+1701,63646,Counterpart,['US'],en,Counterpart,17.829,7.5,211
+1702,100074,Biohackers,['DE'],de,Biohackers,10.714,7.4,256
+1703,73640,La Esclava Blanca,['CO'],es,La Esclava Blanca,12.063,7.4,156
+1704,63648,Death Note,['JP'],ja,デスノート,42.207,7.4,166
+1705,2405,Johnny Bravo,['US'],en,Johnny Bravo,36.981,7.4,420
+1706,88516,AlRawabi School for Girls,['JO'],ar,مدرسة الروابي للبنات,19.444,7.4,454
+1707,43062,King David,['BR'],pt,Rei Davi,13.577,7.4,263
+1708,1931,Disney's Adventures of the Gummi Bears,['US'],en,Disney's Adventures of the Gummi Bears,38.807,7.4,137
+1709,13555,Roots,['US'],en,Roots,15.284,7.4,161
+1710,186,Weeds,['US'],en,Weeds,46.786,7.4,625
+1711,113600,Equinox,['DK'],da,Equinox,17.401,7.4,211
+1712,1516,The A-Team,['US'],en,The A-Team,127.929,7.4,702
+1713,155,3rd Rock from the Sun,['US'],en,3rd Rock from the Sun,31.814,7.4,329
+1714,127626,How to Become a Tyrant,['US'],en,How to Become a Tyrant,9.797,7.4,127
+1715,31387,The Mafia Dolls,['CO'],es,Las muñecas de la mafia,29.712,7.4,319
+1716,96608,The Stranger,['GB'],en,The Stranger,12.417,7.4,280
+1717,88989,Nine Perfect Strangers,['US'],en,Nine Perfect Strangers,40.077,7.4,256
+1718,83949,Treadstone,['US'],en,Treadstone,13.873,7.4,168
+1719,50825,Sleepy Hollow,['US'],en,Sleepy Hollow,28.77,7.4,828
+1720,32573,Strike Back,['GB'],en,Strike Back,45.38,7.4,258
+1721,10079,Spider-Man Unlimited,['US'],en,Spider-Man Unlimited,33.176,7.4,181
+1722,103992,A Teacher,['US'],en,A Teacher,17.355,7.4,260
+1723,79611,Charmed,['US'],en,Charmed,123.425,7.4,343
+1724,118924,Marvel Studios: Assembled,['US'],en,Marvel Studios: Assembled,65.843,7.4,150
+1725,114705,Night Stalker: The Hunt for a Serial Killer,['US'],en,Night Stalker: The Hunt for a Serial Killer,13.955,7.4,180
+1726,74428,Rosario Tijeras,['MX'],es,Rosario Tijeras,299.76,7.4,1296
+1727,397,The Dukes of Hazzard,['US'],en,The Dukes of Hazzard,29.701,7.4,227
+1728,89434,La Reina Soy Yo,['MX'],es,La Reina Soy Yo,13.068,7.4,137
+1729,39297,Last Man Standing,['US'],en,Last Man Standing,52.92,7.4,235
+1730,2188,Tru Calling,['US'],en,Tru Calling,19.915,7.4,173
+1731,12861,Amigas y rivales,['MX'],es,Amigas y rivales,10.443,7.4,117
+1732,1716,Early Edition,['US'],en,Early Edition,19.154,7.4,103
+1733,122530,Panic,['US'],en,Panic,9.86,7.4,182
+1734,91445,Two Weeks to Live,['GB'],en,Two Weeks to Live,8.458,7.4,169
+1735,81349,Devs,['US'],en,Devs,20.219,7.4,344
+1736,7704,Legend of the Seeker,['US'],en,Legend of the Seeker,26.007,7.4,217
+1737,365,Jericho,['US'],en,Jericho,22.865,7.4,336
+1738,98387,Rubi,['US'],es,Rubí,58.353,7.4,809
+1739,2691,Two and a Half Men,['US'],en,Two and a Half Men,157.742,7.4,2284
+1740,60948,12 Monkeys,['US'],en,12 Monkeys,43.266,7.4,856
+1741,99509,Freud,"['AT', 'DE']",de,Freud,10.877,7.4,204
+1742,61118,You're the Worst,['US'],en,You're the Worst,15.685,7.4,148
+1743,60655,Derek,['GB'],en,Derek,9.165,7.4,116
+1744,46930,Ripper Street,['GB'],en,Ripper Street,17.01,7.4,115
+1745,7361,Auschwitz: The Nazis and the Final Solution,['GB'],en,Auschwitz: The Nazis and the Final Solution,8.992,7.4,158
+1746,4608,30 Rock,['US'],en,30 Rock,42.609,7.4,490
+1747,2957,Fraggle Rock,['US'],en,Fraggle Rock,17.751,7.4,136
+1748,94154,El Dragón: Return of a Warrior,['US'],es,El Dragón: El regreso de un guerrero,42.225,7.4,414
+1749,4184,Deceptions,['MX'],es,La usurpadora,15.479,7.4,324
+1750,66190,Marvel's Cloak & Dagger,['US'],en,Marvel's Cloak & Dagger,28.117,7.4,455
+1751,255,Hi Hi Puffy AmiYumi,"['US', 'JP']",en,Hi Hi Puffy AmiYumi,15.786,7.4,106
+1752,76719,The Rain,['DK'],da,The Rain,81.935,7.4,975
+1753,97401,Cheer,['US'],en,Cheer,10.248,7.4,109
+1754,62211,Sonic Boom,"['US', 'FR']",en,Sonic Boom,60.68,7.4,300
+1755,60699,Marco Polo,['US'],en,Marco Polo,17.444,7.4,340
+1756,84380,Better Than Us,['RU'],ru,"Лучше, чем люди",18.301,7.4,262
+1757,73411,Maniac,['US'],en,Maniac,14.645,7.4,521
+1758,2947,Veep,['US'],en,Veep,22.705,7.4,293
+1759,99610,Feel Good,['GB'],en,Feel Good,11.381,7.4,143
+1760,2458,CSI: NY,['US'],en,CSI: NY,78.2,7.4,504
+1761,64411,The Miracles of Jesus,['BR'],pt,Milagres de Jesus,5.134,7.4,125
+1762,61398,Terra Formars,['JP'],ja,テラフォーマーズ,18.098,7.4,171
+1763,39793,Call the Midwife,['GB'],en,Call the Midwife,21.463,7.4,157
+1764,75666,McMafia,['GB'],en,McMafia,12.493,7.4,154
+1765,7821,El Chavo: The Animated Series,['MX'],es,El Chavo Animado,157.526,7.4,358
+1766,19125,Killer Women,['MX'],es,Mujeres asesinas,27.909,7.4,247
+1767,14658,Survivor,['US'],en,Survivor,52.455,7.4,300
+1768,85853,Perry Mason,['US'],en,Perry Mason,17.752,7.4,198
+1769,114501,Dug Days,['US'],en,Dug Days,33.787,7.4,432
+1770,2692,My Wife and Kids,['US'],en,My Wife and Kids,39.678,7.4,269
+1771,103086,All For Love,['CO'],es,Amar y Vivir,34.344,7.4,315
+1772,15655,Knight Rider,['US'],en,Knight Rider,24.863,7.4,464
+1773,4602,That's So Raven,['US'],en,That's So Raven,24.718,7.4,155
+1774,1996,The Flintstones,['US'],en,The Flintstones,66.348,7.4,680
+1775,102918,Bloque De Busqueda,[],en,Bloque De Busqueda,6.355,7.4,112
+1776,78903,Utopia,['US'],en,Utopia,22.884,7.4,354
+1777,44593,Pac-Man and the Ghostly Adventures,"['US', 'CA', 'JP']",en,Pac-Man and the Ghostly Adventures,15.538,7.4,111
+1778,985,Wacky Races,['US'],en,Wacky Races,15.055,7.4,140
+1779,86374,War of the Worlds,['FR'],en,War of the Worlds,21.699,7.4,690
+1780,65345,The Get Down,['US'],en,The Get Down,11.524,7.4,116
+1781,51019,Almost Human,['US'],en,Almost Human,10.447,7.4,384
+1782,36994,Workaholics,['US'],en,Workaholics,21.134,7.4,162
+1783,82875,Origin,[],en,Origin,8.146,7.4,137
+1784,70798,Istanbullu Gelin,['TR'],tr,İstanbullu Gelin,19.723,7.4,192
+1785,70573,GLOW,['US'],en,GLOW,11.134,7.4,236
+1786,31841,Episodes,"['GB', 'US']",en,Episodes,12.368,7.4,114
+1787,62745,Is It Wrong to Try to Pick Up Girls in a Dungeon?,['JP'],ja,ダンジョンに出会いを求めるのは間違っているだろうか,4.844,7.4,147
+1788,61381,black-ish,['US'],en,black-ish,26.685,7.4,236
+1789,64433,Shades of Blue,['US'],en,Shades of Blue,18.495,7.4,225
+1790,60905,Salem,['US'],en,Salem,21.107,7.4,243
+1791,93785,Barbarians,['DE'],de,Barbaren,41.184,7.4,390
+1792,72306,La piloto,['MX'],es,La piloto,129.588,7.4,248
+1793,61838,Barbie: Life in the Dreamhouse,['US'],en,Barbie: Life in the Dreamhouse,25.339,7.4,286
+1794,133086,The Five Juanas,['MX'],es,La venganza de las Juanas,65.192,7.4,229
+1795,84661,The Outsider,['US'],en,The Outsider,19.597,7.4,1102
+1796,103026,Undertaker: The Last Ride,['US'],en,Undertaker: The Last Ride,7.837,7.4,306
+1797,89571,NEXT,['US'],en,NEXT,11.731,7.4,102
+1798,97062,Killer Inside: The Mind of Aaron Hernandez,['US'],en,Killer Inside: The Mind of Aaron Hernandez,7.977,7.4,105
+1799,83125,Cursed,['US'],en,Cursed,41.487,7.4,751
+1800,78314,Tres milagros,[],en,Tres milagros,8.896,7.4,106
+1801,15830,Get Smart,['US'],en,Get Smart,8.718,7.4,112
+1802,5451,Without Breasts There Is No Paradise,['CO'],es,Sin Senos no hay Paraíso,136.08,7.4,830
+1803,2355,Lilo & Stitch: The Series,['US'],en,Lilo & Stitch: The Series,77.408,7.4,413
+1804,43125,Guilty Crown,['JP'],ja,ギルティクラウン,16.235,7.4,140
+1805,31078,Bored to Death,['US'],en,Bored to Death,12.427,7.4,163
+1806,1706,The Pretender,['US'],en,The Pretender,19.768,7.4,136
+1807,94951,Mythic Quest,['US'],en,Mythic Quest,19.734,7.4,177
+1808,63522,F is for Family,['US'],en,F is for Family,23.164,7.4,235
+1809,124124,The Scent of Passion,['US'],es,Café con aroma de mujer,130.284,7.4,264
+1810,1940,Entourage,['US'],en,Entourage,40.153,7.4,381
+1811,88512,Bonding,['US'],en,Bonding,14.958,7.4,186
+1812,93520,Ghostwriter,['US'],en,Ghostwriter,13.059,7.4,107
+1813,60556,Bitten,['CA'],en,Bitten,25.352,7.4,199
+1814,81292,Messiah,['US'],en,Messiah,14.233,7.4,229
+1815,62643,DC's Legends of Tomorrow,['US'],en,DC's Legends of Tomorrow,83.263,7.4,1947
+1816,61709,Dragon Ball Z Kai,['JP'],ja,ドラゴンボール改「カイ」,59.931,7.4,592
+1817,21762,Parenthood,['US'],en,Parenthood,17.416,7.4,101
+1818,92553,Heels,['US'],en,Heels,48.312,7.4,107
+1819,92209,Truth Seekers,"['GB', 'US']",en,Truth Seekers,14.209,7.4,154
+1820,61387,NCIS: New Orleans,['US'],en,NCIS: New Orleans,49.045,7.4,348
+1821,42368,Lilyhammer,['NO'],en,Lilyhammer,19.595,7.4,152
+1822,1663,The Six Million Dollar Man,['US'],en,The Six Million Dollar Man,19.673,7.4,311
+1823,5148,Stargate Universe,['US'],en,Stargate Universe,20.642,7.4,514
+1824,3319,Darkwing Duck,['US'],en,Darkwing Duck,20.413,7.4,212
+1825,57243,Doctor Who,['GB'],en,Doctor Who,135.489,7.4,2350
+1826,43899,The Bible,['US'],en,The Bible,14.119,7.4,837
+1827,72615,Alias Grace,['CA'],en,Alias Grace,14.615,7.4,166
+1828,61698,Galavant,['US'],en,Galavant,11.169,7.4,108
+1829,22172,The Atom Ant Show,['US'],en,The Atom Ant Show,10.171,7.4,161
+1830,1073,I'm Alan Partridge,['GB'],en,I'm Alan Partridge,9.806,7.4,104
+1831,94924,Trese,['PH'],en,Trese,23.509,7.4,117
+1832,2187,Reno 911!,['US'],en,Reno 911!,23.989,7.4,103
+1833,62710,Blindspot,['US'],en,Blindspot,83.369,7.3,2128
+1834,4575,Lizzie McGuire,['US'],en,Lizzie McGuire,44.272,7.3,255
+1835,127635,Marvel's Spidey and His Amazing Friends,['US'],en,Marvel's Spidey and His Amazing Friends,40.855,7.3,201
+1836,66871,SIX,['US'],en,SIX,45.038,7.3,435
+1837,45,Top Gear,['GB'],en,Top Gear,56.494,7.3,548
+1838,134373,The Sex Lives of College Girls,['US'],en,The Sex Lives of College Girls,26.667,7.3,150
+1839,79026,The Protector,['TR'],tr,Hakan: Muhafız,36.518,7.3,344
+1840,2808,Totally Spies!,"['FR', 'US']",en,Totally Spies!,63.811,7.3,124
+1841,2122,King of the Hill,['US'],en,King of the Hill,64.629,7.3,413
+1842,129680,I Know What You Did Last Summer,['US'],en,I Know What You Did Last Summer,45.168,7.3,127
+1843,60637,Griselda Blanco: The Black Widow,['CO'],es,Griselda Blanco: La viuda negra,58.204,7.3,302
+1844,39279,Hart of Dixie,['US'],en,Hart of Dixie,22.524,7.3,214
+1845,90855,SAINT SEIYA: Knights of the Zodiac,['JP'],ja,聖闘士星矢: Knights of the Zodiac,83.606,7.3,477
+1846,62688,Supergirl,['US'],en,Supergirl,98.936,7.3,3672
+1847,53606,Love,['US'],en,Love,20.877,7.3,179
+1848,44493,The Tempest,['MX'],en,La Tempestad,11.064,7.3,122
+1849,104819,La Jauría,['CL'],es,La Jauría,21.818,7.3,586
+1850,67135,The Exorcist,['US'],en,The Exorcist,33.897,7.3,572
+1851,251,Aqua Teen Hunger Force,['US'],en,Aqua Teen Hunger Force,18.367,7.3,133
+1852,46879,Mickey Mouse,['US'],en,Mickey Mouse,34.225,7.3,145
+1853,11279,GANTZ,['JP'],ja,ガンツ,18.221,7.3,182
+1854,43146,X-Men,['JP'],ja,エックスメン,14.402,7.3,124
+1855,2406,Crossing Jordan,['US'],en,Crossing Jordan,27.127,7.3,109
+1856,94423,Japan Sinks: 2020,['JP'],ja,日本沈没2020,11.573,7.3,271
+1857,84553,Blade Runner: Black Lotus,['US'],en,Blade Runner: Black Lotus,118.484,7.3,130
+1858,90180,Jezabel,['BR'],pt,Jezabel,22.705,7.3,146
+1859,31497,The League,['US'],en,The League,21.401,7.3,124
+1860,65294,A Series of Unfortunate Events,['US'],en,A Series of Unfortunate Events,46.196,7.3,592
+1861,384,Doug,['US'],en,Doug,20.473,7.3,151
+1862,111743,Love & Anarchy,['SE'],sv,Kärlek & Anarki,18.939,7.3,120
+1863,2593,Without a Trace,['US'],en,Without a Trace,38.453,7.3,189
+1864,100010,Big Sky,['US'],en,Big Sky,30.055,7.3,148
+1865,67116,Lethal Weapon,['US'],en,Lethal Weapon,62.438,7.3,563
+1866,89008,Crime Diaries: Night Out,['MX'],es,Historia de un crimen: Colmenares,7.971,7.3,101
+1867,81747,Tell Me a Story,['US'],en,Tell Me a Story,24.084,7.3,220
+1868,97861,Night on Earth,['GB'],en,Night on Earth,12.677,7.3,175
+1869,66310,StartUp,['US'],en,StartUp,22.435,7.3,141
+1870,931,He-Man and the Masters of the Universe,['US'],en,He-Man and the Masters of the Universe,26.653,7.3,241
+1871,8624,Eastbound & Down,['US'],en,Eastbound & Down,12.584,7.3,200
+1872,156077,I Am Georgina,['ES'],es,Soy Georgina,39.474,7.3,224
+1873,114505,Pixar Popcorn,['US'],en,Pixar Popcorn,9.242,7.3,156
+1874,64248,Beauty and the Beast,['IT'],es,Beauty and the Beast,8.101,7.3,106
+1875,120587,Haunted: Latin America,['MX'],es,Haunted: Latinoamérica,74.095,7.3,244
+1876,112314,Archive 81,['US'],en,Archive 81,64.123,7.3,278
+1877,114478,Star Wars: Visions,"['US', 'JP']",ja,スター・ウォーズ：ビジョンズ,33.505,7.3,171
+1878,46746,In the Flesh,['GB'],en,In the Flesh,7.936,7.3,105
+1879,105113,Doña bella,[],es,Doña bella,6.339,7.3,176
+1880,4376,JAG,['US'],en,JAG,54.371,7.3,236
+1881,84969,LOL: Last One Laughing,['MX'],es,LOL: Last One Laughing,48.864,7.3,243
+1882,28379,The Diary of Anne Frank,['GB'],en,The Diary of Anne Frank,13.217,7.3,319
+1883,7831,Dead Set,['GB'],en,Dead Set,10.881,7.3,205
+1884,86550,Y: The Last Man,['US'],en,Y: The Last Man,46.672,7.3,177
+1885,85949,Star Trek: Picard,['US'],en,Star Trek: Picard,47.259,7.3,1260
+1886,62687,Limitless,['US'],en,Limitless,37.824,7.3,618
+1887,39957,Perception,['US'],en,Perception,27.356,7.3,178
+1888,2362,The Jetsons,['US'],en,The Jetsons,26.173,7.3,319
+1889,2321,The Unit,['US'],en,The Unit,18.745,7.3,133
+1890,153519,Neymar: The Perfect Chaos,"['BR', 'US']",pt,Neymar: O Caos Perfeito,38.855,7.3,198
+1891,84452,Nicky Jam: El Ganador,['PR'],es,Nicky Jam: El Ganador,28.928,7.3,495
+1892,82816,Lovecraft Country,['US'],en,Lovecraft Country,31.343,7.3,502
+1893,75191,The Terror,['US'],en,The Terror,28.302,7.3,617
+1894,94167,The Legend of El Cid,['ES'],es,The Legend of El Cid,37.605,7.3,168
+1895,111803,The White Lotus,['US'],en,The White Lotus,19.627,7.3,179
+1896,68878,La Doña,['US'],es,La Doña,25.94,7.3,592
+1897,105214,Dark Desire,['MX'],es,Oscuro deseo,134.772,7.3,4080
+1898,61986,Bloodline,['US'],en,Bloodline,14.962,7.3,243
+1899,32868,Nikita,['US'],en,Nikita,24.636,7.3,311
+1900,1420,New Girl,['US'],en,New Girl,89.502,7.3,974
+1901,104555,The Great Heist,['CO'],es,El robo del siglo,29.273,7.3,578
+1902,16169,Esmeralda,['MX'],es,Esmeralda,20.449,7.3,148
+1903,6618,Total Drama Island,['CA'],en,Total Drama Island,18.549,7.3,102
+1904,75663,Deadly Class,['US'],en,Deadly Class,38.118,7.3,173
+1905,94515,Prank Encounters,['US'],en,Prank Encounters,12.237,7.3,191
+1906,66786,Timeless,['US'],en,Timeless,34.192,7.3,553
+1907,105904,Someone Has to Die,"['MX', 'ES']",es,Alguien tiene que morir,12.683,7.3,182
+1908,95612,Home for Christmas,['NO'],no,Hjem til jul,8.458,7.3,159
+1909,67133,MacGyver,['US'],en,MacGyver,121.312,7.3,743
+1910,46157,The Carrie Diaries,['US'],en,The Carrie Diaries,10.677,7.3,185
+1911,127571,The War Next-door,['MX'],es,Guerra de vecinos,191.034,7.3,243
+1912,89287,Instinto,['ES'],es,Instinto,18.826,7.3,175
+1913,85385,L.A.'s Finest,['US'],en,L.A.'s Finest,27.265,7.3,196
+1914,65251,Crashing,['GB'],en,Crashing,8.083,7.3,104
+1915,68202,Call Me Bruna,['BR'],pt,Me Chama de Bruna,33.967,7.3,364
+1916,61599,The Librarians,['US'],en,The Librarians,29.591,7.3,352
+1917,3002,The Benny Hill Show,['GB'],en,The Benny Hill Show,24.246,7.3,105
+1918,2263,Friday the 13th: The Series,"['CA', 'US']",en,Friday the 13th: The Series,23.63,7.3,201
+1919,49011,Mom,['US'],en,Mom,77.097,7.3,411
+1920,79048,La Prepago,['CO'],es,La Prepago,7.04,7.3,194
+1921,85948,Star Trek: Lower Decks,['US'],en,Star Trek: Lower Decks,19.284,7.3,127
+1922,46958,Ravenswood,['US'],en,Ravenswood,10.646,7.3,131
+1923,93484,Jupiter's Legacy,['US'],en,Jupiter's Legacy,69.856,7.3,515
+1924,62829,Bonnie & Clyde,['US'],en,Bonnie & Clyde,15.42,7.3,100
+1925,81357,Dead to Me,['US'],en,Dead to Me,16.931,7.3,267
+1926,2251,Taxi,['US'],en,Taxi,19.633,7.3,101
+1927,129475,Inspector Koo,['KR'],ko,구경이,22.621,7.3,124
+1928,82092,Grand Hotel,['US'],en,Grand Hotel,9.996,7.3,144
+1929,66859,Better Things,['US'],en,Better Things,21.649,7.3,114
+1930,42295,Hemlock Grove,['US'],en,Hemlock Grove,23.194,7.3,390
+1931,424,Torchwood,['GB'],en,Torchwood,26.635,7.3,363
+1932,648,The Incredible Hulk,['US'],en,The Incredible Hulk,21.796,7.3,352
+1933,81146,Rosario Tijeras,['CO'],es,Rosario Tijeras,61.178,7.3,847
+1934,43284,María Isabel,['MX'],es,María Isabel,7.015,7.3,240
+1935,95515,Outbreak,['CA'],fr,Épidémie,6.39,7.3,117
+1936,30773,The Yogi Bear Show,['US'],en,The Yogi Bear Show,14.845,7.3,147
+1937,63248,Show Me a Hero,['US'],en,Show Me a Hero,8.581,7.3,123
+1938,14956,Dollhouse,['US'],en,Dollhouse,18.395,7.3,332
+1939,1310,Sanctuary,"['CA', 'US']",en,Sanctuary,19.52,7.3,178
+1940,82747,Kung Fu Panda: The Paws of Destiny,['US'],en,Kung Fu Panda: The Paws of Destiny,23.9,7.3,835
+1941,2720,TaleSpin,['US'],en,TaleSpin,29.11,7.3,109
+1942,76307,Dirty Money,['US'],en,Dirty Money,12.636,7.3,131
+1943,83478,Daybreak,['US'],en,Daybreak,16.645,7.3,298
+1944,85964,Patria,['ES'],es,Patria,14.586,7.3,124
+1945,19544,Afro Samurai,['US'],en,Afro Samurai,19.067,7.3,187
+1946,66894,Frequency,['US'],en,Frequency,13.02,7.3,186
+1947,127235,Invasion,['US'],en,Invasion,117.036,7.3,618
+1948,81733,Alias el Mexicano,['CO'],es,Alias el Mexicano,9.911,7.3,111
+1949,15354,Storm over Paradise,['MX'],en,Tormenta en el Paraíso,7.62,7.3,147
+1950,99769,Dragon's Dogma,['JP'],ja,ドラゴンズドグマ,9.548,7.3,140
+1951,70391,Philip K. Dick's Electric Dreams,['GB'],en,Philip K. Dick's Electric Dreams,12.168,7.3,172
+1952,994,Inspector Rex,['AT'],de,Kommissar Rex,16.624,7.3,132
+1953,1220,The Graham Norton Show,['GB'],en,The Graham Norton Show,52.628,7.3,186
+1954,4346,Freddy's Nightmares,['US'],en,Freddy's Nightmares,18.147,7.2,137
+1955,57276,TURN: Washington's Spies,['US'],en,TURN: Washington's Spies,11.226,7.2,177
+1956,106590,Paranormal,['EG'],ar,ما وراء الطبيعة,9.383,7.2,108
+1957,2985,Andromeda,"['US', 'CA']",en,Andromeda,33.499,7.2,180
+1958,71340,Krypton,['US'],en,Krypton,22.1,7.2,377
+1959,128839,La Brea,['US'],en,La Brea,201.329,7.2,736
+1960,2755,Rules of Engagement,['US'],en,Rules of Engagement,22.343,7.2,122
+1961,129677,Top Secret UFO Projects Declassified,['GB'],en,Top Secret UFO Projects Declassified,24.303,7.2,199
+1962,68467,3%,['BR'],pt,3%,30.051,7.2,331
+1963,65523,Dagashi Kashi,['JP'],ja,だがしかし,15.514,7.2,148
+1964,177,I Am Weasel,['US'],en,I Am Weasel,14.924,7.2,146
+1965,13179,The  Slave Isaura,['BR'],pt,A Escrava Isaura,15.788,7.2,113
+1966,75,Two Guys and a Girl,['US'],en,Two Guys and a Girl,16.807,7.2,113
+1967,39272,Once Upon a Time,['US'],en,Once Upon a Time,86.356,7.2,1677
+1968,104157,Katla,['IS'],is,Katla,74.441,7.2,236
+1969,103506,Jeffrey Epstein: Filthy Rich,['US'],en,Jeffrey Epstein: Filthy Rich,10.862,7.2,262
+1970,57092,The White Queen,['GB'],en,The White Queen,22.193,7.2,217
+1971,46331,Under the Dome,['US'],en,Under the Dome,106.606,7.2,3022
+1972,96481,Rise of Empires: Ottoman,['TR'],en,Rise of Empires: Ottoman,11.953,7.2,195
+1973,1475,The Dead Zone,"['US', 'CA']",en,The Dead Zone,29.703,7.2,104
+1974,15907,The Brink,['US'],en,The Brink,7.713,7.2,102
+1975,7537,Tomorrow is forever,['MX'],es,Mañana es para siempre,15.919,7.2,170
+1976,4606,Garfield and Friends,['US'],en,Garfield and Friends,47.991,7.2,269
+1977,124920,Rugrats,['US'],en,Rugrats,24.114,7.2,111
+1978,106238,Hoops,['US'],en,Hoops,10.226,7.2,156
+1979,4573,Late Night with Conan O'Brien,['US'],en,Late Night with Conan O'Brien,28.267,7.2,101
+1980,3072,Stripperella,['US'],en,Stripperella,14.649,7.2,105
+1981,734,"Magnum, P.I.",['US'],en,"Magnum, P.I.",31.678,7.2,217
+1982,133727,Acapulco,['US'],en,Acapulco,81.025,7.2,250
+1983,62977,Tut,"['CA', 'US']",en,Tut,12.505,7.2,153
+1984,12970,"Two Women, One Road",['MX'],es,"Dos mujeres, un camino",13.039,7.2,259
+1985,36250,xxxHOLiC,['JP'],ja,XXX ホリック,41.269,7.2,760
+1986,4429,Timon & Pumbaa,['US'],en,The Lion King's Timon & Pumbaa,50.401,7.2,529
+1987,1481,The 4400,['US'],en,The 4400,29.758,7.2,482
+1988,71577,The New Legends of Monkey,['NZ'],en,The New Legends of Monkey,30.283,7.2,144
+1989,103302,Clarice,['US'],en,Clarice,27.12,7.2,174
+1990,3750,Nip/Tuck,['US'],en,Nip/Tuck,45.723,7.2,345
+1991,136308,Stay Close,['GB'],en,Stay Close,10.116,7.2,118
+1992,40290,MasterChef,['US'],en,MasterChef,32.511,7.2,216
+1993,117030,We Baby Bears,['US'],en,We Baby Bears,41.041,7.2,233
+1994,67752,Channel Zero,['US'],en,Channel Zero,15.094,7.2,219
+1995,7869,The Penguins of Madagascar,['US'],en,The Penguins of Madagascar,67.949,7.2,167
+1996,32022,Being Human,"['CA', 'US']",en,Being Human,13.328,7.2,133
+1997,16684,Dark Fate,['MX'],es,Mariana de la Noche,7.031,7.2,161
+1998,99588,Kamp Koral: SpongeBob's Under Years,['US'],en,Kamp Koral: SpongeBob's Under Years,43.053,7.2,476
+1999,61295,Pokémon Origins,['JP'],ja,ポケットモンスター THE ORIGIN,30.521,7.2,280
+2000,67198,Star Trek: Discovery,['US'],en,Star Trek: Discovery,70.98,7.2,1329
+2001,35281,Mi Corazón Insiste en Lola Volcán,['US'],en,Mi Corazón Insiste en Lola Volcán,8.715,7.2,101
+2002,60638,Cadenas de amargura,['MX'],en,Cadenas de amargura,4.901,7.2,111
+2003,32415,Conan,['US'],en,Conan,68.611,7.2,168
+2004,4610,Hannah Montana,['US'],en,Hannah Montana,47.162,7.2,488
+2005,69998,"Hugo Chávez, El Comandante","['CO', 'US', 'VE']",es,"Hugo Chávez, El Comandante",69.281,7.2,442
+2006,67026,Designated Survivor,['US'],en,Designated Survivor,52.34,7.2,678
+2007,120734,Just Beyond,['US'],en,Just Beyond,57.421,7.2,174
+2008,71116,Castle Rock,['US'],en,Castle Rock,19.496,7.2,393
+2009,61345,Z Nation,['US'],en,Z Nation,62.747,7.2,647
+2010,101881,El Presidente,['CL'],es,El Presidente,16.247,7.2,404
+2011,35527,La tormenta,['CO'],es,La tormenta,115.86,7.2,273
+2012,12965,María la del Barrio,['MX'],es,María la del Barrio,239.434,7.2,475
+2013,71663,Black Lightning,['US'],en,Black Lightning,45.513,7.2,703
+2014,73157,Future Man,['US'],en,Future Man,19.601,7.2,328
+2015,105849,Caminantes,['ES'],es,Caminantes,5.548,7.2,227
+2016,8392,Popeye the Sailor,['US'],en,Popeye the Sailor,129.078,7.2,281
+2017,39468,Mildred Pierce,['US'],en,Mildred Pierce,12.035,7.2,158
+2018,21755,Pawn Stars,['US'],en,Pawn Stars,31.689,7.2,211
+2019,1664,Spider-Man: The New Animated Series,"['CA', 'US']",en,Spider-Man: The New Animated Series,39.088,7.2,300
+2020,102625,Ana,"['MX', 'US']",es,Ana,7.084,7.2,131
+2021,91962,Emergence,['US'],en,Emergence,12.734,7.2,141
+2022,85703,Always a Witch,['CO'],es,Siempre Bruja,21.994,7.2,110
+2023,83131,Horror at the Cecil Hotel,['US'],en,Horror at the Cecil Hotel,6.456,7.2,157
+2024,74080,Anime-Gataris,['JP'],ja,アニメガタリズ,11.047,7.2,131
+2025,39276,Unforgettable,['US'],en,Unforgettable,36.372,7.2,236
+2026,51370,Resurrection,['US'],en,Resurrection,12.297,7.2,221
+2027,14814,Keeping Up with the Kardashians,['US'],en,Keeping Up with the Kardashians,66.971,7.2,603
+2028,91242,Preso No. 1,['US'],es,Preso No. 1,9.465,7.2,126
+2029,1434,Family Guy,['US'],en,Family Guy,241.321,7.2,3292
+2030,90461,Monsters at Work,['US'],en,Monsters at Work,46.719,7.2,1257
+2031,58457,Los Tres Caines,['CO'],es,Los Tres Caines,8.654,7.2,187
+2032,20727,La Mentira,['MX'],es,La Mentira,3.619,7.2,171
+2033,18712,The Search,['MX'],es,Historia de un crimen: la búsqueda,10.049,7.2,334
+2034,7097,United States of Tara,['US'],en,United States of Tara,9.229,7.2,102
+2035,93808,Tribes of Europa,['DE'],de,Tribes of Europa,46.323,7.2,279
+2036,97441,The Healing Powers of Dude,[],en,The Healing Powers of Dude,9.041,7.2,327
+2037,70865,Broken Promises,['CO'],es,La Promesa,47.114,7.2,286
+2038,62285,Marvel's The Defenders,['US'],en,Marvel's The Defenders,52.496,7.2,958
+2039,116989,Crime Scene: The Vanishing at the Cecil Hotel,['US'],en,Crime Scene: The Vanishing at the Cecil Hotel,21.75,7.2,250
+2040,67419,Victoria,['GB'],en,Victoria,22.312,7.2,188
+2041,64394,Outcast,['US'],en,Outcast,11.982,7.2,380
+2042,61692,Fresh Off the Boat,['US'],en,Fresh Off the Boat,30.988,7.2,188
+2043,64554,BrainDead,['US'],en,BrainDead,8.344,7.2,135
+2044,89844,30 Coins,['ES'],es,30 Monedas,39.893,7.2,429
+2045,66551,The Mick,['US'],en,The Mick,9.347,7.2,169
+2046,670,Baby Looney Tunes,"['CA', 'US']",en,Baby Looney Tunes,27.916,7.2,208
+2047,46928,Sofia the First,['US'],en,Sofia the First,44.373,7.2,467
+2048,91545,Young Wallander,['GB'],en,Young Wallander,98.113,7.2,136
+2049,95281,S.O.Z: Soldiers or Zombies,['ES'],es,S.O.Z: Soldados o Zombies,128.33,7.2,617
+2050,89247,Batwoman,['US'],en,Batwoman,52.083,7.2,1324
+2051,1567,CatDog,['US'],en,CatDog,35.544,7.1,282
+2052,61671,Unbreakable Kimmy Schmidt,['US'],en,Unbreakable Kimmy Schmidt,25.604,7.2,377
+2053,80335,Homecoming,['US'],en,Homecoming,16.259,7.2,193
+2054,61555,The Missing,['GB'],en,The Missing,13.869,7.2,195
+2055,3470,Masters of Horror,['US'],en,Masters of Horror,15.491,7.2,211
+2056,61733,Empire,['US'],en,Empire,36.157,7.2,652
+2057,42272,Baby Daddy,['US'],en,Baby Daddy,31.819,7.2,145
+2058,7171,Going Postal,['GB'],en,Going Postal,11.085,7.2,139
+2059,111462,The Liberator,['US'],en,The Liberator,20.379,7.1,135
+2060,3611,Cow and Chicken,['US'],en,Cow and Chicken,56.869,7.1,343
+2061,86850,Dracula,['GB'],en,Dracula,18.466,7.1,483
+2062,341,Brothers and Sisters,['US'],en,Brothers and Sisters,25.135,7.1,139
+2063,47523,A Young Doctor's Notebook,['GB'],en,A Young Doctor's Notebook,9.903,7.1,109
+2064,46639,American Gods,['US'],en,American Gods,57.513,7.1,1250
+2065,88052,Black Summer,['US'],en,Black Summer,25.449,7.1,342
+2066,93736,Age of Samurai: Battle for Japan,['US'],en,Age of Samurai: Battle for Japan,33.411,7.1,242
+2067,66398,"Diomedes, el Cacique de La Junta",['CO'],es,"Diomedes, el Cacique de La Junta",156.372,7.1,705
+2068,70485,Mr. Mercedes,['US'],en,Mr. Mercedes,22.866,7.1,192
+2069,9687,The Odyssey,"['DE', 'US', 'GB', 'IT', 'ZA', 'TR']",en,The Odyssey,23.872,7.1,610
+2070,65150,Vice Principals,['US'],en,Vice Principals,9.022,7.1,136
+2071,64387,The Girlfriend Experience,['US'],en,The Girlfriend Experience,18.036,7.1,331
+2072,109330,Madagascar: A Little Wild,['US'],en,Madagascar: A Little Wild,42.336,7.1,233
+2073,66857,Shooter,['US'],en,Shooter,47.271,7.1,471
+2074,69088,Marvel's Agents of S.H.I.E.L.D.: Slingshot,['US'],en,Marvel's Agents of S.H.I.E.L.D.: Slingshot,22.012,7.1,171
+2075,134297,Olaf Presents,['US'],en,Olaf Presents,15.547,7.1,236
+2076,65763,New Looney Tunes,[],en,New Looney Tunes,35.04,7.1,113
+2077,15822,Zorro,['US'],en,Zorro,16.19,7.1,218
+2078,8068,Shaka Zulu,['ZA'],en,Shaka Zulu,24.311,7.1,105
+2079,12901,Salomé,['MX'],es,Salomé,6.551,7.1,127
+2080,58928,Dracula,"['US', 'GB']",en,Dracula,14.973,7.1,310
+2081,44242,Devious Maids,['US'],en,Devious Maids,17.136,7.1,101
+2082,76303,The Plague,['ES'],es,La peste,10.893,7.1,190
+2083,4515,Lois & Clark: The New Adventures of Superman,['US'],en,Lois & Clark: The New Adventures of Superman,42.094,7.1,305
+2084,39340,2 Broke Girls,['US'],en,2 Broke Girls,61.31,7.1,1175
+2085,66912,Chance,['US'],en,Chance,9.335,7.1,109
+2086,76692,Catherine the Great,['GB'],en,Catherine the Great,16.997,7.1,105
+2087,219,Kyle XY,['US'],en,Kyle XY,37.01,7.1,231
+2088,99633,Puerta 7,['AR'],es,Puerta 7,17.128,7.1,142
+2089,32166,The Count of Monte Cristo,['FR'],fr,Le Comte de Monte-Cristo,13.72,7.1,106
+2090,97754,Young Rock,['US'],en,Young Rock,34.07,7.1,194
+2091,75365,Wolf,['TR'],tr,Börü,24.53,7.1,153
+2092,3579,The Angry Beavers,['US'],en,The Angry Beavers,29.877,7.1,139
+2093,126164,The Wonder Years,['US'],en,The Wonder Years,12.888,7.1,156
+2094,2359,Spin City,['US'],en,Spin City,20.992,7.1,218
+2095,126280,Sex/Life,['US'],en,Sex/Life,170.622,7.1,957
+2096,110529,Invisible City,['BR'],pt,Cidade Invisível,11.029,7.1,263
+2097,39483,Major Crimes,['US'],en,Major Crimes,46.781,7.1,126
+2098,112077,Scenes from a Marriage,['US'],en,Scenes from a Marriage,45.887,7.1,170
+2099,85854,The Widow,['GB'],en,The Widow,11.18,7.1,127
+2100,46638,Top of the Lake,"['AU', 'NZ', 'GB', 'US']",en,Top of the Lake,19.04,7.1,245
+2101,87956,"Ringo, la pelea de su vida",['MX'],es,"Ringo, la pelea de su vida",12.594,7.1,204
+2102,34967,Falling Skies,['US'],en,Falling Skies,22.603,7.1,926
+2103,32729,No Ordinary Family,['US'],en,No Ordinary Family,11.768,7.1,267
+2104,86382,The Stand,['US'],en,The Stand,56.066,7.1,504
+2105,5107,Reaper,['US'],en,Reaper,10.715,7.1,137
+2106,58565,"Amy, la niña de la mochila azul",['MX'],es,"Amy, la niña de la mochila azul",8.902,7.1,132
+2107,99356,The Letter for the King,['GB'],en,The Letter for the King,12.726,7.1,177
+2108,65820,Van Helsing,['US'],en,Van Helsing,101.329,7.1,718
+2109,64122,The Shannara Chronicles,['US'],en,The Shannara Chronicles,39.326,7.1,735
+2110,4238,The King of Queens,['US'],en,The King of Queens,44.389,7.1,439
+2111,132559,The Croods: Family Tree,['US'],en,The Croods: Family Tree,73.8,7.1,540
+2112,127445,Tom and Jerry in New York,['US'],en,Tom and Jerry in New York,29.935,7.1,162
+2113,32829,Happy Endings,['US'],en,Happy Endings,15.238,7.1,120
+2114,19092,FlashForward,['US'],en,FlashForward,26.095,7.1,346
+2115,12656,Rosalinda,['MX'],es,Rosalinda,15.873,7.1,152
+2116,7087,Being Human,['GB'],en,Being Human,11.456,7.1,151
+2117,13943,Beavis and Butt-head,['US'],en,Beavis and Butt-head,35.089,7.1,271
+2118,502,Sesame Street,['US'],en,Sesame Street,61.846,7.1,177
+2119,103787,How to Survive Being Single,['MX'],es,Cómo sobrevivir soltero,20.291,7.1,306
+2120,77459,The Passage,['US'],en,The Passage,11.449,7.1,285
+2121,2437,Pocoyo,"['GB', 'ES']",en,Pocoyo,40.947,7.1,414
+2122,97609,Stolen Away,['ES'],es,Perdida,13.232,7.1,242
+2123,44169,Brickleberry,['US'],en,Brickleberry,32.921,7.1,124
+2124,2410,Diff'rent Strokes,['US'],en,Diff'rent Strokes,2.18,7.1,207
+2125,6547,Maria Mercedes,['MX'],es,María Mercedes,15.581,7.1,185
+2126,2612,Deadliest Catch,['US'],en,Deadliest Catch,26.643,7.1,109
+2127,66579,The Three Sides of Ana,['MX'],es,Tres veces Ana,72.113,7.1,283
+2128,9051,La mujer en el espejo,['CO'],es,La mujer en el espejo,7.335,7.1,314
+2129,62196,Stitchers,['US'],en,Stitchers,16.468,7.1,178
+2130,115521,Alba,['ES'],es,Alba,13.464,7.1,148
+2131,83247,Haunted,['US'],en,Haunted,21.686,7.1,265
+2132,61258,I Don't Trust Men Anymore,['MX'],es,Yo no creo en los hombres,9.909,7.1,108
+2133,39269,Scandal,['US'],en,Scandal,29.996,7.1,407
+2134,578,Numb3rs,['US'],en,Numb3rs,32.116,7.1,282
+2135,103425,The Woods,['PL'],pl,W głębi lasu,8.708,7.1,120
+2136,118043,Amend: The Fight for America,['US'],en,Amend: The Fight for America,10.74,7.1,141
+2137,105213,Kissing Game,['BR'],pt,Boca a Boca,22.195,7.1,245
+2138,66023,Marcella,['GB'],en,Marcella,24.282,7.1,144
+2139,63535,Vinyl,['US'],en,Vinyl,12.891,7.1,144
+2140,46976,Hitler: The Rise of Evil,['CA'],en,Hitler: The Rise of Evil,16.612,7.1,222
+2141,4331,Wonder Woman,['US'],en,Wonder Woman,34.503,7.1,374
+2142,67487,The Tick,['US'],en,The Tick,16.226,7.1,149
+2143,1759,The Cosby Show,['US'],en,The Cosby Show,21.168,7.0,290
+2144,380,Little Britain,['GB'],en,Little Britain,11.704,7.0,135
+2145,2408,The Wild Thornberrys,['US'],en,The Wild Thornberrys,23.536,7.0,190
+2146,68427,Mars,['US'],en,Mars,11.758,7.0,267
+2147,103435,Herederos por accidente,['MX'],es,Herederos por accidente,8.578,7.0,273
+2148,99045,Mi Pequeña Traviesa,['MX'],es,Mi Pequeña Traviesa,8.834,7.0,100
+2149,93265,Pup Academy,['US'],en,Pup Academy,11.823,7.0,176
+2150,39361,Awake,['US'],en,Awake,8.379,7.0,139
+2151,73117,Knightfall,['US'],en,Knightfall,26.643,7.0,248
+2152,100698,Tiger King,['US'],en,Tiger King,9.89,7.0,256
+2153,4385,The Colbert Report,['US'],en,The Colbert Report,29.609,7.0,201
+2154,62126,Marvel's Luke Cage,['US'],en,Marvel's Luke Cage,56.938,7.0,1306
+2155,71146,Condor,['US'],en,Condor,30.498,7.0,155
+2156,82565,El secreto de Selena,['MX'],es,El secreto de Selena,10.303,7.0,409
+2157,83685,Penny Dreadful: City of Angels,['US'],en,Penny Dreadful: City of Angels,21.147,7.0,268
+2158,4615,Hercules: The Legendary Journeys,['US'],en,Hercules: The Legendary Journeys,19.943,7.0,359
+2159,2706,Roseanne,['US'],en,Roseanne,3.363,7.0,236
+2160,3772,"Walker, Texas Ranger",['US'],en,"Walker, Texas Ranger",28.657,7.0,387
+2161,478,Captain Planet and the Planeteers,['US'],en,Captain Planet and the Planeteers,29.685,7.0,159
+2162,99121,Walker,['US'],en,Walker,74.167,7.0,259
+2163,2404,Sonic the Hedgehog,['US'],en,Sonic the Hedgehog,16.542,7.0,130
+2164,72248,No Trace of You,['MX'],es,Sin rastro de ti,5.808,7.0,152
+2165,58937,Masters of Sex,['US'],en,Masters of Sex,32.838,7.0,277
+2166,66008,You Me Her,"['CA', 'US']",en,You Me Her,15.799,7.0,356
+2167,501,Battlestar Galactica,['US'],en,Battlestar Galactica,26.701,7.0,147
+2168,111312,Marvel's M.O.D.O.K.,['US'],en,Marvel's M.O.D.O.K.,34.422,7.0,111
+2169,5687,The Smurfs,"['BE', 'US']",en,The Smurfs,53.417,7.0,355
+2170,82585,The Inmate,['MX'],es,El recluso,18.852,7.0,412
+2171,73987,Lore,['US'],en,Lore,18.501,7.0,351
+2172,4454,Will & Grace,['US'],en,Will & Grace,35.105,7.0,340
+2173,86363,Tenías que ser Tú,['MX'],es,Tenías que ser Tú,6.699,7.0,100
+2174,85586,Coroner,['CA'],en,Coroner,27.822,7.0,186
+2175,77606,The Boss Baby: Back in Business,['US'],en,The Boss Baby: Back in Business,75.421,7.0,1582
+2176,67490,Despertar Contigo,['MX'],es,Despertar Contigo,7.318,7.0,100
+2177,93784,Tales from the Loop,['US'],en,Tales from the Loop,15.579,7.0,251
+2178,18053,Nurse Jackie,['US'],en,Nurse Jackie,21.78,7.0,146
+2179,49157,Houdini,['CA'],en,Houdini,10.007,7.0,218
+2180,88053,Doña flor y sus dos maridos,['MX'],es,Doña flor y sus dos maridos,5.582,7.0,169
+2181,90972,Station Eleven,['US'],en,Station Eleven,25.667,7.0,145
+2182,66840,Bull,['US'],en,Bull,51.36,7.0,289
+2183,2745,Aladdin: The Series,['US'],en,Aladdin: The Series,35.683,7.0,260
+2184,106108,El Candidato,['MX'],es,El Candidato,8.986,7.0,124
+2185,66090,Wolf Creek,['AU'],en,Wolf Creek,10.334,7.0,146
+2186,48860,The Tomorrow People,['US'],en,The Tomorrow People,26.662,7.0,249
+2187,2126,The Brady Bunch,['US'],en,The Brady Bunch,18.786,7.0,102
+2188,9957,The Mask: Animated Series,['US'],en,The Mask: Animated Series,26.558,7.0,374
+2189,82094,Whiskey Cavalier,['US'],en,Whiskey Cavalier,13.625,7.0,115
+2190,127581,4400,['US'],en,4400,85.2,7.0,170
+2191,111761,The Minions of Midas,['ES'],es,Los favoritos de Midas,18.627,7.0,100
+2192,88987,Helstrom,['US'],en,Helstrom,13.168,7.0,134
+2193,100043,Bloodride,['NO'],no,Blodtur,10.503,7.0,150
+2194,123591,The Smurfs,['BE'],fr,Les Schtroumpfs,46.754,7.0,141
+2195,103505,The Unremarkable Juanquini,['CO'],es,Chichipatos,10.559,7.0,218
+2196,5256,The Mists of Avalon,['US'],en,The Mists of Avalon,9.71,7.0,110
+2197,78950,Miracle Workers,['US'],en,Miracle Workers,23.635,7.0,152
+2198,105305,The Business of Drugs,['US'],en,The Business of Drugs,5.248,7.0,114
+2199,12976,Quinceañera,['MX'],es,Quinceañera,12.855,7.0,115
+2200,111838,The Woman in the House Across the Street from the Girl in the Window,['US'],en,The Woman in the House Across the Street from the Girl in the Window,17.172,7.0,213
+2201,67743,Cardinal,['CA'],en,Cardinal,23.038,7.0,104
+2202,2675,The Little Mermaid,['US'],en,The Little Mermaid,37.891,7.0,614
+2203,135864,Elves,['DK'],da,Nisser,53.018,7.0,176
+2204,57532,PAW Patrol,['US'],en,PAW Patrol,142.717,7.0,527
+2205,62066,Ask God For Forgiveness... Not Me,['MX'],es,Que te Perdone Dios... Yo No,15.208,7.0,127
+2206,96853,The Forgotten Army - Azaadi ke liye,['IN'],hi,The Forgotten Army - Azaadi ke liye,9.504,7.0,137
+2207,34634,Gold Rush,['US'],en,Gold Rush,30.828,7.0,124
+2208,93716,The Mosquito Coast,['US'],en,The Mosquito Coast,15.99,7.0,157
+2209,80707,GHOUL,['IN'],hi,GHOUL,19.437,7.0,142
+2210,20056,Broken Trail,['US'],en,Broken Trail,11.623,7.0,141
+2211,9156,Frank Herbert's Children of Dune,['US'],en,Frank Herbert's Children of Dune,17.978,7.0,149
+2212,7354,Harper's Island,['US'],en,Harper's Island,10.275,7.0,169
+2213,119279,Solos,['US'],en,Solos,30.997,7.0,160
+2214,877,Caprica,"['CA', 'US']",en,Caprica,16.325,6.9,279
+2215,2389,Las Vegas,['US'],en,Las Vegas,26.968,6.9,152
+2216,92433,The Usurper,['MX'],es,La Usurpadora,13.118,6.9,310
+2217,56295,Halo 4: Forward Unto Dawn,['US'],en,Halo 4: Forward Unto Dawn,168.188,6.9,589
+2218,4035,Inspector Gadget,"['CA', 'FR', 'JP', 'TW', 'US']",en,Inspector Gadget,27.978,6.9,271
+2219,70484,Britannia,['GB'],en,Britannia,32.524,6.9,134
+2220,57736,The Musketeers,['GB'],en,The Musketeers,16.085,6.9,124
+2221,103849,Curon,['IT'],it,Curon,20.613,6.9,139
+2222,92394,Por siempre Joan Sebastián,['MX'],es,Por siempre Joan Sebastián,6.777,6.9,104
+2223,95594,Fast & Furious Spy Racers,['US'],en,Fast & Furious Spy Racers,54.84,6.9,2074
+2224,80213,The Purge,['US'],en,The Purge,59.27,6.9,3118
+2225,100333,Summertime,['IT'],it,Summertime,59.542,6.9,381
+2226,84052,Perfume,['DE'],de,Parfum,15.084,6.9,267
+2227,96557,Pandemic: How to Prevent an Outbreak,['US'],en,Pandemic: How to Prevent an Outbreak,6.437,6.9,610
+2228,20992,Sonic Underground,"['FR', 'US']",en,Sonic Underground,17.262,6.9,120
+2229,12782,Marimar,['MX'],es,Marimar,28.927,6.9,676
+2230,2275,The Bionic Woman,['US'],en,The Bionic Woman,13.215,6.9,186
+2231,136998,Express,['ES'],es,Express,10.206,6.9,102
+2232,153205,Love Once Again,['CN'],zh,谈什么恋爱啊,4.41,6.9,106
+2233,77184,Halo: The Fall of Reach,['US'],en,Halo: The Fall of Reach,108.924,6.9,357
+2234,63161,Crazy Ex-Girlfriend,['US'],en,Crazy Ex-Girlfriend,18.436,6.9,118
+2235,42531,Powers,['US'],en,Powers,30.446,6.9,138
+2236,62117,Younger,['US'],en,Younger,30.394,6.9,169
+2237,237,Mortal Kombat: Conquest,['US'],en,Mortal Kombat: Conquest,14.115,6.9,262
+2238,93394,Cuna de lobos,['MX'],es,Cuna de lobos,33.405,6.9,187
+2239,61378,Madam Secretary,['US'],en,Madam Secretary,27.398,6.9,223
+2240,4709,Man vs. Wild,"['US', 'GB']",en,Man vs. Wild,20.016,6.9,118
+2241,2898,Small Wonder,['US'],en,Small Wonder,13.468,6.9,124
+2242,93579,Regreso a la guaca,['CO'],es,Regreso a la guaca,5.941,6.9,105
+2243,72792,Safe,['GB'],en,Safe,9.468,6.9,130
+2244,66606,Roots,['US'],en,Roots,13.677,6.9,136
+2245,10126,Taz-Mania,['US'],en,Taz-Mania,20.147,6.9,152
+2246,1667,Saturday Night Live,['US'],en,Saturday Night Live,50.953,6.9,307
+2247,129418,Brand New Cherry Flavor,['US'],en,Brand New Cherry Flavor,46.597,6.9,139
+2248,5028,Storm of the Century,['US'],en,Storm of the Century,11.26,6.9,205
+2249,2370,Hell's Kitchen,['US'],en,Hell's Kitchen,29.126,6.9,195
+2250,94413,The Mess You Leave Behind,['ES'],es,El desorden que dejas,33.013,6.9,201
+2251,12117,Human Trafficking,['CA'],en,Human Trafficking,13.353,6.9,166
+2252,61335,Fortitude,['GB'],en,Fortitude,15.422,6.9,195
+2253,106514,Tiny Creatures,[],en,Tiny Creatures,6.023,6.9,124
+2254,103465,Into the Unknown: Making Frozen II,['US'],en,Into the Unknown: Making Frozen II,12.745,6.9,184
+2255,39362,Alphas,['US'],en,Alphas,13.999,6.9,228
+2256,1433,American Dad!,['US'],en,American Dad!,161.703,6.9,1528
+2257,51168,Star-Crossed,['US'],en,Star-Crossed,10.573,6.9,104
+2258,61888,The Last Man on Earth,['US'],en,The Last Man on Earth,36.905,6.9,634
+2259,46080,Masha and the Bear,['RU'],ru,Маша и Медведь,45.937,6.9,354
+2260,31631,Covert Affairs,['US'],en,Covert Affairs,19.45,6.9,160
+2261,7143,Fear Itself,['US'],en,Fear Itself,12.343,6.9,139
+2262,89233,Away,['US'],en,Away,17.801,6.9,234
+2263,18779,Royal Pains,['US'],en,Royal Pains,22.932,6.9,109
+2264,21494,V,['US'],en,V,26.02,6.9,533
+2265,62858,Colony,['US'],en,Colony,27.914,6.9,467
+2266,129897,Day of the Dead,['CA'],en,Day of the Dead,96.177,6.9,148
+2267,62823,Scream: The TV Series,['US'],en,Scream: The TV Series,44.861,6.9,935
+2268,73550,Gunpowder,['GB'],en,Gunpowder,10.677,6.9,135
+2269,19614,It,['US'],en,It,174.402,6.9,2481
+2270,84469,Cowboy Bebop,['US'],en,Cowboy Bebop,20.058,6.9,217
+2271,12584,Tin Man,['US'],en,Tin Man,9.039,6.9,134
+2272,3670,Cops,['US'],en,Cops,41.652,6.9,137
+2273,45140,Teen Titans Go!,['US'],en,Teen Titans Go!,80.205,6.9,465
+2274,60858,Heroes Reborn,['US'],en,Heroes Reborn,20.141,6.9,400
+2275,99807,La Révolution,['FR'],fr,La Révolution,9.484,6.9,168
+2276,16118,Salem's Lot,['US'],en,Salem's Lot,18.335,6.9,342
+2277,32608,Ancient Aliens,['US'],en,Ancient Aliens,36.311,6.9,197
+2278,19566,Frank Herbert's Dune,['US'],en,Frank Herbert's Dune,14.443,6.9,228
+2279,62413,Killjoys,['CA'],en,Killjoys,18.694,6.8,385
+2280,4241,8 Simple Rules... for Dating My Teenage Daughter,['US'],en,8 Simple Rules... for Dating My Teenage Daughter,16.633,6.8,129
+2281,64555,Frontier,['CA'],en,Frontier,21.581,6.8,210
+2282,39357,Suburgatory,['US'],en,Suburgatory,16.119,6.8,150
+2283,39331,Don't Trust the B---- in Apartment 23,['US'],en,Don't Trust the B---- in Apartment 23,14.624,6.8,205
+2284,63296,D-Day Sacrifice,['CA'],en,D-Day Sacrifice,8.658,6.8,117
+2285,119105,Feria: The Darkest Light,['ES'],es,Feria: La luz más oscura,12.411,6.8,181
+2286,53425,Wayward Pines,['US'],en,Wayward Pines,16.116,6.8,607
+2287,83870,The Plot Against America,['US'],en,The Plot Against America,15.076,6.8,113
+2288,96658,Masters of the Universe: Revelation,['US'],en,Masters of the Universe: Revelation,31.838,6.8,260
+2289,62195,The Whispers,['US'],en,The Whispers,13.196,6.8,137
+2290,104108,Reality Z,['BR'],pt,Reality Z,8.547,6.8,223
+2291,63647,Childhood's End,['US'],en,Childhood's End,10.002,6.8,223
+2292,47141,The Bridge,['US'],en,The Bridge,12.481,6.8,122
+2293,83981,The War of the Worlds,['GB'],en,The War of the Worlds,24.291,6.8,203
+2294,30826,La rosa de Guadalupe,['MX'],es,La rosa de Guadalupe,51.427,6.8,137
+2295,81532,Living with Yourself,['US'],en,Living with Yourself,9.928,6.8,168
+2296,2530,Mr. Bean: The Animated Series,['GB'],en,Mr. Bean: The Animated Series,55.138,6.8,292
+2297,63201,Glitch,['AU'],en,Glitch,39.693,6.8,211
+2298,62142,The Returned,['US'],en,The Returned,8.02,6.8,108
+2299,60888,Young & Hungry,['US'],en,Young & Hungry,15.794,6.8,113
+2300,113178,Alien Worlds,['GB'],en,Alien Worlds,10.105,6.8,166
+2301,102272,Code 404,['GB'],en,Code 404,7.277,6.8,105
+2302,83135,The Twilight Zone,['US'],en,The Twilight Zone,22.663,6.8,229
+2303,93826,October Faction,['US'],en,October Faction,12.225,6.8,214
+2304,60705,Faking It,['US'],en,Faking It,26.155,6.8,115
+2305,64434,Second Chance,['US'],en,Second Chance,8.034,6.8,128
+2306,90265,White Lines,['GB'],en,White Lines,10.766,6.8,104
+2307,61239,Aquarius,['US'],en,Aquarius,14.081,6.8,118
+2308,102085,Too Hot to Handle,['US'],en,Too Hot to Handle,22.968,6.8,328
+2309,95665,Inventing Anna,['US'],en,Inventing Anna,89.592,6.8,117
+2310,2140,Everybody Loves Raymond,['US'],en,Everybody Loves Raymond,32.262,6.8,409
+2311,3934,Mickey Mouse Clubhouse,['US'],en,Mickey Mouse Clubhouse,92.338,6.8,243
+2312,41691,Merlin,"['GB', 'US']",en,Merlin,14.807,6.8,196
+2313,967,The Huckleberry Hound Show,['US'],en,The Huckleberry Hound Show,17.766,6.8,100
+2314,67993,Chicago Justice,['US'],en,Chicago Justice,11.008,6.8,108
+2315,2328,Power Rangers,['US'],en,Power Rangers,22.524,6.8,494
+2316,87393,RUN,['US'],en,RUN,12.018,6.8,139
+2317,60611,Believe,['US'],en,Believe,14.658,6.8,127
+2318,9045,The Stand,['US'],en,The Stand,20.621,6.8,345
+2319,102281,Lenox Hill,['US'],en,Lenox Hill,6.991,6.8,106
+2320,30957,The Amazing Race,['US'],en,The Amazing Race,20.458,6.8,104
+2321,12925,The Addams Family,['US'],en,The Addams Family,16.983,6.8,109
+2322,33240,Battlestar Galactica: Blood & Chrome,"['US', 'CA']",en,Battlestar Galactica: Blood & Chrome,7.346,6.7,111
+2323,51704,Defiance,['US'],en,Defiance,24.066,6.7,379
+2324,62417,Emerald City,['US'],en,Emerald City,16.214,6.7,147
+2325,45094,The Following,['US'],en,The Following,22.318,6.7,367
+2326,2685,Family Matters,['US'],en,Family Matters,23.542,6.7,182
+2327,103445,Ju-On: Origins,['JP'],ja,呪怨：呪いの家,27.613,6.7,141
+2328,1054,The Young and the Restless,['US'],en,The Young and the Restless,19.082,6.7,106
+2329,60972,Tyrant,['US'],en,Tyrant,17.97,6.7,121
+2330,1412,Arrow,['US'],en,Arrow,144.797,6.7,5068
+2331,44652,Last Resort,['US'],en,Last Resort,12.091,6.7,120
+2332,60741,Ascension,"['CA', 'US']",en,Ascension,11.19,6.7,215
+2333,32754,Terra Nova,['US'],en,Terra Nova,18.65,6.7,567
+2334,58811,Helix,"['US', 'CA']",en,Helix,18.039,6.7,329
+2335,97,The Drew Carey Show,['US'],en,The Drew Carey Show,15.852,6.7,101
+2336,60802,The Last Ship,['US'],en,The Last Ship,37.977,6.7,730
+2337,19654,Rose Red,['US'],en,Rose Red,13.222,6.7,303
+2338,5885,The Colour of Magic,['GB'],en,The Colour of Magic,14.711,6.7,122
+2339,1417,Glee,['US'],en,Glee,59.51,6.7,553
+2340,62704,Ballers,['US'],en,Ballers,38.532,6.7,627
+2341,4576,Just Shoot Me!,['US'],en,Just Shoot Me!,16.078,6.7,115
+2342,104505,Futbolistas por el mundo,['ES'],es,Futbolistas por el mundo,4.435,6.7,121
+2343,95670,Medical Police,['US'],en,Medical Police,9.07,6.7,102
+2344,63329,Rosewood,['US'],en,Rosewood,24.665,6.7,119
+2345,62335,UnREAL,['US'],en,UnREAL,21.393,6.7,119
+2346,60855,Legends,['US'],en,Legends,14.81,6.7,106
+2347,81940,WHAT / IF,['US'],en,WHAT / IF,15.254,6.7,110
+2348,90259,The Third Day,['US'],en,The Third Day,23.864,6.7,131
+2349,12225,Peppa Pig,['GB'],en,Peppa Pig,138.475,6.7,630
+2350,65784,Slasher,['CA'],en,Slasher,35.721,6.7,214
+2351,62425,Dark Matter,['CA'],en,Dark Matter,16.92,6.7,633
+2352,39702,House of Lies,['US'],en,House of Lies,13.587,6.7,130
+2353,2567,Hercules,['US'],en,Hercules,20.595,6.6,242
+2354,63375,Bear Grylls: Escape From Hell,['GB'],en,Bear Grylls: Escape From Hell,5.765,6.6,395
+2355,3382,Charlie's Angels,['US'],en,Charlie's Angels,33.415,6.6,128
+2356,62517,Zoo,['US'],en,Zoo,36.408,6.6,436
+2357,60796,Stalker,['US'],en,Stalker,8.679,6.6,109
+2358,65227,The Path,['US'],en,The Path,10.972,6.6,110
+2359,64437,Outsiders,['US'],en,Outsiders,16.939,6.6,107
+2360,62127,Marvel's Iron Fist,['US'],en,Marvel's Iron Fist,20.75,6.6,1898
+2361,12753,Rosa Salvaje,['MX'],es,Rosa Salvaje,9.229,6.6,128
+2362,32709,Mike & Molly,['US'],en,Mike & Molly,22.343,6.6,177
+2363,103759,Betaal,['IN'],hi,Betaal,9.958,6.6,153
+2364,3518,Dennis the Menace,['US'],en,Dennis the Menace,27.889,6.6,195
+2365,85922,Space Force,['US'],en,Space Force,17.501,6.6,371
+2366,4656,WWE Raw,['US'],en,WWE Raw,36.337,6.6,253
+2367,93289,Brave New World,['US'],en,Brave New World,12.548,6.6,105
+2368,39510,Touch,['US'],en,Touch,14.6,6.6,205
+2369,2046,Alias,['US'],en,Alias,6.594,6.6,477
+2370,4550,7th Heaven,['US'],en,7th Heaven,13.307,6.6,137
+2371,33466,Alice,['CA'],en,Alice,9.367,6.6,101
+2372,39336,The River,['US'],en,The River,9.026,6.6,218
+2373,61463,The Affair,['US'],en,The Affair,18.471,6.6,281
+2374,68006,Taken,['US'],en,Taken,27.852,6.6,182
+2375,90811,Avenue 5,['US'],en,Avenue 5,13.729,6.6,201
+2376,71887,Marlon,['US'],en,Marlon,12.327,6.6,106
+2377,98036,Box 21,['SE'],sv,Box 21,5.091,6.6,157
+2378,50628,Intelligence,['US'],en,Intelligence,11.823,6.6,158
+2379,96815,"Sex, Explained",['US'],en,"Sex, Explained",50.439,6.6,1836
+2380,47119,Cleopatra,[],en,Cleopatra,11.877,6.5,153
+2381,62919,Containment,['US'],en,Containment,17.531,6.5,132
+2382,100444,Adult Material,['GB'],en,Adult Material,10.808,6.5,224
+2383,62816,Quantico,['US'],en,Quantico,27.323,6.5,509
+2384,1739,According to Jim,['US'],en,According to Jim,30.639,6.5,207
+2385,1480,Ally McBeal,['US'],en,Ally McBeal,8.047,6.5,196
+2386,70513,Salvation,['US'],en,Salvation,27.107,6.5,293
+2387,63770,The Late Show with Stephen Colbert,['US'],en,The Late Show with Stephen Colbert,165.221,6.5,162
+2388,44549,Nashville,['US'],en,Nashville,23.287,6.5,184
+2389,67129,APB,['US'],en,APB,20.418,6.5,132
+2390,1795,Jackass,['US'],en,Jackass,24.68,6.5,156
+2391,60685,Dominion,['US'],en,Dominion,38.997,6.5,203
+2392,110290,Mums Make Porn,[],es,Mums Make Porn,5.473,6.5,844
+2393,3461,Dharma & Greg,['US'],en,Dharma & Greg,11.382,6.5,166
+2394,71693,Blood Drive,['US'],en,Blood Drive,10.023,6.4,113
+2395,61406,Transparent,['US'],en,Transparent,14.612,6.4,110
+2396,500,Mad About You,['US'],en,Mad About You,19.624,6.4,141
+2397,76796,Collateral,['GB'],en,Collateral,14.274,6.4,100
+2398,498,Late Show with David Letterman,['US'],en,Late Show with David Letterman,27.015,6.4,104
+2399,66939,Gypsy,['US'],en,Gypsy,15.807,6.4,105
+2400,18197,The Langoliers,['US'],en,The Langoliers,13.091,6.4,434
+2401,1466,Joey,['US'],en,Joey,25.62,6.4,221
+2402,60864,The Messengers,['US'],en,The Messengers,6.35,6.4,103
+2403,19997,The Andromeda Strain,[],en,The Andromeda Strain,14.359,6.4,168
+2404,50558,Crisis,['US'],en,Crisis,11.256,6.4,104
+2405,19699,King Solomon's Mines,['US'],en,King Solomon's Mines,14.931,6.4,114
+2406,2224,The Daily Show with Trevor Noah,['US'],en,The Daily Show with Trevor Noah,260.875,6.4,392
+2407,93533,Thieves of the Wood,['BE'],nl,De Bende van Jan de Lichte,12.361,6.4,167
+2408,68295,Ben 10,['US'],en,Ben 10,44.327,6.4,147
+2409,61967,Wet Hot American Summer: First Day of Camp,['US'],en,Wet Hot American Summer: First Day of Camp,8.401,6.4,132
+2410,1410,Revolution,['US'],en,Revolution,9.191,6.4,405
+2411,70767,Dear White People,['US'],en,Dear White People,13.654,6.4,118
+2412,18614,Hung,['US'],en,Hung,17.43,6.3,105
+2413,40137,Assassin's Creed: Lineage,['FR'],en,Assassin's Creed: Lineage,13.214,6.3,103
+2414,1823,The Love Boat,['US'],en,The Love Boat,54.923,6.3,110
+2415,58111,Extant,['US'],en,Extant,15.787,6.3,249
+2416,18202,Cougar Town,['US'],en,Cougar Town,25.989,6.3,151
+2417,1867,The Shining,['US'],en,The Shining,11.5,6.3,257
+2418,60626,From Dusk Till Dawn: The Series,['US'],en,From Dusk Till Dawn: The Series,27.845,6.3,246
+2419,32730,The Event,['US'],en,The Event,8.728,6.3,158
+2420,68716,Marvel's Inhumans,['US'],en,Marvel's Inhumans,61.364,6.3,494
+2421,35339,Alcatraz,['US'],en,Alcatraz,14.584,6.3,194
+2422,9026,The Triangle,['US'],en,The Triangle,14.447,6.3,118
+2423,40,Dallas,['US'],en,Dallas,36.823,6.3,123
+2424,68315,The Mist,['US'],en,The Mist,55.328,6.2,573
+2425,68001,Powerless,['US'],en,Powerless,9.712,6.2,119
+2426,67684,Incorporated,['US'],en,Incorporated,12.517,6.2,104
+2427,42878,Anger Management,['US'],en,Anger Management,23.845,6.2,171
+2428,73536,Dinotopia,['US'],en,Dinotopia,13.575,6.2,114
+2429,86951,Leaving Neverland,['US'],en,Leaving Neverland,9.953,6.2,135
+2430,33958,Camelot,"['CA', 'US', 'GB']",en,Camelot,30.494,6.2,104
+2431,881,Days of Our Lives,['US'],en,Days of Our Lives,110.823,6.2,100
+2432,4626,Ugly Betty,['US'],en,Ugly Betty,22.951,6.2,151
+2433,66789,24: Legacy,['US'],en,24: Legacy,14.612,6.2,171
+2434,79130,Another Life,['US'],en,Another Life,66.634,6.2,225
+2435,42282,Girls,['US'],en,Girls,22.892,6.1,274
+2436,44857,The Mindy Project,['US'],en,The Mindy Project,16.443,6.1,120
+2437,67726,Beyond,['US'],en,Beyond,11.405,6.1,108
+2438,43720,Neverland,['US'],en,Neverland,11.556,6.1,171
+2439,79,Dora the Explorer,['US'],en,Dora the Explorer,67.162,6.1,206
+2440,4419,Real Time with Bill Maher,['US'],en,Real Time with Bill Maher,49.308,6.1,148
+2441,63175,Minority Report,['US'],en,Minority Report,13.19,6.0,133
+2442,59941,The Tonight Show Starring Jimmy Fallon,['US'],en,The Tonight Show Starring Jimmy Fallon,529.368,6.0,184
+2443,39758,Bag of Bones,['US'],en,Bag of Bones,11.814,6.0,120
+2444,562,The Ellen DeGeneres Show,['US'],en,The Ellen DeGeneres Show,21.501,5.9,121
+2445,61811,CSI: Cyber,['US'],en,CSI: Cyber,18.498,5.9,163
+2446,6647,The Bold and the Beautiful,['US'],en,The Bold and the Beautiful,270.256,5.8,100
+2447,15632,The Cleveland Show,['US'],en,The Cleveland Show,31.978,5.8,287
+2448,71641,4 Blocks,['DE'],de,4 Blocks,14.063,5.7,102
+2449,4386,Baywatch,['US'],en,Baywatch,65.002,5.7,288
+2450,90755,The I-Land,['US'],en,The I-Land,13.336,5.7,158
+2451,65813,Rosemary's Baby,['US'],en,Rosemary's Baby,8.669,5.7,109
+2452,37678,The Voice,"['NL', 'US']",en,The Voice,32.895,5.7,153
+2453,19531,Salem's Lot,['US'],en,Salem's Lot,10.447,5.7,124
+2454,1489,Jimmy Kimmel Live!,['US'],en,Jimmy Kimmel Live!,70.757,5.7,103
+2455,1769,Johnny Test,"['CA', 'US']",en,Johnny Test,23.25,5.6,114
+2456,67132,Kevin Can Wait,['US'],en,Kevin Can Wait,9.246,5.6,118
+2457,4551,America's Got Talent,['US'],en,America's Got Talent,41.323,5.6,210
+2458,987,General Hospital,['US'],en,General Hospital,285.262,5.6,182
+2459,5917,90210,['US'],en,90210,28.44,5.6,129
